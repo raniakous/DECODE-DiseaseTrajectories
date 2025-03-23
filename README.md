@@ -63,6 +63,8 @@ Using the significant pairs from the previous stage:
 - Construct trajectories of varying lengths (typically length 3 and 4)
 - Filter out trajectories with repeated diseases
 
+![flow chart](flowchart.jpg)
+
 ### 3. Network-Based Clustering
 
 Group similar trajectories together using network-based similarity:
