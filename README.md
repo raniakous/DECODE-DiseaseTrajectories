@@ -54,12 +54,12 @@ The package implements a complete workflow for disease trajectory analysis:
 
 This stage identifies statistically significant pairs of diseases that occur together more frequently than expected by chance:
 
-1. Process patient-level disease occurrence data
-2. Identify patients with common conditions
-3. Perform Fisher's exact test to identify significant disease pairs
-4. Apply Bonferroni correction to control for multiple testing
-5. Determine directionality using binomial test
-6. Output significant disease pairs with temporal direction
+- Process patient-level disease occurrence data
+- Identify patients with common diseases
+- Perform Fisher's exact test to identify significant disease pairs
+- Apply Bonferroni correction to control for multiple testing
+- Determine directionality using binomial test
+- Output significant disease pairs with temporal direction
 
 ![disease pairs](pairs.png)
 
@@ -67,20 +67,19 @@ This stage identifies statistically significant pairs of diseases that occur tog
 
 Using the significant pairs from the previous stage:
 
-1. Connect disease pairs to form trajectories
-2. Construct trajectories of varying lengths (typically length 3 and 4)
-3. Ensure all connections within trajectories are statistically significant
-4. Filter out trajectories with repeated conditions
+- Connect disease pairs to form trajectories
+- Construct trajectories of varying lengths (typically length 3 and 4)
+- Filter out trajectories with repeated diseases
 
 ### 3. Network-Based Clustering
 
 Group similar trajectories together using network-based similarity:
 
-1. Construct a network graph from trajectories
-2. Calculate similarity between diseases using shortest path distances
-3. Generate similarity matrices between trajectories
-4. Determine optimal number of clusters using silhouette scores
-5. Perform spectral clustering to identify trajectory clusters
+- Construct a network graph from trajectories
+- Calculate similarity between diseases using shortest path distances
+- Generate similarity matrices between trajectories
+- Determine optimal number of clusters
+- Perform spectral clustering to identify trajectory clusters
 
 
 ![trajectory clusters1](males.png)
@@ -90,9 +89,11 @@ Group similar trajectories together using network-based similarity:
 
 Several visualization methods are available:
 
-1. Disease pairs (coloured by system category, e.g., circulatory system)
-2. Cluster-specific network visualizations
-3. Interactive network graphs of disease relationships
+- Disease pair networks (coloured by body system)
+- Cluster-specific network visualizations
+- Interactive network graphs of disease relationships
+
+Users can customize the visualizations by modifying the `utils.py` file to define their own system categories and colors. The file contains mappings between diseases and body systems (`system_mapping`) and system colors (`systems_colors`) that can be adjusted to suit specific research needs or to match institutional color schemes.
 
 ## Usage Example
 
