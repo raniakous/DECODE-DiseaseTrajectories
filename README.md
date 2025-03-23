@@ -2,7 +2,7 @@
 
 ## Overview
 
-DECODE-DiseaseTrajectories is a Python package that provides a framework to analyse temporal associations between diseases and disease trajectories from Electronic Health Records. It identifies statistically significant disease pairs and determines their temporal directionality through statistical testing. The package then constructs disease trajectories by connecting these significant pairs in sequence and employs a shortest-path graph-based clustering method to group similar disease patterns. 
+DECODE-DiseaseTrajectories is a Python package that provides a framework to analyse temporal associations between disease pairs and disease trajectories from Electronic Health Records. It identifies statistically significant disease pairs and determines their temporal directionality through statistical testing. The package then constructs disease trajectories by connecting these significant pairs in sequence and employs a shortest-path graph-based clustering method to group similar disease patterns. 
 
 The methodology was presented in the article *"Temporal Patterns of Multiple Long-Term Conditions in Welsh Individuals with Intellectual Disabilities: An Unsupervised Clustering Approach to Disease Trajectories"*. This repository also provides code to reproduce the experiments and visualisations there. If you use this code, please cite the paper:
 
@@ -90,7 +90,7 @@ Group similar trajectories together using network-based similarity:
 
 Several visualization methods are available:
 
-1. Disease pair networks (coloured by body system)
+1. Disease pairs (coloured by system category, e.g., circulatory system)
 2. Cluster-specific network visualizations
 3. Interactive network graphs of disease relationships
 
@@ -134,16 +134,16 @@ shortest_path_obj.cluster_network_plot(
 The package expects longitudinal patient data with the following columns:
 
 - `patient_id`: Unique identifier for each patient
-- `date`: Date of disease/condition diagnosis (YYYY-MM-DD format)
-- `disease`: Name of the disease/condition
+- `date`: Date of diagnosis (YYYY-MM-DD format)
+- `disease`: Name of the disease
 
 ## Output Data
 
 The analysis produces:
 
 - `final_pairs_df`: DataFrame of significant disease pairs with directionality
-- `trajectories_df_length_3`: DataFrame of three-condition trajectories
-- `trajectories_df_length_4`: DataFrame of four-condition trajectories (if available)
+- `trajectories_df_length_3`: DataFrame of three-disease trajectories
+- `trajectories_df_length_4`: DataFrame of four-disease trajectories (if available)
 - Cluster assignments for each trajectory
 
 ## License
