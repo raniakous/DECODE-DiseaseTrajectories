@@ -2,12 +2,22 @@
 
 ## Overview
 
-DECODE-DiseaseTrajectories is a Python package that analyses temporal relationships between disease conditions. It identifies statistically significant disease pairs and determines their temporal directionality through statistical testing. The package then constructs disease trajectories by connecting these significant pairs in sequence and employs a shortest-path graph-based clustering method to group similar disease progression patterns.
+DECODE-DiseaseTrajectories is a Python package that provides a framework to analyse temporal associations between diseases and disease trajectories from Electronic Health Records. It identifies statistically significant disease pairs and determines their temporal directionality through statistical testing. The package then constructs disease trajectories by connecting these significant pairs in sequence and employs a shortest-path graph-based clustering method to group similar disease patterns. 
 
-This methodology enables researchers to:
-- Discover common pathways of disease development
-- Visualise condition networks by system category
-- Identify clinically meaningful clusters that could inform preventive strategies or treatment approaches
+The methodology was presented in the article *"Temporal Patterns of Multiple Long-Term Conditions in Welsh Individuals with Intellectual Disabilities: An Unsupervised Clustering Approach to Disease Trajectories"*. This repository also provides code to reproduce the experiments and visualisations there. If you use this code, please cite the paper:
+
+Kousovista, R., Cosma, G., Abakasanga, E., Akbari, A., Zaccardi, F., Jun, G. T., Kiani R. & Gangadharan, S. (2025). Temporal Patterns of Multiple Long-Term Conditions in Welsh Individuals with Intellectual Disabilities: An Unsupervised Clustering Approach to Disease Trajectories. *Frontiers in Digital Health*, 7, 1528882.
+
+```bibtex
+@article{kousovista2024temporal,
+  title={Temporal Patterns of Multiple Long-Term Conditions in Welsh Individuals with Intellectual Disabilities: An Unsupervised Clustering Approach to Disease Trajectories},
+  author={Kousovista, Rania and Cosma, Georgina and Abakasanga, Emmanuel and Akbari, Ashley and Zaccardi, Francesco and Jun, Gyuchan Thomas and Kiani, Reza and Gangadharan, Satheesh},
+  journal={Frontiers in Digital Health},
+  volume={7},
+  pages={1528882},
+  year={2025}
+}
+```
 
 ## Installation
 
@@ -71,8 +81,8 @@ Group similar trajectories together using network-based similarity:
 3. Generate similarity matrices between trajectories
 4. Determine optimal number of clusters using silhouette scores
 5. Perform spectral clustering to identify trajectory clusters
-![trajectory clusters1](males.pdf)
-![trajectory clusters2](females.pdf)
+![trajectory clusters1](males.png)
+![trajectory clusters2](females.png)
 
 ### 4. Visualization
 
