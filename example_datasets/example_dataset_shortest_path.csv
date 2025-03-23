@@ -1,0 +1,31 @@
+Traj ID,Condition 1,Condition 2,Condition 3
+0,chronic kidney disease,chronic pain conditions,osteoporosis
+1,diabetes,anaemia,chronic pneumonia
+2,reflux disorders,addisons disease,neuropathic pain
+3,reflux disorders,psoriasis,chronic pneumonia
+4,hypertension,menopausal and perimenopausal,heart failure
+5,cirrhosis,reflux disorders,dementia
+6,reflux disorders,psoriasis,mental illness
+7,chronic pain conditions,bronchiectasis,chronic diarrhoea
+8,neuropathic pain,heart failure,multiple sclerosis
+9,interstitial lung disease,menopausal and perimenopausal,dementia
+10,chronic pneumonia,coronary heart disease,diabetes
+11,menopausal and perimenopausal,chronic arthritis,dementia
+12,barretts oesophagus,dysphagia,mental illness
+13,chronic constipation,addisons disease,diabetes
+14,chronic pain conditions,chronic kidney disease,cirrhosis
+15,chronic arthritis,psoriasis,thyroid disorders
+16,epilepsy,cirrhosis,neuropathic pain
+17,visual impairment,chronic kidney disease,epilepsy
+18,dementia,bronchiectasis,visual impairment
+19,coronary heart disease,hearing loss,stroke
+20,chronic constipation,dysphagia,coronary heart disease
+21,hypertension,anaemia,cerebral palsy
+22,chronic airway diseases,psoriasis,chronic arthritis
+23,inflammatory bowel disease,mental illness,dementia
+24,hypertension,coronary heart disease,heart failure
+25,mental illness,inflammatory bowel disease,chronic kidney disease
+26,chronic airway diseases,epilepsy,diabetes
+27,coronary heart disease,psoriasis,bronchiectasis
+28,anaemia,interstitial lung disease,dysphagia
+29,barretts oesophagus,anaemia,psoriasis

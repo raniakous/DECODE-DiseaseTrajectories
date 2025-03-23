@@ -1,0 +1,5001 @@
+patient_id,date,disease
+P0001,2016-01-23,visual impairment
+P0001,2016-02-27,addisons disease
+P0001,2017-08-04,insomnia
+P0001,2018-04-24,peripheral vascular disease
+P0001,2019-05-04,hypertension
+P0001,2019-06-02,visual impairment
+P0001,2020-01-02,menopausal and perimenopausal
+P0001,2020-12-03,diabetes
+P0001,2021-05-13,multiple sclerosis
+P0001,2022-08-15,dementia
+P0001,2023-03-24,polycystic ovary syndrome
+P0001,2023-08-31,addisons disease
+P0002,2015-04-10,chronic kidney disease
+P0002,2016-04-10,bronchiectasis
+P0002,2016-09-18,mental illness
+P0002,2017-02-04,cerebral palsy
+P0002,2019-01-14,polycystic ovary syndrome
+P0002,2019-07-15,cerebral palsy
+P0002,2019-12-15,interstitial lung disease
+P0002,2021-06-22,interstitial lung disease
+P0002,2021-07-21,cancer
+P0002,2022-12-20,mental illness
+P0005,2015-07-20,tourette
+P0005,2018-06-10,dementia
+P0005,2019-03-27,osteoporosis
+P0005,2019-04-09,heart failure
+P0005,2020-04-28,thyroid disorders
+P0005,2022-01-14,chronic pneumonia
+P0005,2022-09-16,barretts oesophagus
+P0005,2023-02-13,dysphagia
+P0007,2015-01-10,hypertension
+P0007,2016-01-20,chronic kidney disease
+P0007,2016-10-24,interstitial lung disease
+P0007,2017-12-31,cancer
+P0007,2019-07-14,psoriasis
+P0007,2020-04-21,cerebral palsy
+P0007,2020-05-03,chronic arthritis
+P0007,2021-09-08,cirrhosis
+P0007,2021-11-22,hearing loss
+P0007,2024-06-18,inflammatory bowel disease
+P0007,2024-07-17,reflux disorders
+P0008,2015-01-28,insomnia
+P0008,2017-03-05,chronic constipation
+P0008,2017-03-07,bronchiectasis
+P0008,2017-09-02,visual impairment
+P0008,2018-05-03,hearing loss
+P0008,2021-09-24,polycystic ovary syndrome
+P0008,2021-12-10,addisons disease
+P0008,2023-08-18,coronary heart disease
+P0008,2024-01-20,menopausal and perimenopausal
+P0008,2024-02-14,chronic constipation
+P0008,2024-10-03,hearing loss
+P0008,2024-11-07,neuropathic pain
+P0009,2015-08-01,anaemia
+P0009,2015-08-11,hearing loss
+P0009,2015-08-21,chronic kidney disease
+P0009,2016-08-15,peripheral vascular disease
+P0009,2018-10-30,tourette
+P0009,2019-10-29,inflammatory bowel disease
+P0009,2020-02-28,epilepsy
+P0009,2021-12-09,parkinsons
+P0009,2023-02-27,reflux disorders
+P0009,2023-03-01,coronary heart disease
+P0013,2021-06-24,peripheral vascular disease
+P0013,2024-01-15,visual impairment
+P0014,2016-07-21,coronary heart disease
+P0014,2020-01-05,diabetes
+P0014,2021-04-04,cancer
+P0014,2023-05-28,visual impairment
+P0015,2020-09-24,dementia
+P0015,2021-05-13,diabetes
+P0015,2021-11-19,peripheral vascular disease
+P0017,2017-06-12,thyroid disorders
+P0017,2019-06-02,hearing loss
+P0017,2020-02-29,multiple sclerosis
+P0017,2020-05-20,thyroid disorders
+P0017,2021-01-19,chronic diarrhoea
+P0017,2021-03-27,chronic airway diseases
+P0017,2021-07-29,chronic pneumonia
+P0017,2023-09-16,chronic arthritis
+P0017,2024-10-01,dysphagia
+P0018,2017-07-30,cardiac arrhythmias
+P0018,2021-10-06,chronic kidney disease
+P0018,2023-06-18,cerebral palsy
+P0019,2021-04-09,menopausal and perimenopausal
+P0019,2024-09-27,interstitial lung disease
+P0020,2019-01-22,cerebral palsy
+P0020,2020-12-11,tourette
+P0020,2023-08-22,barretts oesophagus
+P0021,2015-04-08,hypertension
+P0021,2016-02-03,addisons disease
+P0021,2016-08-15,diabetes
+P0021,2017-05-05,anaemia
+P0021,2017-12-17,barretts oesophagus
+P0021,2018-04-21,cardiac arrhythmias
+P0021,2018-06-07,thyroid disorders
+P0021,2018-10-06,chronic diarrhoea
+P0021,2018-10-13,neuropathic pain
+P0021,2019-08-09,peripheral vascular disease
+P0021,2020-01-29,mental illness
+P0021,2022-12-22,multiple sclerosis
+P0021,2023-01-16,psoriasis
+P0021,2023-04-16,hearing loss
+P0021,2023-08-24,chronic pain conditions
+P0022,2016-03-25,chronic pain conditions
+P0022,2017-05-29,hearing loss
+P0022,2017-11-05,cancer
+P0022,2018-04-06,thyroid disorders
+P0022,2019-07-24,cerebral palsy
+P0022,2021-04-28,coronary heart disease
+P0022,2021-06-14,chronic pneumonia
+P0022,2021-06-26,bronchiectasis
+P0022,2022-05-23,stroke
+P0022,2023-12-30,chronic kidney disease
+P0024,2023-02-24,chronic pneumonia
+P0024,2023-10-13,chronic constipation
+P0025,2017-05-24,anaemia
+P0025,2018-02-04,hypertension
+P0025,2018-08-19,thyroid disorders
+P0025,2018-12-23,dementia
+P0025,2023-01-26,epilepsy
+P0026,2015-09-16,chronic pain conditions
+P0026,2017-03-16,visual impairment
+P0026,2017-09-29,chronic constipation
+P0026,2021-04-18,parkinsons
+P0026,2021-11-06,dysphagia
+P0026,2023-07-20,addisons disease
+P0026,2023-09-27,psoriasis
+P0026,2024-10-02,parkinsons
+P0027,2015-03-26,cancer
+P0027,2021-03-27,chronic airway diseases
+P0027,2024-01-06,coronary heart disease
+P0028,2015-12-24,peripheral vascular disease
+P0028,2017-09-18,chronic pneumonia
+P0028,2018-02-24,visual impairment
+P0028,2021-01-13,psoriasis
+P0030,2021-04-13,parkinsons
+P0030,2021-08-01,chronic pain conditions
+P0030,2022-12-13,inflammatory bowel disease
+P0031,2018-11-10,tourette
+P0031,2020-04-04,addisons disease
+P0031,2020-05-02,hypertension
+P0031,2020-07-13,insomnia
+P0031,2020-07-26,cerebral palsy
+P0031,2023-08-09,diabetes
+P0032,2015-08-12,chronic diarrhoea
+P0032,2016-02-05,stroke
+P0032,2016-04-26,addisons disease
+P0032,2016-06-04,cardiac arrhythmias
+P0032,2016-12-02,coronary heart disease
+P0032,2017-09-23,visual impairment
+P0032,2018-08-31,osteoporosis
+P0032,2018-11-10,chronic diarrhoea
+P0032,2019-07-06,chronic pneumonia
+P0032,2023-01-07,polycystic ovary syndrome
+P0034,2016-06-07,chronic arthritis
+P0034,2019-04-06,cardiac arrhythmias
+P0034,2021-12-23,inflammatory bowel disease
+P0034,2023-02-21,hearing loss
+P0034,2024-01-09,psoriasis
+P0035,2017-02-15,parkinsons
+P0035,2020-03-29,heart failure
+P0035,2020-05-01,chronic arthritis
+P0035,2021-08-05,psoriasis
+P0036,2016-04-30,insomnia
+P0036,2022-08-09,addisons disease
+P0037,2016-06-05,diabetes
+P0037,2016-08-07,polycystic ovary syndrome
+P0037,2018-08-03,bronchiectasis
+P0037,2020-07-13,psoriasis
+P0037,2022-08-17,cardiac arrhythmias
+P0038,2015-09-19,chronic constipation
+P0038,2017-10-13,chronic pneumonia
+P0038,2018-08-31,epilepsy
+P0038,2019-07-09,cardiac arrhythmias
+P0038,2020-10-15,diabetes
+P0038,2022-10-17,interstitial lung disease
+P0038,2024-06-25,hearing loss
+P0039,2015-07-04,epilepsy
+P0039,2016-10-16,diabetes
+P0039,2023-11-08,cardiac arrhythmias
+P0040,2015-03-28,cardiac arrhythmias
+P0040,2015-08-07,stroke
+P0040,2016-12-06,dementia
+P0040,2017-04-19,stroke
+P0040,2018-02-21,barretts oesophagus
+P0040,2018-10-20,parkinsons
+P0040,2018-11-15,anaemia
+P0040,2018-12-15,diabetes
+P0040,2018-12-27,reflux disorders
+P0040,2019-10-22,chronic airway diseases
+P0040,2020-07-22,heart failure
+P0040,2020-09-04,menopausal and perimenopausal
+P0040,2020-12-15,interstitial lung disease
+P0040,2021-07-18,insomnia
+P0040,2021-10-09,parkinsons
+P0040,2022-07-14,addisons disease
+P0040,2022-09-09,stroke
+P0040,2022-12-25,tourette
+P0040,2023-01-03,stroke
+P0040,2023-07-27,chronic airway diseases
+P0040,2023-08-31,psoriasis
+P0040,2024-07-06,visual impairment
+P0040,2024-09-08,hypertension
+P0040,2024-12-08,coronary heart disease
+P0040,2024-12-22,barretts oesophagus
+P0043,2016-01-07,anaemia
+P0043,2017-11-25,polycystic ovary syndrome
+P0043,2023-05-10,chronic airway diseases
+P0043,2023-07-27,cerebral palsy
+P0043,2024-10-01,chronic constipation
+P0045,2015-10-31,reflux disorders
+P0045,2018-02-17,chronic pneumonia
+P0046,2015-02-10,addisons disease
+P0046,2015-04-19,bronchiectasis
+P0046,2016-03-04,osteoporosis
+P0046,2016-04-15,chronic pain conditions
+P0046,2018-10-31,barretts oesophagus
+P0046,2021-08-22,multiple sclerosis
+P0046,2024-04-25,diabetes
+P0047,2017-02-12,polycystic ovary syndrome
+P0047,2021-03-29,menopausal and perimenopausal
+P0048,2015-04-15,chronic pain conditions
+P0048,2015-07-19,multiple sclerosis
+P0048,2016-01-13,parkinsons
+P0048,2016-07-24,menopausal and perimenopausal
+P0048,2016-09-06,peripheral vascular disease
+P0048,2017-01-24,dysphagia
+P0048,2017-09-12,stroke
+P0048,2018-12-08,insomnia
+P0048,2019-02-14,chronic kidney disease
+P0048,2023-04-09,cancer
+P0048,2024-03-12,thyroid disorders
+P0051,2019-07-30,inflammatory bowel disease
+P0051,2019-12-21,chronic constipation
+P0051,2020-08-29,addisons disease
+P0051,2020-08-31,dysphagia
+P0051,2021-06-04,mental illness
+P0051,2021-08-18,diabetes
+P0051,2021-10-14,cancer
+P0051,2023-01-07,chronic diarrhoea
+P0051,2023-07-22,tourette
+P0051,2023-12-04,thyroid disorders
+P0051,2024-04-03,parkinsons
+P0052,2015-01-09,chronic constipation
+P0052,2016-09-26,stroke
+P0052,2018-05-14,stroke
+P0052,2023-12-29,psoriasis
+P0052,2024-08-01,chronic pain conditions
+P0052,2024-08-24,reflux disorders
+P0053,2015-04-22,insomnia
+P0053,2018-06-12,chronic kidney disease
+P0053,2021-04-30,cancer
+P0053,2021-08-08,mental illness
+P0054,2016-09-30,visual impairment
+P0054,2017-09-02,chronic pneumonia
+P0054,2017-09-18,anaemia
+P0054,2018-02-16,parkinsons
+P0054,2019-07-21,mental illness
+P0054,2020-05-08,chronic kidney disease
+P0055,2020-08-31,cancer
+P0055,2023-04-05,chronic constipation
+P0056,2017-06-15,peripheral vascular disease
+P0056,2017-07-13,insomnia
+P0056,2018-06-26,osteoporosis
+P0056,2019-04-10,heart failure
+P0056,2020-05-18,epilepsy
+P0056,2020-10-15,osteoporosis
+P0056,2022-07-18,menopausal and perimenopausal
+P0056,2023-06-29,parkinsons
+P0056,2023-12-14,psoriasis
+P0056,2024-07-02,chronic constipation
+P0057,2016-11-10,cerebral palsy
+P0057,2017-11-29,parkinsons
+P0057,2020-11-26,dementia
+P0057,2021-08-10,peripheral vascular disease
+P0057,2023-07-21,addisons disease
+P0057,2024-03-27,barretts oesophagus
+P0057,2024-07-14,polycystic ovary syndrome
+P0058,2015-03-16,psoriasis
+P0058,2015-03-27,chronic pain conditions
+P0058,2015-04-10,insomnia
+P0058,2015-07-22,polycystic ovary syndrome
+P0058,2015-10-02,mental illness
+P0058,2015-12-30,osteoporosis
+P0058,2016-05-28,reflux disorders
+P0058,2018-05-14,stroke
+P0058,2018-05-15,cerebral palsy
+P0058,2019-02-27,hearing loss
+P0058,2019-12-21,neuropathic pain
+P0058,2019-12-28,heart failure
+P0058,2021-08-22,anaemia
+P0058,2021-11-23,psoriasis
+P0058,2022-02-25,thyroid disorders
+P0058,2022-07-27,visual impairment
+P0058,2022-09-29,multiple sclerosis
+P0058,2024-01-23,dysphagia
+P0060,2015-02-23,peripheral vascular disease
+P0060,2017-07-10,thyroid disorders
+P0060,2017-10-09,diabetes
+P0060,2019-07-03,menopausal and perimenopausal
+P0060,2020-01-27,dementia
+P0060,2020-03-16,stroke
+P0060,2022-09-01,coronary heart disease
+P0060,2023-06-18,cardiac arrhythmias
+P0062,2015-09-02,cardiac arrhythmias
+P0062,2019-12-11,cancer
+P0062,2022-09-28,chronic pneumonia
+P0062,2023-05-28,coronary heart disease
+P0063,2015-06-24,chronic kidney disease
+P0063,2016-11-14,hearing loss
+P0063,2017-03-20,cirrhosis
+P0063,2017-06-29,menopausal and perimenopausal
+P0063,2019-05-06,mental illness
+P0063,2020-01-31,diabetes
+P0063,2023-03-23,heart failure
+P0063,2023-11-26,cancer
+P0064,2015-03-07,tourette
+P0064,2016-10-01,inflammatory bowel disease
+P0064,2016-12-19,interstitial lung disease
+P0064,2017-09-30,cancer
+P0064,2017-10-27,dementia
+P0064,2017-11-09,hypertension
+P0064,2018-08-02,cardiac arrhythmias
+P0064,2018-10-27,polycystic ovary syndrome
+P0064,2018-11-25,menopausal and perimenopausal
+P0064,2019-03-11,dysphagia
+P0064,2022-07-02,mental illness
+P0064,2024-01-26,reflux disorders
+P0064,2024-04-14,chronic kidney disease
+P0064,2024-05-29,chronic airway diseases
+P0064,2024-06-23,addisons disease
+P0065,2015-03-27,cerebral palsy
+P0065,2016-05-10,osteoporosis
+P0065,2017-02-26,inflammatory bowel disease
+P0065,2018-05-13,bronchiectasis
+P0065,2019-11-30,epilepsy
+P0065,2020-08-11,peripheral vascular disease
+P0065,2022-08-01,barretts oesophagus
+P0065,2022-10-22,chronic constipation
+P0065,2023-01-31,visual impairment
+P0066,2016-02-06,coronary heart disease
+P0066,2016-06-27,heart failure
+P0066,2017-05-19,cardiac arrhythmias
+P0066,2019-05-16,cerebral palsy
+P0066,2019-11-09,insomnia
+P0066,2022-09-29,parkinsons
+P0066,2022-10-08,visual impairment
+P0066,2023-12-13,diabetes
+P0066,2024-07-21,hearing loss
+P0067,2016-10-04,coronary heart disease
+P0067,2020-12-07,chronic airway diseases
+P0067,2024-02-23,psoriasis
+P0071,2015-07-14,mental illness
+P0071,2015-10-29,addisons disease
+P0071,2017-05-03,diabetes
+P0071,2017-05-11,heart failure
+P0071,2017-05-18,chronic pain conditions
+P0071,2017-09-12,epilepsy
+P0071,2017-10-30,interstitial lung disease
+P0071,2018-06-12,diabetes
+P0071,2018-06-14,epilepsy
+P0071,2018-06-25,stroke
+P0071,2020-06-20,neuropathic pain
+P0071,2020-08-02,cardiac arrhythmias
+P0071,2021-09-24,chronic kidney disease
+P0071,2022-02-06,cardiac arrhythmias
+P0071,2022-04-25,chronic kidney disease
+P0071,2022-10-25,psoriasis
+P0071,2024-01-15,chronic airway diseases
+P0071,2024-01-20,peripheral vascular disease
+P0072,2015-06-08,hearing loss
+P0072,2016-03-13,chronic airway diseases
+P0072,2017-05-08,cerebral palsy
+P0072,2019-07-13,parkinsons
+P0072,2020-08-04,hypertension
+P0074,2016-08-06,heart failure
+P0074,2023-05-10,bronchiectasis
+P0074,2024-01-22,thyroid disorders
+P0074,2024-07-25,insomnia
+P0075,2016-06-08,dementia
+P0075,2017-07-17,parkinsons
+P0075,2019-05-04,multiple sclerosis
+P0075,2021-08-05,epilepsy
+P0075,2022-05-21,mental illness
+P0076,2016-06-11,osteoporosis
+P0076,2016-08-22,stroke
+P0076,2017-09-11,epilepsy
+P0076,2018-03-31,stroke
+P0076,2019-01-31,epilepsy
+P0076,2019-12-11,diabetes
+P0076,2020-03-01,anaemia
+P0076,2020-09-17,chronic constipation
+P0076,2020-11-20,parkinsons
+P0076,2021-01-04,polycystic ovary syndrome
+P0076,2022-02-10,heart failure
+P0076,2022-10-11,chronic kidney disease
+P0076,2023-01-03,cancer
+P0076,2023-10-13,chronic pneumonia
+P0076,2023-12-11,insomnia
+P0076,2024-06-05,peripheral vascular disease
+P0076,2024-12-24,bronchiectasis
+P0077,2019-05-26,chronic pneumonia
+P0077,2022-12-07,anaemia
+P0077,2023-07-31,chronic constipation
+P0077,2024-06-26,peripheral vascular disease
+P0079,2018-01-13,cardiac arrhythmias
+P0079,2018-07-23,menopausal and perimenopausal
+P0079,2019-10-12,bronchiectasis
+P0079,2021-04-15,chronic kidney disease
+P0079,2024-09-03,diabetes
+P0080,2015-02-04,mental illness
+P0080,2020-03-19,addisons disease
+P0080,2021-04-27,parkinsons
+P0080,2024-10-14,chronic diarrhoea
+P0082,2015-07-20,tourette
+P0082,2017-10-23,visual impairment
+P0082,2018-02-08,addisons disease
+P0082,2022-06-26,peripheral vascular disease
+P0082,2022-07-24,anaemia
+P0082,2023-02-01,diabetes
+P0082,2023-11-30,mental illness
+P0082,2024-03-22,cirrhosis
+P0082,2024-05-14,dementia
+P0082,2024-10-24,insomnia
+P0083,2015-03-30,osteoporosis
+P0083,2016-05-07,coronary heart disease
+P0083,2017-01-29,psoriasis
+P0083,2020-09-14,parkinsons
+P0083,2020-10-10,cerebral palsy
+P0083,2022-03-27,chronic airway diseases
+P0083,2024-03-30,cerebral palsy
+P0084,2015-05-20,polycystic ovary syndrome
+P0084,2017-01-19,dementia
+P0084,2018-01-10,stroke
+P0084,2019-04-10,menopausal and perimenopausal
+P0084,2019-04-28,cardiac arrhythmias
+P0084,2019-07-12,psoriasis
+P0084,2020-02-18,addisons disease
+P0084,2021-06-16,heart failure
+P0084,2022-08-26,dysphagia
+P0084,2024-08-07,anaemia
+P0084,2024-12-09,polycystic ovary syndrome
+P0086,2015-06-13,peripheral vascular disease
+P0086,2016-12-13,neuropathic pain
+P0086,2018-03-24,polycystic ovary syndrome
+P0086,2021-02-03,hypertension
+P0086,2024-01-31,chronic diarrhoea
+P0086,2024-03-11,osteoporosis
+P0087,2015-04-18,multiple sclerosis
+P0087,2015-11-25,chronic pneumonia
+P0087,2016-01-30,inflammatory bowel disease
+P0087,2016-06-21,chronic constipation
+P0087,2021-10-24,heart failure
+P0087,2022-12-05,coronary heart disease
+P0088,2018-05-26,chronic kidney disease
+P0088,2020-11-04,diabetes
+P0088,2023-02-05,reflux disorders
+P0089,2015-11-26,psoriasis
+P0089,2016-05-14,chronic pain conditions
+P0089,2017-04-17,osteoporosis
+P0089,2018-08-10,chronic kidney disease
+P0089,2018-10-26,coronary heart disease
+P0089,2018-10-31,chronic pneumonia
+P0089,2018-12-01,parkinsons
+P0090,2015-10-03,diabetes
+P0090,2017-04-23,cirrhosis
+P0090,2017-05-15,chronic pain conditions
+P0090,2019-09-09,peripheral vascular disease
+P0090,2020-05-30,anaemia
+P0090,2021-06-28,insomnia
+P0090,2022-01-16,dementia
+P0090,2022-04-10,neuropathic pain
+P0090,2023-07-10,tourette
+P0090,2023-10-21,polycystic ovary syndrome
+P0090,2023-12-09,bronchiectasis
+P0090,2023-12-31,stroke
+P0090,2024-01-05,anaemia
+P0090,2024-07-27,cancer
+P0090,2024-08-06,bronchiectasis
+P0091,2015-07-14,reflux disorders
+P0091,2016-12-21,dysphagia
+P0091,2017-03-04,insomnia
+P0091,2020-02-12,hearing loss
+P0091,2022-01-28,neuropathic pain
+P0091,2024-11-06,cirrhosis
+P0092,2015-04-30,stroke
+P0092,2017-02-18,dementia
+P0092,2017-03-10,hearing loss
+P0092,2017-05-11,osteoporosis
+P0092,2017-09-01,insomnia
+P0092,2019-04-25,dementia
+P0092,2020-06-30,dysphagia
+P0092,2021-09-05,peripheral vascular disease
+P0092,2021-12-28,chronic constipation
+P0094,2018-05-08,chronic arthritis
+P0094,2021-02-28,chronic constipation
+P0094,2023-01-20,dementia
+P0094,2024-01-31,cirrhosis
+P0095,2018-02-20,anaemia
+P0095,2019-05-26,stroke
+P0095,2021-06-09,coronary heart disease
+P0095,2022-04-05,cirrhosis
+P0095,2022-04-05,chronic arthritis
+P0095,2022-08-04,hearing loss
+P0095,2023-01-23,chronic constipation
+P0099,2015-06-03,parkinsons
+P0099,2015-07-07,hearing loss
+P0099,2017-12-31,mental illness
+P0099,2019-10-28,chronic constipation
+P0099,2021-02-26,diabetes
+P0099,2022-02-15,insomnia
+P0099,2023-04-14,interstitial lung disease
+P0099,2023-10-28,barretts oesophagus
+P0099,2024-04-20,chronic pneumonia
+P0099,2024-12-25,chronic arthritis
+P0100,2015-01-20,psoriasis
+P0100,2015-03-13,anaemia
+P0100,2015-06-13,coronary heart disease
+P0100,2016-08-10,reflux disorders
+P0100,2017-12-21,bronchiectasis
+P0100,2020-03-18,cirrhosis
+P0100,2020-04-04,chronic constipation
+P0100,2020-10-02,addisons disease
+P0100,2020-10-15,diabetes
+P0100,2021-05-22,interstitial lung disease
+P0100,2021-08-12,parkinsons
+P0100,2022-07-31,menopausal and perimenopausal
+P0100,2022-11-27,interstitial lung disease
+P0100,2023-07-23,hearing loss
+P0101,2017-06-29,chronic pain conditions
+P0101,2018-08-27,reflux disorders
+P0101,2020-12-17,anaemia
+P0101,2022-09-04,cerebral palsy
+P0101,2022-10-10,menopausal and perimenopausal
+P0101,2023-01-22,neuropathic pain
+P0102,2015-11-11,hearing loss
+P0102,2015-12-06,tourette
+P0104,2015-08-20,heart failure
+P0104,2016-03-01,anaemia
+P0104,2018-10-12,chronic airway diseases
+P0104,2019-08-25,visual impairment
+P0104,2019-10-23,thyroid disorders
+P0104,2021-03-17,interstitial lung disease
+P0104,2021-09-29,polycystic ovary syndrome
+P0104,2022-05-10,peripheral vascular disease
+P0104,2022-11-20,visual impairment
+P0104,2023-07-15,cerebral palsy
+P0104,2024-01-28,reflux disorders
+P0104,2024-05-20,heart failure
+P0104,2024-10-19,psoriasis
+P0105,2016-08-20,hearing loss
+P0105,2017-09-23,chronic kidney disease
+P0105,2019-05-16,interstitial lung disease
+P0105,2023-08-20,coronary heart disease
+P0105,2023-08-26,cerebral palsy
+P0106,2016-01-11,cirrhosis
+P0106,2016-04-22,chronic pneumonia
+P0106,2018-11-07,thyroid disorders
+P0106,2019-08-04,dementia
+P0106,2024-03-10,osteoporosis
+P0107,2017-01-01,thyroid disorders
+P0107,2020-01-10,chronic pneumonia
+P0107,2023-04-19,epilepsy
+P0107,2023-11-27,addisons disease
+P0108,2015-04-02,chronic arthritis
+P0108,2017-02-21,cerebral palsy
+P0108,2017-09-03,thyroid disorders
+P0108,2018-06-09,chronic diarrhoea
+P0108,2018-07-21,chronic pain conditions
+P0108,2023-07-09,diabetes
+P0109,2015-12-08,bronchiectasis
+P0109,2016-07-15,chronic pneumonia
+P0109,2017-03-24,stroke
+P0109,2017-10-16,psoriasis
+P0109,2018-08-03,stroke
+P0109,2019-04-06,psoriasis
+P0109,2019-06-30,interstitial lung disease
+P0109,2019-11-25,dysphagia
+P0109,2020-11-10,barretts oesophagus
+P0109,2021-02-21,menopausal and perimenopausal
+P0109,2021-07-17,parkinsons
+P0109,2021-12-04,inflammatory bowel disease
+P0109,2022-04-03,visual impairment
+P0109,2023-04-23,barretts oesophagus
+P0109,2023-05-15,chronic diarrhoea
+P0109,2023-07-26,epilepsy
+P0109,2024-08-04,chronic pneumonia
+P0109,2024-10-17,chronic diarrhoea
+P0111,2017-01-01,addisons disease
+P0111,2018-01-27,insomnia
+P0111,2018-05-23,dementia
+P0111,2019-06-28,mental illness
+P0111,2019-09-19,diabetes
+P0111,2020-01-30,chronic pneumonia
+P0111,2020-06-28,heart failure
+P0112,2015-02-12,cancer
+P0112,2015-06-11,menopausal and perimenopausal
+P0112,2022-12-13,chronic pain conditions
+P0112,2023-05-14,interstitial lung disease
+P0114,2020-11-03,parkinsons
+P0114,2021-11-28,chronic airway diseases
+P0115,2015-10-21,menopausal and perimenopausal
+P0115,2016-07-13,hypertension
+P0115,2016-09-08,diabetes
+P0115,2017-06-06,chronic diarrhoea
+P0115,2022-02-19,multiple sclerosis
+P0115,2022-05-15,chronic diarrhoea
+P0115,2022-11-30,epilepsy
+P0115,2023-06-19,cerebral palsy
+P0115,2024-07-06,mental illness
+P0116,2015-02-07,hypertension
+P0116,2015-02-28,epilepsy
+P0116,2016-02-07,chronic kidney disease
+P0116,2018-01-28,menopausal and perimenopausal
+P0116,2018-03-27,parkinsons
+P0116,2019-06-04,anaemia
+P0116,2021-02-11,chronic diarrhoea
+P0116,2021-11-30,epilepsy
+P0117,2016-02-10,reflux disorders
+P0117,2016-12-29,chronic airway diseases
+P0117,2017-03-08,parkinsons
+P0117,2018-06-22,multiple sclerosis
+P0117,2018-10-27,diabetes
+P0117,2019-08-18,chronic constipation
+P0117,2020-06-10,polycystic ovary syndrome
+P0117,2020-10-20,interstitial lung disease
+P0117,2021-08-23,thyroid disorders
+P0117,2021-10-27,chronic pain conditions
+P0117,2023-11-04,chronic kidney disease
+P0117,2024-11-06,cancer
+P0118,2015-03-30,barretts oesophagus
+P0118,2018-08-27,chronic pain conditions
+P0118,2019-03-24,parkinsons
+P0118,2020-11-26,heart failure
+P0118,2021-08-08,tourette
+P0118,2022-05-09,cirrhosis
+P0118,2022-08-18,hearing loss
+P0118,2023-10-19,menopausal and perimenopausal
+P0118,2024-11-25,cardiac arrhythmias
+P0122,2015-06-20,cerebral palsy
+P0122,2016-12-06,barretts oesophagus
+P0122,2017-01-08,epilepsy
+P0122,2017-07-23,visual impairment
+P0122,2022-07-06,insomnia
+P0122,2022-12-11,addisons disease
+P0122,2024-07-13,cancer
+P0123,2017-07-13,interstitial lung disease
+P0123,2018-02-10,chronic diarrhoea
+P0123,2021-05-12,mental illness
+P0123,2022-05-09,dysphagia
+P0124,2015-03-23,cancer
+P0124,2015-12-12,hypertension
+P0124,2019-04-11,chronic pneumonia
+P0124,2019-09-25,heart failure
+P0124,2021-12-17,thyroid disorders
+P0126,2015-05-31,hearing loss
+P0126,2016-08-22,coronary heart disease
+P0126,2018-05-11,tourette
+P0126,2019-02-09,thyroid disorders
+P0126,2021-09-27,chronic diarrhoea
+P0126,2022-01-18,epilepsy
+P0126,2022-06-05,psoriasis
+P0126,2024-09-18,cirrhosis
+P0127,2017-05-27,inflammatory bowel disease
+P0127,2017-09-11,cirrhosis
+P0127,2018-03-02,reflux disorders
+P0127,2019-02-26,coronary heart disease
+P0127,2020-05-08,thyroid disorders
+P0127,2022-12-14,menopausal and perimenopausal
+P0127,2023-11-18,multiple sclerosis
+P0128,2015-08-02,chronic constipation
+P0128,2015-08-04,epilepsy
+P0128,2015-10-17,thyroid disorders
+P0128,2016-02-07,cancer
+P0128,2016-03-06,cirrhosis
+P0128,2016-06-11,parkinsons
+P0128,2018-07-14,polycystic ovary syndrome
+P0128,2018-12-11,reflux disorders
+P0128,2020-11-14,chronic airway diseases
+P0128,2022-03-22,inflammatory bowel disease
+P0128,2022-03-28,parkinsons
+P0129,2015-05-29,chronic constipation
+P0129,2016-11-10,multiple sclerosis
+P0129,2017-02-07,stroke
+P0129,2017-05-21,polycystic ovary syndrome
+P0129,2017-10-16,parkinsons
+P0129,2018-09-07,interstitial lung disease
+P0129,2018-09-17,addisons disease
+P0129,2021-08-07,addisons disease
+P0129,2023-01-03,osteoporosis
+P0129,2023-05-13,barretts oesophagus
+P0131,2019-04-06,neuropathic pain
+P0131,2019-05-23,chronic kidney disease
+P0131,2020-07-02,cerebral palsy
+P0131,2022-08-03,chronic arthritis
+P0131,2024-09-08,cirrhosis
+P0133,2015-01-12,anaemia
+P0133,2015-01-29,psoriasis
+P0133,2016-03-01,cirrhosis
+P0133,2016-04-02,multiple sclerosis
+P0133,2017-07-01,bronchiectasis
+P0133,2019-05-08,dementia
+P0133,2019-05-19,polycystic ovary syndrome
+P0133,2019-07-31,cancer
+P0133,2021-02-24,mental illness
+P0133,2021-05-23,dysphagia
+P0133,2023-05-26,addisons disease
+P0133,2024-03-12,dementia
+P0133,2024-10-14,menopausal and perimenopausal
+P0134,2016-06-15,bronchiectasis
+P0134,2017-07-11,cancer
+P0134,2019-06-24,cerebral palsy
+P0134,2021-11-04,dementia
+P0134,2022-04-04,insomnia
+P0134,2024-01-03,parkinsons
+P0134,2024-11-02,stroke
+P0135,2016-09-03,dementia
+P0135,2017-10-18,hearing loss
+P0135,2017-11-29,peripheral vascular disease
+P0135,2018-01-10,menopausal and perimenopausal
+P0135,2019-08-15,thyroid disorders
+P0135,2019-12-17,chronic constipation
+P0135,2020-01-15,chronic constipation
+P0135,2021-07-25,bronchiectasis
+P0135,2022-10-14,diabetes
+P0135,2023-11-20,polycystic ovary syndrome
+P0138,2016-02-23,thyroid disorders
+P0138,2016-04-19,hearing loss
+P0138,2018-09-12,multiple sclerosis
+P0138,2019-11-15,cardiac arrhythmias
+P0138,2020-10-21,chronic pneumonia
+P0138,2021-04-16,cerebral palsy
+P0138,2023-02-11,mental illness
+P0138,2023-03-28,parkinsons
+P0138,2024-11-17,psoriasis
+P0139,2015-10-19,visual impairment
+P0139,2016-01-03,addisons disease
+P0139,2017-03-26,tourette
+P0139,2017-04-19,heart failure
+P0139,2018-08-01,chronic airway diseases
+P0139,2022-07-30,anaemia
+P0139,2023-04-22,heart failure
+P0139,2023-10-20,menopausal and perimenopausal
+P0141,2015-07-15,osteoporosis
+P0141,2016-10-27,parkinsons
+P0141,2017-01-05,psoriasis
+P0141,2018-04-29,mental illness
+P0143,2016-03-06,osteoporosis
+P0143,2016-07-23,barretts oesophagus
+P0143,2016-12-17,peripheral vascular disease
+P0143,2016-12-18,chronic pain conditions
+P0143,2020-02-06,dysphagia
+P0143,2021-04-24,cirrhosis
+P0146,2015-03-02,parkinsons
+P0146,2021-06-26,chronic airway diseases
+P0146,2022-04-15,insomnia
+P0146,2022-05-19,anaemia
+P0147,2016-07-10,menopausal and perimenopausal
+P0147,2017-05-04,bronchiectasis
+P0147,2018-03-27,psoriasis
+P0147,2018-04-26,coronary heart disease
+P0147,2019-12-28,menopausal and perimenopausal
+P0147,2020-05-20,interstitial lung disease
+P0147,2022-05-17,chronic arthritis
+P0147,2022-11-30,dementia
+P0147,2022-12-02,chronic constipation
+P0147,2023-06-16,coronary heart disease
+P0147,2023-11-03,visual impairment
+P0147,2023-12-10,visual impairment
+P0148,2016-11-07,diabetes
+P0148,2018-05-31,addisons disease
+P0148,2018-11-23,bronchiectasis
+P0148,2019-08-28,anaemia
+P0148,2020-07-22,chronic constipation
+P0148,2022-02-01,dementia
+P0149,2023-04-15,neuropathic pain
+P0149,2023-05-17,chronic pain conditions
+P0151,2015-01-22,multiple sclerosis
+P0151,2015-06-27,addisons disease
+P0151,2016-11-15,mental illness
+P0151,2016-12-11,cancer
+P0151,2018-08-14,parkinsons
+P0151,2018-11-09,addisons disease
+P0151,2019-03-05,hypertension
+P0151,2019-10-13,osteoporosis
+P0151,2019-11-25,menopausal and perimenopausal
+P0151,2020-08-17,chronic diarrhoea
+P0151,2021-02-11,peripheral vascular disease
+P0151,2021-04-10,chronic pneumonia
+P0151,2023-02-02,reflux disorders
+P0151,2023-04-01,chronic airway diseases
+P0153,2015-06-23,inflammatory bowel disease
+P0153,2016-08-23,diabetes
+P0153,2017-09-30,chronic kidney disease
+P0153,2023-04-30,barretts oesophagus
+P0154,2015-05-10,chronic airway diseases
+P0154,2015-06-14,chronic arthritis
+P0154,2015-11-12,chronic kidney disease
+P0154,2023-03-01,insomnia
+P0155,2016-07-27,inflammatory bowel disease
+P0155,2022-02-17,dysphagia
+P0155,2022-07-01,cirrhosis
+P0156,2019-11-09,polycystic ovary syndrome
+P0156,2022-09-02,chronic kidney disease
+P0156,2023-08-28,cardiac arrhythmias
+P0157,2015-06-08,heart failure
+P0157,2015-08-02,reflux disorders
+P0157,2016-03-01,thyroid disorders
+P0157,2019-06-20,hypertension
+P0157,2020-07-01,chronic constipation
+P0157,2021-02-25,multiple sclerosis
+P0157,2021-08-05,chronic pain conditions
+P0157,2022-01-03,barretts oesophagus
+P0157,2023-04-30,barretts oesophagus
+P0157,2023-08-20,cardiac arrhythmias
+P0158,2016-01-15,chronic pneumonia
+P0158,2016-12-07,insomnia
+P0158,2017-03-29,dementia
+P0158,2018-04-27,chronic arthritis
+P0158,2020-12-20,cirrhosis
+P0158,2021-10-26,coronary heart disease
+P0158,2023-01-28,inflammatory bowel disease
+P0158,2024-02-26,chronic constipation
+P0158,2024-09-04,chronic pain conditions
+P0159,2015-11-19,inflammatory bowel disease
+P0159,2016-02-06,stroke
+P0159,2016-04-04,multiple sclerosis
+P0159,2017-07-28,menopausal and perimenopausal
+P0159,2017-08-22,heart failure
+P0159,2019-02-12,mental illness
+P0159,2020-06-20,psoriasis
+P0159,2023-09-27,inflammatory bowel disease
+P0159,2024-02-21,dementia
+P0160,2015-03-24,diabetes
+P0160,2016-08-08,cirrhosis
+P0160,2017-03-31,psoriasis
+P0160,2017-06-02,cirrhosis
+P0160,2022-01-15,chronic pain conditions
+P0162,2018-08-27,menopausal and perimenopausal
+P0162,2021-04-14,hypertension
+P0162,2021-06-21,mental illness
+P0162,2023-03-24,thyroid disorders
+P0162,2023-08-11,peripheral vascular disease
+P0163,2015-08-23,hearing loss
+P0163,2015-09-12,bronchiectasis
+P0163,2018-07-10,peripheral vascular disease
+P0163,2019-05-19,cardiac arrhythmias
+P0163,2019-07-19,interstitial lung disease
+P0163,2019-10-01,chronic arthritis
+P0163,2020-04-13,hearing loss
+P0163,2020-09-21,psoriasis
+P0163,2020-10-13,reflux disorders
+P0163,2020-12-20,inflammatory bowel disease
+P0163,2022-07-02,parkinsons
+P0163,2022-10-04,thyroid disorders
+P0163,2023-12-09,psoriasis
+P0163,2024-01-31,visual impairment
+P0164,2017-08-20,parkinsons
+P0164,2019-09-27,dysphagia
+P0164,2020-01-20,peripheral vascular disease
+P0164,2022-07-27,cardiac arrhythmias
+P0164,2023-04-10,stroke
+P0165,2015-10-16,chronic constipation
+P0165,2016-02-22,coronary heart disease
+P0165,2021-11-30,addisons disease
+P0165,2022-02-04,interstitial lung disease
+P0165,2022-02-04,visual impairment
+P0165,2023-04-16,neuropathic pain
+P0165,2023-06-07,osteoporosis
+P0165,2024-02-21,dysphagia
+P0165,2024-09-12,inflammatory bowel disease
+P0166,2016-08-27,chronic airway diseases
+P0166,2018-04-05,polycystic ovary syndrome
+P0166,2022-10-20,multiple sclerosis
+P0167,2017-01-12,coronary heart disease
+P0167,2018-11-29,interstitial lung disease
+P0167,2020-11-06,diabetes
+P0167,2021-05-05,hearing loss
+P0167,2023-08-18,anaemia
+P0168,2015-07-23,addisons disease
+P0168,2016-04-06,neuropathic pain
+P0168,2017-02-26,cerebral palsy
+P0168,2017-03-24,tourette
+P0168,2017-07-25,chronic arthritis
+P0168,2018-09-21,reflux disorders
+P0168,2020-06-05,polycystic ovary syndrome
+P0168,2020-10-23,chronic pneumonia
+P0168,2022-10-09,chronic constipation
+P0168,2022-11-19,anaemia
+P0168,2024-08-22,chronic diarrhoea
+P0169,2015-08-13,heart failure
+P0169,2016-03-16,chronic kidney disease
+P0169,2016-04-05,stroke
+P0169,2017-02-28,addisons disease
+P0169,2020-02-08,interstitial lung disease
+P0169,2020-06-15,hearing loss
+P0169,2022-08-03,cancer
+P0169,2022-09-25,stroke
+P0169,2024-08-08,polycystic ovary syndrome
+P0169,2024-10-04,insomnia
+P0170,2019-05-04,psoriasis
+P0170,2019-08-15,chronic pain conditions
+P0170,2024-10-17,chronic pneumonia
+P0171,2015-04-12,diabetes
+P0171,2016-09-30,dysphagia
+P0171,2018-10-23,coronary heart disease
+P0171,2018-11-04,chronic kidney disease
+P0171,2022-08-17,reflux disorders
+P0171,2023-06-25,psoriasis
+P0171,2024-06-25,addisons disease
+P0171,2024-09-06,tourette
+P0172,2016-09-09,cardiac arrhythmias
+P0172,2017-10-23,multiple sclerosis
+P0172,2018-02-02,polycystic ovary syndrome
+P0172,2018-07-26,tourette
+P0172,2018-11-10,dementia
+P0172,2018-11-24,stroke
+P0172,2019-03-17,tourette
+P0172,2019-12-08,psoriasis
+P0172,2020-09-06,parkinsons
+P0172,2023-02-09,stroke
+P0173,2021-05-13,cardiac arrhythmias
+P0173,2023-01-04,polycystic ovary syndrome
+P0176,2015-02-14,epilepsy
+P0176,2015-09-24,diabetes
+P0176,2017-12-04,peripheral vascular disease
+P0176,2018-11-16,cancer
+P0176,2020-05-27,psoriasis
+P0176,2021-01-26,chronic constipation
+P0177,2015-06-10,heart failure
+P0177,2018-12-25,coronary heart disease
+P0177,2020-03-20,coronary heart disease
+P0177,2020-07-04,chronic pain conditions
+P0177,2020-12-17,inflammatory bowel disease
+P0177,2022-05-17,inflammatory bowel disease
+P0177,2023-05-10,dysphagia
+P0177,2024-01-19,epilepsy
+P0177,2024-03-18,chronic pain conditions
+P0178,2017-03-21,insomnia
+P0178,2017-03-23,epilepsy
+P0178,2018-01-04,stroke
+P0178,2020-05-06,polycystic ovary syndrome
+P0178,2023-08-13,chronic arthritis
+P0179,2015-08-10,neuropathic pain
+P0179,2015-10-12,polycystic ovary syndrome
+P0179,2016-02-19,osteoporosis
+P0179,2016-11-08,cardiac arrhythmias
+P0179,2018-08-29,diabetes
+P0179,2018-12-14,mental illness
+P0179,2024-11-07,menopausal and perimenopausal
+P0180,2016-01-29,multiple sclerosis
+P0180,2017-02-03,neuropathic pain
+P0180,2017-05-21,chronic pain conditions
+P0180,2017-06-04,visual impairment
+P0183,2015-03-28,insomnia
+P0183,2019-10-18,cirrhosis
+P0183,2023-11-02,stroke
+P0184,2015-02-18,cerebral palsy
+P0184,2015-08-10,stroke
+P0184,2016-08-02,psoriasis
+P0184,2018-10-19,tourette
+P0184,2019-10-23,cancer
+P0184,2019-11-27,cardiac arrhythmias
+P0184,2020-09-04,barretts oesophagus
+P0184,2021-02-26,epilepsy
+P0184,2024-01-10,addisons disease
+P0185,2015-04-11,epilepsy
+P0185,2018-09-28,tourette
+P0185,2019-03-31,chronic arthritis
+P0185,2019-09-16,hearing loss
+P0185,2020-07-13,reflux disorders
+P0185,2020-10-04,dysphagia
+P0185,2022-06-19,chronic pain conditions
+P0185,2023-03-26,osteoporosis
+P0185,2023-11-06,stroke
+P0186,2016-09-04,reflux disorders
+P0186,2017-08-23,inflammatory bowel disease
+P0186,2017-11-05,chronic airway diseases
+P0186,2018-03-16,bronchiectasis
+P0186,2018-04-02,chronic constipation
+P0186,2018-06-12,barretts oesophagus
+P0186,2019-02-11,heart failure
+P0186,2020-01-28,cardiac arrhythmias
+P0186,2020-01-28,cancer
+P0186,2021-07-05,dementia
+P0186,2022-11-20,anaemia
+P0186,2023-07-02,parkinsons
+P0186,2024-03-14,hypertension
+P0187,2015-01-15,chronic pain conditions
+P0187,2020-04-16,reflux disorders
+P0187,2021-03-02,hypertension
+P0187,2024-12-12,inflammatory bowel disease
+P0187,2024-12-13,menopausal and perimenopausal
+P0190,2017-05-11,addisons disease
+P0190,2018-12-21,bronchiectasis
+P0190,2020-04-16,cerebral palsy
+P0190,2024-07-13,anaemia
+P0191,2015-09-27,thyroid disorders
+P0191,2016-11-24,chronic arthritis
+P0191,2018-06-10,insomnia
+P0191,2018-11-06,chronic diarrhoea
+P0191,2019-07-07,anaemia
+P0191,2019-11-13,diabetes
+P0191,2022-01-18,polycystic ovary syndrome
+P0191,2023-07-07,cancer
+P0191,2024-05-23,chronic pneumonia
+P0193,2016-07-29,reflux disorders
+P0193,2019-01-30,menopausal and perimenopausal
+P0193,2019-09-07,addisons disease
+P0194,2016-02-26,psoriasis
+P0194,2017-03-25,chronic constipation
+P0194,2019-01-24,chronic arthritis
+P0194,2019-06-30,inflammatory bowel disease
+P0194,2021-04-15,chronic arthritis
+P0194,2021-07-08,reflux disorders
+P0194,2022-02-20,barretts oesophagus
+P0194,2022-12-30,peripheral vascular disease
+P0195,2016-02-25,coronary heart disease
+P0195,2016-10-03,chronic airway diseases
+P0195,2017-02-10,stroke
+P0199,2017-04-07,anaemia
+P0199,2018-11-15,visual impairment
+P0199,2019-05-05,tourette
+P0199,2019-06-29,cerebral palsy
+P0199,2019-07-21,hearing loss
+P0199,2020-02-10,chronic kidney disease
+P0199,2020-06-14,coronary heart disease
+P0199,2023-11-25,chronic constipation
+P0199,2024-07-09,anaemia
+P0200,2018-09-09,anaemia
+P0200,2021-11-26,dysphagia
+P0200,2023-06-22,chronic arthritis
+P0200,2024-03-08,chronic diarrhoea
+P0200,2024-05-15,chronic constipation
+P0204,2016-01-06,barretts oesophagus
+P0204,2016-11-23,chronic constipation
+P0204,2019-05-05,inflammatory bowel disease
+P0204,2020-10-06,hypertension
+P0204,2022-07-18,thyroid disorders
+P0205,2015-10-18,cirrhosis
+P0205,2016-10-01,diabetes
+P0205,2016-11-13,chronic diarrhoea
+P0205,2018-07-07,multiple sclerosis
+P0205,2018-08-11,reflux disorders
+P0205,2019-01-24,chronic pneumonia
+P0205,2019-03-14,chronic pain conditions
+P0205,2020-02-11,peripheral vascular disease
+P0205,2022-12-07,menopausal and perimenopausal
+P0205,2023-01-17,menopausal and perimenopausal
+P0206,2019-01-04,inflammatory bowel disease
+P0206,2019-09-02,inflammatory bowel disease
+P0206,2020-12-15,tourette
+P0206,2021-08-06,anaemia
+P0206,2022-03-22,chronic kidney disease
+P0206,2023-01-17,coronary heart disease
+P0206,2024-10-08,chronic airway diseases
+P0207,2015-01-20,inflammatory bowel disease
+P0207,2016-09-04,bronchiectasis
+P0207,2016-11-27,menopausal and perimenopausal
+P0207,2017-02-07,osteoporosis
+P0207,2018-01-24,chronic kidney disease
+P0207,2020-04-04,addisons disease
+P0207,2020-08-17,interstitial lung disease
+P0207,2020-10-18,neuropathic pain
+P0207,2020-11-19,tourette
+P0207,2020-12-15,bronchiectasis
+P0207,2021-06-15,chronic diarrhoea
+P0207,2021-11-20,insomnia
+P0207,2021-12-16,stroke
+P0207,2023-04-22,reflux disorders
+P0207,2023-05-01,dysphagia
+P0207,2023-05-06,chronic pneumonia
+P0207,2023-11-24,barretts oesophagus
+P0208,2015-05-29,mental illness
+P0208,2021-04-12,neuropathic pain
+P0208,2022-09-08,chronic pain conditions
+P0208,2023-07-20,insomnia
+P0209,2016-10-14,chronic diarrhoea
+P0209,2017-07-15,cancer
+P0209,2017-08-07,osteoporosis
+P0209,2017-11-12,chronic pneumonia
+P0209,2019-09-09,chronic constipation
+P0209,2020-10-11,addisons disease
+P0209,2022-07-16,reflux disorders
+P0209,2024-11-10,dysphagia
+P0210,2015-07-03,chronic airway diseases
+P0210,2015-07-21,thyroid disorders
+P0210,2016-08-06,chronic constipation
+P0210,2017-07-09,coronary heart disease
+P0210,2018-11-30,chronic kidney disease
+P0210,2019-12-31,menopausal and perimenopausal
+P0210,2020-10-01,dementia
+P0210,2021-07-28,chronic pneumonia
+P0210,2022-01-03,parkinsons
+P0210,2022-03-18,interstitial lung disease
+P0210,2022-05-05,dysphagia
+P0210,2022-12-27,reflux disorders
+P0210,2024-09-16,bronchiectasis
+P0211,2015-01-27,epilepsy
+P0211,2016-11-12,addisons disease
+P0211,2017-07-13,cerebral palsy
+P0211,2018-02-02,interstitial lung disease
+P0211,2018-11-08,tourette
+P0211,2019-10-24,polycystic ovary syndrome
+P0211,2021-05-01,chronic airway diseases
+P0211,2023-04-16,bronchiectasis
+P0213,2015-07-01,polycystic ovary syndrome
+P0213,2020-05-09,anaemia
+P0213,2023-02-12,addisons disease
+P0213,2023-03-28,polycystic ovary syndrome
+P0213,2023-08-26,chronic arthritis
+P0213,2024-12-14,anaemia
+P0214,2018-10-09,chronic pain conditions
+P0214,2021-12-07,chronic constipation
+P0214,2022-06-24,cirrhosis
+P0214,2023-02-20,menopausal and perimenopausal
+P0216,2015-05-18,thyroid disorders
+P0216,2016-01-04,coronary heart disease
+P0216,2018-02-25,stroke
+P0216,2022-09-07,epilepsy
+P0216,2023-09-29,reflux disorders
+P0217,2015-01-24,chronic diarrhoea
+P0217,2015-11-24,addisons disease
+P0217,2016-09-30,bronchiectasis
+P0217,2017-01-24,osteoporosis
+P0217,2017-02-02,multiple sclerosis
+P0217,2017-06-13,cerebral palsy
+P0217,2017-10-27,hearing loss
+P0217,2018-06-23,mental illness
+P0217,2020-07-26,thyroid disorders
+P0217,2022-08-29,addisons disease
+P0217,2022-11-06,heart failure
+P0217,2024-07-15,neuropathic pain
+P0218,2017-03-07,cerebral palsy
+P0218,2018-03-22,chronic pneumonia
+P0218,2020-10-29,tourette
+P0218,2021-05-12,chronic arthritis
+P0218,2024-10-01,chronic airway diseases
+P0219,2015-07-22,chronic pain conditions
+P0219,2019-04-11,neuropathic pain
+P0219,2019-08-19,chronic pain conditions
+P0219,2021-12-12,dementia
+P0219,2023-05-29,peripheral vascular disease
+P0219,2023-10-16,neuropathic pain
+P0219,2024-01-07,tourette
+P0219,2024-01-20,interstitial lung disease
+P0220,2016-03-04,interstitial lung disease
+P0220,2017-06-13,hearing loss
+P0220,2019-02-12,chronic arthritis
+P0220,2020-11-12,neuropathic pain
+P0220,2021-04-25,insomnia
+P0220,2023-02-03,chronic pneumonia
+P0220,2023-07-10,cardiac arrhythmias
+P0221,2017-09-07,inflammatory bowel disease
+P0221,2017-10-19,peripheral vascular disease
+P0221,2018-04-24,cardiac arrhythmias
+P0221,2018-05-23,addisons disease
+P0221,2018-07-06,heart failure
+P0221,2019-11-24,cancer
+P0221,2020-04-10,dysphagia
+P0221,2021-05-15,anaemia
+P0221,2022-12-29,bronchiectasis
+P0221,2023-12-01,dementia
+P0222,2015-02-17,epilepsy
+P0222,2019-03-31,diabetes
+P0222,2021-10-17,bronchiectasis
+P0222,2023-11-25,multiple sclerosis
+P0223,2015-01-22,menopausal and perimenopausal
+P0223,2019-04-13,mental illness
+P0223,2022-07-10,neuropathic pain
+P0223,2023-07-01,hypertension
+P0223,2023-10-20,thyroid disorders
+P0223,2024-12-05,parkinsons
+P0224,2015-01-23,tourette
+P0224,2015-02-18,dysphagia
+P0224,2015-05-22,cerebral palsy
+P0224,2016-03-06,peripheral vascular disease
+P0224,2016-09-12,epilepsy
+P0224,2016-12-13,addisons disease
+P0224,2018-01-07,tourette
+P0224,2018-02-09,inflammatory bowel disease
+P0224,2018-05-20,barretts oesophagus
+P0224,2021-04-12,hearing loss
+P0224,2024-10-04,insomnia
+P0225,2015-01-08,tourette
+P0225,2016-02-02,cirrhosis
+P0225,2016-05-21,chronic airway diseases
+P0225,2018-08-17,diabetes
+P0226,2020-09-15,hearing loss
+P0226,2021-03-16,polycystic ovary syndrome
+P0226,2023-05-21,insomnia
+P0226,2023-06-25,neuropathic pain
+P0226,2023-07-09,bronchiectasis
+P0227,2015-05-06,heart failure
+P0227,2015-07-26,multiple sclerosis
+P0227,2016-06-03,reflux disorders
+P0227,2016-09-29,addisons disease
+P0227,2017-01-24,dysphagia
+P0227,2018-04-29,dysphagia
+P0227,2018-07-28,psoriasis
+P0227,2019-03-30,insomnia
+P0227,2020-10-21,mental illness
+P0227,2021-05-09,bronchiectasis
+P0227,2021-08-27,peripheral vascular disease
+P0227,2023-12-10,reflux disorders
+P0230,2016-04-07,cancer
+P0230,2016-05-09,interstitial lung disease
+P0230,2016-09-07,cerebral palsy
+P0230,2017-04-04,coronary heart disease
+P0230,2017-07-11,chronic arthritis
+P0230,2018-07-04,osteoporosis
+P0230,2019-04-18,addisons disease
+P0230,2019-07-29,polycystic ovary syndrome
+P0230,2019-11-18,chronic diarrhoea
+P0230,2020-02-11,addisons disease
+P0230,2022-10-29,parkinsons
+P0230,2023-05-15,chronic pneumonia
+P0230,2024-11-25,chronic kidney disease
+P0231,2017-11-27,hypertension
+P0231,2020-10-26,chronic diarrhoea
+P0231,2023-05-20,menopausal and perimenopausal
+P0232,2016-07-18,diabetes
+P0232,2018-09-12,insomnia
+P0232,2018-10-07,cerebral palsy
+P0232,2019-08-19,psoriasis
+P0232,2019-10-18,hearing loss
+P0232,2021-08-03,mental illness
+P0232,2022-03-12,multiple sclerosis
+P0233,2015-04-21,insomnia
+P0233,2015-12-15,dementia
+P0233,2015-12-29,dementia
+P0233,2016-02-09,psoriasis
+P0233,2018-04-18,menopausal and perimenopausal
+P0233,2018-05-03,multiple sclerosis
+P0233,2018-08-30,mental illness
+P0233,2019-04-09,anaemia
+P0233,2020-12-21,tourette
+P0233,2021-12-22,insomnia
+P0233,2022-01-21,polycystic ovary syndrome
+P0233,2023-09-22,hearing loss
+P0234,2017-10-05,stroke
+P0234,2019-11-14,coronary heart disease
+P0234,2023-09-05,tourette
+P0236,2015-05-27,osteoporosis
+P0236,2015-12-11,menopausal and perimenopausal
+P0236,2015-12-16,anaemia
+P0236,2016-04-15,diabetes
+P0236,2016-06-10,osteoporosis
+P0236,2017-08-26,cerebral palsy
+P0236,2017-12-03,hypertension
+P0236,2018-01-23,stroke
+P0236,2018-04-15,inflammatory bowel disease
+P0236,2018-12-20,chronic kidney disease
+P0236,2019-01-01,anaemia
+P0236,2020-04-02,peripheral vascular disease
+P0236,2021-04-28,chronic diarrhoea
+P0236,2021-06-23,interstitial lung disease
+P0236,2021-10-26,dementia
+P0236,2022-11-10,peripheral vascular disease
+P0236,2024-02-18,insomnia
+P0236,2024-05-25,multiple sclerosis
+P0236,2024-11-16,coronary heart disease
+P0237,2017-10-19,stroke
+P0237,2019-01-22,chronic diarrhoea
+P0237,2020-01-22,polycystic ovary syndrome
+P0237,2020-07-25,chronic pneumonia
+P0237,2021-04-06,barretts oesophagus
+P0237,2022-06-10,osteoporosis
+P0237,2022-08-08,cirrhosis
+P0237,2023-06-30,epilepsy
+P0237,2023-08-27,addisons disease
+P0237,2024-04-07,chronic pain conditions
+P0237,2024-07-17,dysphagia
+P0238,2022-03-08,mental illness
+P0238,2022-03-31,osteoporosis
+P0238,2023-05-28,thyroid disorders
+P0238,2024-03-16,menopausal and perimenopausal
+P0239,2015-02-01,tourette
+P0239,2015-03-09,diabetes
+P0239,2015-09-03,cirrhosis
+P0239,2017-02-13,barretts oesophagus
+P0239,2017-06-18,chronic diarrhoea
+P0239,2017-07-06,mental illness
+P0239,2018-02-23,addisons disease
+P0239,2018-11-06,diabetes
+P0239,2021-04-30,heart failure
+P0239,2021-08-16,chronic constipation
+P0239,2022-02-23,polycystic ovary syndrome
+P0239,2022-04-03,chronic airway diseases
+P0240,2017-07-24,chronic airway diseases
+P0240,2018-06-29,neuropathic pain
+P0240,2020-03-07,thyroid disorders
+P0240,2021-11-08,bronchiectasis
+P0240,2024-07-05,thyroid disorders
+P0241,2015-05-07,insomnia
+P0241,2015-07-26,stroke
+P0241,2016-06-05,chronic airway diseases
+P0241,2017-02-23,menopausal and perimenopausal
+P0241,2018-04-05,peripheral vascular disease
+P0241,2018-05-19,chronic arthritis
+P0241,2019-08-28,chronic pain conditions
+P0241,2020-05-18,tourette
+P0241,2021-10-23,cardiac arrhythmias
+P0241,2021-11-26,anaemia
+P0241,2021-12-14,chronic pneumonia
+P0241,2022-05-23,inflammatory bowel disease
+P0241,2023-07-26,coronary heart disease
+P0241,2024-04-09,cancer
+P0241,2024-06-24,interstitial lung disease
+P0242,2015-05-31,osteoporosis
+P0242,2017-09-27,chronic diarrhoea
+P0242,2018-05-11,chronic pneumonia
+P0242,2019-04-16,cancer
+P0242,2020-01-26,barretts oesophagus
+P0242,2021-03-30,thyroid disorders
+P0242,2021-09-09,cerebral palsy
+P0242,2021-10-23,cardiac arrhythmias
+P0242,2024-05-30,dementia
+P0242,2024-07-27,polycystic ovary syndrome
+P0244,2017-01-18,hearing loss
+P0244,2022-04-12,diabetes
+P0245,2015-10-19,tourette
+P0245,2019-03-09,bronchiectasis
+P0245,2020-08-19,stroke
+P0245,2021-06-28,cardiac arrhythmias
+P0246,2016-04-30,diabetes
+P0246,2017-01-05,insomnia
+P0246,2019-11-27,psoriasis
+P0246,2021-01-28,cerebral palsy
+P0246,2023-11-08,reflux disorders
+P0247,2017-02-12,thyroid disorders
+P0247,2022-04-11,neuropathic pain
+P0247,2024-05-19,cancer
+P0248,2021-10-30,epilepsy
+P0250,2020-11-03,visual impairment
+P0250,2021-01-22,diabetes
+P0250,2021-08-08,hypertension
+P0250,2024-06-14,chronic pain conditions
+P0251,2015-01-14,anaemia
+P0251,2015-03-10,chronic kidney disease
+P0251,2018-04-30,stroke
+P0251,2021-12-22,cancer
+P0251,2024-07-17,visual impairment
+P0252,2016-02-06,mental illness
+P0252,2019-08-08,peripheral vascular disease
+P0252,2020-12-24,chronic pneumonia
+P0252,2023-04-13,heart failure
+P0252,2023-11-23,chronic airway diseases
+P0253,2015-05-30,neuropathic pain
+P0253,2017-07-01,anaemia
+P0253,2019-02-25,menopausal and perimenopausal
+P0253,2019-07-14,visual impairment
+P0253,2022-07-28,thyroid disorders
+P0253,2022-10-30,chronic constipation
+P0253,2022-11-24,psoriasis
+P0253,2023-04-30,chronic airway diseases
+P0254,2019-01-21,psoriasis
+P0254,2019-05-20,addisons disease
+P0254,2019-06-02,dementia
+P0254,2020-02-27,thyroid disorders
+P0254,2022-12-06,barretts oesophagus
+P0254,2024-09-13,chronic airway diseases
+P0255,2016-03-07,menopausal and perimenopausal
+P0255,2016-11-08,visual impairment
+P0255,2017-10-08,stroke
+P0255,2018-05-01,reflux disorders
+P0255,2019-03-31,barretts oesophagus
+P0255,2020-11-24,dementia
+P0255,2021-05-26,chronic diarrhoea
+P0255,2022-11-21,peripheral vascular disease
+P0255,2023-08-07,epilepsy
+P0255,2024-05-26,chronic pain conditions
+P0255,2024-12-13,visual impairment
+P0256,2015-12-04,chronic pneumonia
+P0256,2016-09-21,thyroid disorders
+P0256,2017-08-07,tourette
+P0256,2018-01-10,insomnia
+P0256,2018-12-07,chronic diarrhoea
+P0256,2022-10-20,cirrhosis
+P0256,2022-10-28,chronic pneumonia
+P0256,2023-08-17,barretts oesophagus
+P0256,2023-08-25,neuropathic pain
+P0256,2024-09-18,osteoporosis
+P0258,2018-07-08,polycystic ovary syndrome
+P0261,2017-04-01,chronic diarrhoea
+P0261,2018-10-31,cancer
+P0261,2020-05-23,osteoporosis
+P0261,2020-11-02,anaemia
+P0261,2021-06-13,coronary heart disease
+P0261,2021-08-20,psoriasis
+P0261,2022-04-03,cardiac arrhythmias
+P0261,2022-08-15,neuropathic pain
+P0261,2024-08-06,parkinsons
+P0263,2015-02-11,chronic constipation
+P0263,2016-08-15,insomnia
+P0263,2018-04-27,stroke
+P0263,2019-12-22,inflammatory bowel disease
+P0263,2020-11-18,interstitial lung disease
+P0263,2022-09-06,heart failure
+P0264,2017-02-15,chronic kidney disease
+P0264,2019-03-03,mental illness
+P0264,2024-10-12,chronic pain conditions
+P0265,2016-02-13,polycystic ovary syndrome
+P0265,2018-05-09,menopausal and perimenopausal
+P0265,2018-06-19,cerebral palsy
+P0265,2020-06-28,chronic kidney disease
+P0265,2021-04-09,cardiac arrhythmias
+P0265,2023-11-08,peripheral vascular disease
+P0265,2024-04-25,chronic arthritis
+P0266,2016-07-17,parkinsons
+P0267,2020-08-23,polycystic ovary syndrome
+P0267,2021-08-02,stroke
+P0267,2022-04-04,chronic pneumonia
+P0270,2016-08-15,polycystic ovary syndrome
+P0270,2018-03-29,visual impairment
+P0270,2019-02-16,hearing loss
+P0270,2019-05-29,menopausal and perimenopausal
+P0270,2019-06-10,tourette
+P0270,2020-09-10,peripheral vascular disease
+P0270,2021-01-17,psoriasis
+P0270,2022-12-23,anaemia
+P0271,2015-07-17,thyroid disorders
+P0271,2015-12-16,bronchiectasis
+P0271,2016-02-19,stroke
+P0271,2016-07-08,chronic constipation
+P0271,2016-08-29,peripheral vascular disease
+P0271,2017-02-05,epilepsy
+P0271,2017-07-30,cerebral palsy
+P0271,2017-10-08,visual impairment
+P0271,2017-11-17,chronic kidney disease
+P0271,2019-09-04,interstitial lung disease
+P0271,2019-11-05,heart failure
+P0271,2020-09-11,addisons disease
+P0271,2021-10-31,barretts oesophagus
+P0271,2022-10-31,psoriasis
+P0271,2023-04-12,osteoporosis
+P0271,2023-07-21,neuropathic pain
+P0271,2024-08-10,multiple sclerosis
+P0271,2024-08-21,polycystic ovary syndrome
+P0272,2016-01-22,parkinsons
+P0272,2019-07-25,tourette
+P0272,2020-01-05,chronic kidney disease
+P0272,2022-07-27,neuropathic pain
+P0272,2023-02-15,coronary heart disease
+P0274,2016-04-12,neuropathic pain
+P0274,2016-12-27,osteoporosis
+P0274,2018-03-03,reflux disorders
+P0274,2018-12-08,psoriasis
+P0274,2020-11-30,chronic diarrhoea
+P0274,2021-09-05,anaemia
+P0274,2022-02-28,addisons disease
+P0274,2023-04-28,tourette
+P0274,2023-10-29,parkinsons
+P0274,2023-11-04,coronary heart disease
+P0274,2023-12-20,mental illness
+P0275,2016-04-16,interstitial lung disease
+P0275,2018-08-02,diabetes
+P0275,2023-05-03,bronchiectasis
+P0276,2016-04-09,heart failure
+P0276,2018-03-02,cancer
+P0276,2022-11-01,dysphagia
+P0279,2019-10-14,neuropathic pain
+P0279,2021-03-03,chronic arthritis
+P0279,2022-05-15,chronic kidney disease
+P0279,2024-05-10,cancer
+P0281,2017-09-16,mental illness
+P0281,2018-02-05,insomnia
+P0281,2020-03-17,epilepsy
+P0281,2023-11-29,heart failure
+P0284,2015-07-11,dysphagia
+P0284,2015-08-15,visual impairment
+P0284,2016-11-07,hypertension
+P0284,2016-11-30,coronary heart disease
+P0284,2018-03-04,neuropathic pain
+P0284,2018-03-16,cerebral palsy
+P0284,2018-11-06,chronic pain conditions
+P0284,2019-01-28,cardiac arrhythmias
+P0284,2019-10-05,chronic pain conditions
+P0284,2019-11-18,cancer
+P0284,2020-05-13,osteoporosis
+P0284,2021-01-05,interstitial lung disease
+P0284,2021-02-22,parkinsons
+P0284,2022-06-01,thyroid disorders
+P0284,2023-02-27,hearing loss
+P0284,2023-11-19,multiple sclerosis
+P0284,2024-10-22,neuropathic pain
+P0285,2016-10-15,osteoporosis
+P0285,2017-01-17,peripheral vascular disease
+P0285,2017-04-17,chronic diarrhoea
+P0285,2017-05-10,dementia
+P0285,2019-04-09,chronic airway diseases
+P0285,2019-09-20,epilepsy
+P0285,2019-11-07,epilepsy
+P0285,2020-10-17,chronic kidney disease
+P0285,2020-10-29,chronic constipation
+P0285,2024-03-14,peripheral vascular disease
+P0285,2024-03-25,chronic constipation
+P0285,2024-04-18,coronary heart disease
+P0286,2015-07-24,osteoporosis
+P0286,2016-04-23,psoriasis
+P0286,2018-09-30,hearing loss
+P0287,2015-11-04,mental illness
+P0287,2017-01-24,cancer
+P0287,2017-05-16,reflux disorders
+P0287,2019-02-08,chronic constipation
+P0287,2019-03-09,reflux disorders
+P0287,2022-12-13,chronic pneumonia
+P0287,2022-12-14,multiple sclerosis
+P0287,2022-12-30,chronic airway diseases
+P0287,2024-11-30,psoriasis
+P0288,2015-02-28,menopausal and perimenopausal
+P0288,2016-09-12,cirrhosis
+P0288,2017-04-28,interstitial lung disease
+P0288,2019-01-06,dementia
+P0288,2019-07-10,thyroid disorders
+P0288,2019-09-13,reflux disorders
+P0288,2020-12-11,chronic pneumonia
+P0288,2021-10-19,visual impairment
+P0288,2022-01-30,interstitial lung disease
+P0288,2022-12-07,cerebral palsy
+P0288,2023-03-27,peripheral vascular disease
+P0289,2015-07-15,reflux disorders
+P0289,2016-02-27,cardiac arrhythmias
+P0289,2018-04-28,chronic diarrhoea
+P0289,2018-06-08,psoriasis
+P0289,2018-12-07,hypertension
+P0289,2019-04-24,osteoporosis
+P0289,2020-10-24,tourette
+P0289,2021-06-16,mental illness
+P0289,2021-06-27,insomnia
+P0289,2021-12-16,tourette
+P0289,2024-02-07,osteoporosis
+P0290,2015-12-11,mental illness
+P0290,2017-05-04,chronic airway diseases
+P0290,2019-10-28,chronic diarrhoea
+P0290,2020-03-14,thyroid disorders
+P0290,2020-05-24,hearing loss
+P0290,2023-02-09,cerebral palsy
+P0290,2023-05-07,polycystic ovary syndrome
+P0290,2023-08-09,inflammatory bowel disease
+P0291,2015-11-18,stroke
+P0291,2017-11-15,multiple sclerosis
+P0291,2022-05-17,bronchiectasis
+P0292,2016-05-11,barretts oesophagus
+P0292,2018-04-19,chronic diarrhoea
+P0292,2022-07-20,hypertension
+P0293,2016-02-18,visual impairment
+P0293,2016-03-15,menopausal and perimenopausal
+P0293,2016-05-20,chronic pneumonia
+P0293,2018-04-30,menopausal and perimenopausal
+P0293,2021-01-30,dementia
+P0293,2022-06-30,epilepsy
+P0293,2024-08-20,heart failure
+P0295,2015-04-01,neuropathic pain
+P0295,2015-10-21,diabetes
+P0295,2016-02-05,thyroid disorders
+P0295,2016-04-06,chronic pain conditions
+P0295,2017-02-17,barretts oesophagus
+P0295,2017-06-24,diabetes
+P0295,2019-05-15,cerebral palsy
+P0295,2020-04-29,hearing loss
+P0297,2021-05-08,stroke
+P0297,2023-07-30,anaemia
+P0297,2024-04-05,addisons disease
+P0297,2024-06-15,barretts oesophagus
+P0299,2016-05-04,reflux disorders
+P0299,2016-10-08,osteoporosis
+P0299,2018-06-20,peripheral vascular disease
+P0299,2019-01-04,epilepsy
+P0299,2019-01-17,mental illness
+P0299,2019-09-07,visual impairment
+P0299,2020-04-26,mental illness
+P0299,2021-03-03,coronary heart disease
+P0299,2021-03-07,epilepsy
+P0299,2021-12-19,diabetes
+P0299,2022-03-12,polycystic ovary syndrome
+P0299,2022-03-23,peripheral vascular disease
+P0299,2023-05-03,thyroid disorders
+P0299,2023-05-16,coronary heart disease
+P0299,2023-06-20,chronic pain conditions
+P0300,2016-05-13,coronary heart disease
+P0300,2018-01-18,visual impairment
+P0300,2018-09-05,polycystic ovary syndrome
+P0300,2018-10-23,stroke
+P0300,2020-01-24,chronic kidney disease
+P0300,2022-02-28,parkinsons
+P0300,2022-05-11,tourette
+P0300,2023-07-15,chronic pneumonia
+P0301,2016-05-14,dementia
+P0301,2016-11-14,cirrhosis
+P0301,2018-01-23,parkinsons
+P0301,2023-10-22,inflammatory bowel disease
+P0301,2024-02-23,chronic pain conditions
+P0301,2024-09-21,hearing loss
+P0302,2016-12-13,chronic arthritis
+P0302,2017-06-25,neuropathic pain
+P0302,2017-08-30,coronary heart disease
+P0302,2019-05-11,chronic kidney disease
+P0302,2019-10-09,osteoporosis
+P0302,2020-02-24,cancer
+P0302,2020-09-22,visual impairment
+P0302,2021-08-11,tourette
+P0302,2024-08-01,bronchiectasis
+P0303,2016-02-18,stroke
+P0303,2017-07-02,cancer
+P0303,2019-10-18,cerebral palsy
+P0303,2021-08-12,coronary heart disease
+P0303,2022-03-02,insomnia
+P0303,2022-11-27,peripheral vascular disease
+P0303,2023-04-08,chronic pain conditions
+P0305,2016-05-08,coronary heart disease
+P0305,2017-04-04,cirrhosis
+P0305,2018-05-01,epilepsy
+P0305,2020-10-28,stroke
+P0305,2021-04-11,dysphagia
+P0305,2022-01-14,cerebral palsy
+P0305,2022-03-13,polycystic ovary syndrome
+P0305,2022-04-08,addisons disease
+P0305,2022-10-21,epilepsy
+P0306,2018-02-10,heart failure
+P0306,2019-11-02,chronic diarrhoea
+P0306,2021-05-26,parkinsons
+P0306,2022-09-04,hypertension
+P0306,2023-01-18,anaemia
+P0309,2015-04-04,neuropathic pain
+P0309,2020-07-05,anaemia
+P0309,2021-09-08,multiple sclerosis
+P0309,2022-04-10,neuropathic pain
+P0309,2022-09-09,cancer
+P0309,2022-11-17,peripheral vascular disease
+P0309,2023-06-30,visual impairment
+P0309,2024-12-04,heart failure
+P0311,2016-07-08,heart failure
+P0311,2017-11-08,menopausal and perimenopausal
+P0311,2020-09-27,polycystic ovary syndrome
+P0311,2020-12-31,chronic pneumonia
+P0311,2021-07-10,chronic airway diseases
+P0311,2021-12-27,osteoporosis
+P0312,2015-04-14,parkinsons
+P0312,2015-06-11,heart failure
+P0312,2016-01-10,mental illness
+P0312,2016-07-09,barretts oesophagus
+P0312,2016-09-30,anaemia
+P0312,2020-03-20,visual impairment
+P0312,2024-06-25,multiple sclerosis
+P0312,2024-08-04,chronic airway diseases
+P0313,2017-01-11,chronic pneumonia
+P0313,2017-04-18,cirrhosis
+P0313,2017-12-10,cancer
+P0313,2018-05-02,osteoporosis
+P0313,2018-08-28,insomnia
+P0313,2018-10-10,osteoporosis
+P0313,2021-10-01,diabetes
+P0313,2021-12-19,chronic airway diseases
+P0313,2022-08-14,cardiac arrhythmias
+P0313,2023-10-04,insomnia
+P0313,2023-12-06,inflammatory bowel disease
+P0313,2023-12-18,chronic constipation
+P0313,2024-05-31,hypertension
+P0315,2015-07-23,polycystic ovary syndrome
+P0315,2016-05-10,cerebral palsy
+P0315,2017-07-26,dysphagia
+P0315,2020-10-22,barretts oesophagus
+P0315,2021-01-25,stroke
+P0316,2016-05-19,bronchiectasis
+P0316,2017-01-31,peripheral vascular disease
+P0316,2024-04-03,insomnia
+P0317,2015-02-02,menopausal and perimenopausal
+P0317,2015-04-25,chronic diarrhoea
+P0317,2018-02-02,cancer
+P0317,2019-03-07,addisons disease
+P0317,2020-06-20,cirrhosis
+P0317,2020-09-07,psoriasis
+P0317,2022-07-29,chronic arthritis
+P0317,2023-08-30,addisons disease
+P0317,2024-09-25,multiple sclerosis
+P0318,2017-06-21,hearing loss
+P0318,2017-09-28,diabetes
+P0318,2018-11-23,cirrhosis
+P0318,2021-02-13,peripheral vascular disease
+P0319,2016-09-25,cerebral palsy
+P0319,2020-08-16,dementia
+P0319,2021-08-16,hypertension
+P0319,2021-12-12,interstitial lung disease
+P0320,2016-12-18,chronic pain conditions
+P0320,2018-08-31,visual impairment
+P0320,2018-09-25,menopausal and perimenopausal
+P0320,2019-02-09,hearing loss
+P0320,2019-05-31,visual impairment
+P0320,2020-07-22,cirrhosis
+P0321,2015-12-16,barretts oesophagus
+P0321,2016-12-31,multiple sclerosis
+P0321,2023-07-26,reflux disorders
+P0321,2024-12-15,menopausal and perimenopausal
+P0322,2015-11-25,parkinsons
+P0322,2015-12-08,osteoporosis
+P0322,2017-05-17,chronic kidney disease
+P0322,2018-05-11,addisons disease
+P0322,2018-11-23,psoriasis
+P0322,2019-02-26,heart failure
+P0322,2021-12-12,chronic pneumonia
+P0322,2023-01-03,coronary heart disease
+P0322,2023-09-26,menopausal and perimenopausal
+P0323,2015-01-08,stroke
+P0323,2015-04-22,parkinsons
+P0323,2015-12-04,barretts oesophagus
+P0323,2018-12-22,inflammatory bowel disease
+P0323,2019-07-16,dementia
+P0323,2022-11-24,chronic pain conditions
+P0325,2015-06-24,psoriasis
+P0325,2016-08-06,cerebral palsy
+P0325,2017-02-11,chronic airway diseases
+P0325,2017-03-15,heart failure
+P0325,2017-06-09,chronic constipation
+P0325,2017-11-08,interstitial lung disease
+P0325,2018-02-18,neuropathic pain
+P0325,2019-07-31,cancer
+P0325,2019-09-30,visual impairment
+P0325,2020-04-19,chronic pain conditions
+P0325,2020-04-22,cerebral palsy
+P0325,2020-08-14,barretts oesophagus
+P0325,2022-02-04,chronic pneumonia
+P0325,2022-08-17,stroke
+P0325,2022-11-25,menopausal and perimenopausal
+P0325,2023-01-12,chronic pneumonia
+P0325,2024-07-07,mental illness
+P0326,2016-07-29,dementia
+P0326,2018-01-01,insomnia
+P0326,2019-07-10,multiple sclerosis
+P0326,2020-03-15,chronic constipation
+P0326,2020-08-15,chronic diarrhoea
+P0326,2021-01-17,cancer
+P0326,2021-04-02,chronic pain conditions
+P0326,2023-04-17,peripheral vascular disease
+P0326,2024-09-14,tourette
+P0326,2024-11-02,thyroid disorders
+P0326,2024-12-01,chronic arthritis
+P0329,2015-12-30,chronic kidney disease
+P0329,2020-11-28,reflux disorders
+P0329,2021-06-24,hearing loss
+P0329,2021-11-24,dementia
+P0329,2022-05-12,peripheral vascular disease
+P0330,2015-08-23,diabetes
+P0330,2016-04-06,cancer
+P0330,2016-09-08,cardiac arrhythmias
+P0330,2021-02-23,chronic kidney disease
+P0330,2021-03-06,cardiac arrhythmias
+P0330,2021-10-17,chronic pain conditions
+P0330,2022-04-29,chronic arthritis
+P0330,2023-06-24,dysphagia
+P0332,2015-03-14,thyroid disorders
+P0332,2019-07-04,cerebral palsy
+P0332,2024-06-19,mental illness
+P0333,2016-01-29,cancer
+P0333,2018-10-12,cardiac arrhythmias
+P0333,2018-10-23,bronchiectasis
+P0333,2019-03-22,chronic constipation
+P0333,2020-11-09,parkinsons
+P0333,2022-02-17,neuropathic pain
+P0333,2023-01-22,cirrhosis
+P0333,2023-09-03,anaemia
+P0333,2023-10-19,chronic constipation
+P0333,2023-11-28,cirrhosis
+P0335,2016-04-29,cancer
+P0335,2016-06-02,epilepsy
+P0335,2020-05-30,chronic constipation
+P0335,2022-02-15,insomnia
+P0335,2024-12-26,barretts oesophagus
+P0336,2015-10-24,chronic pneumonia
+P0336,2015-11-03,tourette
+P0336,2016-04-21,cerebral palsy
+P0336,2017-07-18,cerebral palsy
+P0336,2021-02-24,stroke
+P0336,2021-03-14,interstitial lung disease
+P0336,2023-01-07,chronic diarrhoea
+P0336,2024-07-22,chronic constipation
+P0337,2016-01-09,stroke
+P0337,2016-08-18,cancer
+P0337,2017-01-08,inflammatory bowel disease
+P0337,2019-08-28,psoriasis
+P0337,2020-01-21,peripheral vascular disease
+P0337,2020-08-11,cirrhosis
+P0337,2022-04-21,coronary heart disease
+P0337,2022-09-02,parkinsons
+P0337,2022-12-23,neuropathic pain
+P0337,2024-02-16,addisons disease
+P0338,2016-04-24,interstitial lung disease
+P0338,2020-08-26,osteoporosis
+P0338,2021-07-21,parkinsons
+P0338,2022-08-02,peripheral vascular disease
+P0339,2015-12-09,tourette
+P0339,2016-11-01,anaemia
+P0339,2017-03-27,stroke
+P0339,2022-05-19,chronic constipation
+P0339,2022-07-11,mental illness
+P0340,2015-03-19,osteoporosis
+P0340,2015-03-22,chronic diarrhoea
+P0340,2016-03-28,mental illness
+P0340,2016-09-11,addisons disease
+P0340,2017-03-12,thyroid disorders
+P0340,2017-05-22,thyroid disorders
+P0340,2017-09-21,anaemia
+P0340,2019-05-10,epilepsy
+P0340,2019-06-08,cardiac arrhythmias
+P0340,2021-03-17,psoriasis
+P0340,2021-04-23,cardiac arrhythmias
+P0340,2023-05-20,menopausal and perimenopausal
+P0340,2023-08-02,menopausal and perimenopausal
+P0341,2020-05-12,hearing loss
+P0341,2021-01-31,inflammatory bowel disease
+P0341,2022-02-01,neuropathic pain
+P0341,2024-05-21,chronic arthritis
+P0343,2018-11-05,anaemia
+P0343,2021-10-24,dysphagia
+P0344,2015-08-29,chronic arthritis
+P0344,2016-01-01,psoriasis
+P0344,2018-01-26,parkinsons
+P0344,2018-04-26,bronchiectasis
+P0344,2019-08-30,inflammatory bowel disease
+P0344,2020-01-06,multiple sclerosis
+P0344,2021-03-03,reflux disorders
+P0345,2019-02-10,parkinsons
+P0345,2019-08-14,interstitial lung disease
+P0348,2016-06-28,tourette
+P0348,2016-10-13,stroke
+P0348,2017-02-04,multiple sclerosis
+P0348,2017-08-05,multiple sclerosis
+P0348,2019-08-18,cerebral palsy
+P0348,2019-08-29,interstitial lung disease
+P0348,2019-12-21,barretts oesophagus
+P0348,2020-01-09,anaemia
+P0348,2020-02-02,menopausal and perimenopausal
+P0348,2020-06-11,psoriasis
+P0348,2020-07-16,chronic airway diseases
+P0348,2020-11-28,chronic diarrhoea
+P0348,2021-02-07,insomnia
+P0348,2021-10-01,chronic pneumonia
+P0348,2021-12-19,cardiac arrhythmias
+P0348,2022-01-16,chronic pain conditions
+P0348,2022-03-28,chronic pain conditions
+P0348,2023-09-08,multiple sclerosis
+P0351,2015-11-08,cardiac arrhythmias
+P0351,2017-07-10,stroke
+P0351,2017-08-26,bronchiectasis
+P0351,2018-03-13,mental illness
+P0351,2018-10-03,chronic airway diseases
+P0351,2019-11-16,coronary heart disease
+P0351,2020-01-31,bronchiectasis
+P0351,2024-05-28,mental illness
+P0351,2024-07-24,neuropathic pain
+P0352,2018-10-02,neuropathic pain
+P0352,2019-06-20,chronic kidney disease
+P0352,2020-10-09,addisons disease
+P0352,2024-02-25,hearing loss
+P0352,2024-08-31,cardiac arrhythmias
+P0353,2024-12-01,bronchiectasis
+P0354,2015-01-27,visual impairment
+P0354,2015-12-14,stroke
+P0354,2016-05-19,bronchiectasis
+P0354,2016-08-25,dementia
+P0354,2020-04-17,heart failure
+P0354,2022-08-10,bronchiectasis
+P0354,2023-10-29,chronic arthritis
+P0356,2016-09-18,chronic airway diseases
+P0356,2017-03-02,chronic arthritis
+P0356,2017-04-26,interstitial lung disease
+P0356,2022-12-13,epilepsy
+P0356,2023-03-20,cardiac arrhythmias
+P0356,2024-07-18,reflux disorders
+P0357,2015-08-07,chronic constipation
+P0357,2015-08-13,chronic kidney disease
+P0357,2016-07-02,heart failure
+P0357,2017-01-13,stroke
+P0357,2019-08-17,cardiac arrhythmias
+P0359,2017-08-19,coronary heart disease
+P0359,2021-11-26,cerebral palsy
+P0359,2021-12-18,epilepsy
+P0359,2022-03-30,diabetes
+P0359,2024-02-18,cardiac arrhythmias
+P0360,2015-02-19,visual impairment
+P0360,2019-01-09,hearing loss
+P0360,2019-04-02,chronic arthritis
+P0360,2021-11-25,addisons disease
+P0360,2022-05-03,tourette
+P0361,2015-06-01,osteoporosis
+P0361,2015-10-31,cirrhosis
+P0361,2015-11-13,coronary heart disease
+P0361,2018-08-19,dementia
+P0361,2020-07-25,chronic airway diseases
+P0361,2022-01-22,anaemia
+P0361,2022-07-19,epilepsy
+P0361,2024-04-06,peripheral vascular disease
+P0365,2019-02-05,visual impairment
+P0365,2019-09-05,chronic constipation
+P0369,2015-12-04,anaemia
+P0369,2016-02-15,peripheral vascular disease
+P0369,2017-01-25,chronic airway diseases
+P0369,2017-01-28,neuropathic pain
+P0369,2017-12-31,cancer
+P0369,2018-11-08,stroke
+P0369,2019-02-03,coronary heart disease
+P0369,2019-05-10,chronic airway diseases
+P0369,2020-04-04,inflammatory bowel disease
+P0369,2023-08-31,neuropathic pain
+P0369,2024-09-12,osteoporosis
+P0370,2016-07-10,dementia
+P0370,2018-03-10,anaemia
+P0370,2019-04-08,coronary heart disease
+P0370,2019-07-05,parkinsons
+P0371,2015-05-30,cardiac arrhythmias
+P0371,2018-03-27,chronic diarrhoea
+P0371,2018-10-19,psoriasis
+P0371,2020-12-06,hypertension
+P0371,2023-06-09,hearing loss
+P0371,2024-04-25,chronic constipation
+P0371,2024-10-22,mental illness
+P0372,2015-05-06,parkinsons
+P0372,2017-12-05,dysphagia
+P0372,2019-02-08,diabetes
+P0372,2019-04-21,chronic pneumonia
+P0372,2020-01-13,polycystic ovary syndrome
+P0372,2020-02-18,inflammatory bowel disease
+P0372,2020-05-26,dementia
+P0372,2021-03-09,chronic pneumonia
+P0372,2023-01-03,cardiac arrhythmias
+P0372,2023-05-23,menopausal and perimenopausal
+P0372,2024-08-09,tourette
+P0372,2024-11-26,chronic constipation
+P0373,2015-08-08,menopausal and perimenopausal
+P0373,2017-04-10,thyroid disorders
+P0373,2018-12-24,reflux disorders
+P0373,2019-07-02,reflux disorders
+P0373,2021-03-04,chronic kidney disease
+P0373,2021-04-27,addisons disease
+P0373,2022-09-20,coronary heart disease
+P0373,2023-03-19,diabetes
+P0373,2024-03-08,peripheral vascular disease
+P0374,2015-04-03,heart failure
+P0374,2016-03-17,cancer
+P0374,2019-07-06,addisons disease
+P0374,2019-09-15,hearing loss
+P0374,2020-02-07,inflammatory bowel disease
+P0374,2022-10-29,chronic kidney disease
+P0375,2024-12-28,insomnia
+P0377,2016-07-17,insomnia
+P0377,2024-01-02,chronic pneumonia
+P0377,2024-09-04,chronic constipation
+P0377,2024-12-27,thyroid disorders
+P0378,2017-07-11,chronic airway diseases
+P0378,2020-03-28,heart failure
+P0378,2020-06-19,polycystic ovary syndrome
+P0378,2022-12-24,chronic pneumonia
+P0378,2023-03-16,dementia
+P0379,2015-05-09,dysphagia
+P0379,2016-02-27,multiple sclerosis
+P0379,2022-01-01,addisons disease
+P0380,2018-03-10,stroke
+P0380,2023-01-09,osteoporosis
+P0382,2015-05-17,chronic arthritis
+P0382,2019-01-28,stroke
+P0382,2022-08-27,barretts oesophagus
+P0383,2017-04-14,hypertension
+P0383,2018-08-03,peripheral vascular disease
+P0383,2023-09-25,diabetes
+P0383,2024-07-24,dysphagia
+P0385,2020-01-18,dysphagia
+P0385,2023-01-30,chronic airway diseases
+P0388,2016-08-08,osteoporosis
+P0388,2017-01-10,heart failure
+P0388,2017-06-08,chronic diarrhoea
+P0388,2018-06-06,heart failure
+P0388,2018-08-21,epilepsy
+P0388,2019-01-22,epilepsy
+P0388,2020-10-10,dysphagia
+P0388,2021-10-15,chronic pneumonia
+P0388,2022-03-28,dementia
+P0388,2022-05-15,interstitial lung disease
+P0388,2022-10-12,chronic airway diseases
+P0388,2023-04-12,cerebral palsy
+P0388,2023-07-27,cancer
+P0388,2023-11-09,chronic pain conditions
+P0388,2024-04-12,neuropathic pain
+P0389,2015-06-07,cirrhosis
+P0389,2015-08-04,chronic pneumonia
+P0389,2017-02-01,insomnia
+P0389,2017-04-07,hearing loss
+P0389,2018-05-08,bronchiectasis
+P0389,2018-07-07,multiple sclerosis
+P0389,2019-06-29,menopausal and perimenopausal
+P0389,2019-10-21,cerebral palsy
+P0389,2020-10-20,chronic constipation
+P0389,2022-06-13,peripheral vascular disease
+P0389,2022-06-29,mental illness
+P0389,2023-12-03,thyroid disorders
+P0389,2024-02-26,tourette
+P0390,2016-05-05,addisons disease
+P0390,2017-05-27,barretts oesophagus
+P0390,2018-07-19,stroke
+P0390,2019-07-12,diabetes
+P0390,2023-06-22,thyroid disorders
+P0390,2023-08-07,hearing loss
+P0391,2016-04-05,osteoporosis
+P0391,2016-12-06,chronic pain conditions
+P0391,2017-10-26,dysphagia
+P0391,2018-03-15,chronic airway diseases
+P0391,2018-06-25,chronic airway diseases
+P0391,2020-03-14,polycystic ovary syndrome
+P0391,2020-08-23,chronic arthritis
+P0393,2018-02-12,anaemia
+P0393,2022-10-21,diabetes
+P0394,2015-02-20,epilepsy
+P0394,2015-04-09,insomnia
+P0394,2015-08-03,barretts oesophagus
+P0394,2016-03-23,cardiac arrhythmias
+P0394,2016-10-27,cerebral palsy
+P0394,2017-02-13,cerebral palsy
+P0394,2020-01-11,peripheral vascular disease
+P0394,2021-07-26,addisons disease
+P0394,2021-11-13,thyroid disorders
+P0394,2023-10-31,epilepsy
+P0394,2024-03-11,tourette
+P0395,2015-11-16,chronic arthritis
+P0395,2017-10-15,heart failure
+P0395,2018-07-26,cardiac arrhythmias
+P0395,2018-12-27,chronic pain conditions
+P0395,2020-11-23,peripheral vascular disease
+P0395,2021-10-08,cerebral palsy
+P0395,2022-01-17,chronic constipation
+P0395,2022-04-09,multiple sclerosis
+P0395,2022-10-31,neuropathic pain
+P0395,2024-01-28,insomnia
+P0396,2018-12-10,thyroid disorders
+P0396,2019-05-25,hearing loss
+P0396,2019-06-25,chronic airway diseases
+P0396,2021-09-06,heart failure
+P0397,2016-01-16,chronic pain conditions
+P0397,2016-07-03,hearing loss
+P0397,2021-04-09,thyroid disorders
+P0397,2021-11-13,reflux disorders
+P0397,2022-06-13,heart failure
+P0397,2023-02-20,dysphagia
+P0397,2023-06-30,dysphagia
+P0398,2019-05-28,chronic pneumonia
+P0398,2022-01-04,anaemia
+P0398,2024-07-27,thyroid disorders
+P0398,2024-11-28,diabetes
+P0400,2015-04-02,mental illness
+P0400,2015-05-08,peripheral vascular disease
+P0400,2015-12-19,chronic arthritis
+P0400,2016-05-22,chronic pain conditions
+P0400,2016-12-13,addisons disease
+P0400,2017-01-20,thyroid disorders
+P0400,2017-08-10,inflammatory bowel disease
+P0400,2018-05-03,coronary heart disease
+P0400,2018-08-15,chronic arthritis
+P0400,2021-01-16,interstitial lung disease
+P0400,2021-09-11,chronic arthritis
+P0400,2022-05-12,bronchiectasis
+P0400,2023-01-07,diabetes
+P0400,2023-03-31,chronic airway diseases
+P0400,2023-07-07,cerebral palsy
+P0400,2023-08-09,cancer
+P0400,2023-09-20,reflux disorders
+P0400,2024-01-02,cirrhosis
+P0400,2024-02-09,hypertension
+P0400,2024-08-27,anaemia
+P0401,2019-05-07,psoriasis
+P0402,2016-03-31,anaemia
+P0402,2020-08-03,cardiac arrhythmias
+P0405,2015-07-14,anaemia
+P0405,2017-06-10,heart failure
+P0405,2017-10-02,dementia
+P0405,2021-02-23,chronic airway diseases
+P0405,2024-05-29,chronic arthritis
+P0406,2018-03-24,peripheral vascular disease
+P0406,2023-11-11,diabetes
+P0406,2024-03-08,chronic diarrhoea
+P0406,2024-05-28,tourette
+P0407,2015-09-12,dementia
+P0407,2018-03-29,cerebral palsy
+P0407,2020-01-25,chronic pain conditions
+P0407,2022-10-19,cardiac arrhythmias
+P0407,2024-03-17,peripheral vascular disease
+P0408,2015-07-29,cerebral palsy
+P0408,2016-02-29,menopausal and perimenopausal
+P0408,2016-10-09,chronic pain conditions
+P0408,2023-12-06,peripheral vascular disease
+P0408,2024-10-27,bronchiectasis
+P0410,2015-10-15,hypertension
+P0411,2018-01-07,osteoporosis
+P0411,2022-05-18,cerebral palsy
+P0411,2022-06-22,bronchiectasis
+P0412,2022-11-28,insomnia
+P0413,2016-11-30,cerebral palsy
+P0413,2019-01-24,heart failure
+P0413,2019-07-15,cancer
+P0413,2021-10-07,bronchiectasis
+P0415,2019-03-04,chronic kidney disease
+P0415,2019-11-10,chronic arthritis
+P0415,2022-12-19,thyroid disorders
+P0416,2018-05-23,multiple sclerosis
+P0416,2020-02-01,visual impairment
+P0416,2022-03-30,insomnia
+P0418,2015-03-05,cardiac arrhythmias
+P0418,2016-02-17,insomnia
+P0418,2017-11-27,reflux disorders
+P0418,2021-08-21,mental illness
+P0420,2015-01-21,addisons disease
+P0420,2015-06-02,insomnia
+P0420,2015-07-15,cirrhosis
+P0420,2015-10-13,menopausal and perimenopausal
+P0420,2015-11-21,chronic constipation
+P0420,2015-12-01,osteoporosis
+P0420,2016-11-23,barretts oesophagus
+P0420,2016-12-05,hearing loss
+P0420,2019-08-31,dysphagia
+P0420,2021-02-11,barretts oesophagus
+P0420,2021-02-16,coronary heart disease
+P0420,2021-05-20,inflammatory bowel disease
+P0420,2021-06-06,bronchiectasis
+P0420,2021-09-29,addisons disease
+P0420,2022-04-22,reflux disorders
+P0420,2023-07-08,chronic kidney disease
+P0420,2023-11-08,cancer
+P0421,2015-03-18,tourette
+P0421,2015-04-27,chronic constipation
+P0421,2018-07-11,cardiac arrhythmias
+P0421,2018-09-02,osteoporosis
+P0421,2019-03-17,menopausal and perimenopausal
+P0421,2020-02-29,reflux disorders
+P0421,2023-01-29,multiple sclerosis
+P0423,2015-04-21,addisons disease
+P0423,2018-09-07,chronic kidney disease
+P0423,2020-05-07,dementia
+P0423,2024-04-22,heart failure
+P0426,2016-04-01,epilepsy
+P0426,2017-02-05,reflux disorders
+P0426,2018-05-05,barretts oesophagus
+P0426,2018-10-21,addisons disease
+P0426,2020-08-21,chronic airway diseases
+P0427,2019-04-01,polycystic ovary syndrome
+P0427,2020-06-06,chronic airway diseases
+P0427,2021-07-21,mental illness
+P0427,2021-12-07,hypertension
+P0427,2024-08-22,hearing loss
+P0428,2016-01-06,osteoporosis
+P0428,2016-03-30,mental illness
+P0428,2016-06-22,peripheral vascular disease
+P0428,2017-02-25,interstitial lung disease
+P0428,2017-03-24,addisons disease
+P0428,2018-05-29,thyroid disorders
+P0428,2019-08-11,diabetes
+P0428,2020-07-29,reflux disorders
+P0428,2020-09-29,chronic pneumonia
+P0428,2021-08-02,chronic arthritis
+P0428,2021-10-15,insomnia
+P0428,2022-03-10,hypertension
+P0428,2023-12-31,barretts oesophagus
+P0428,2024-11-10,chronic pain conditions
+P0429,2015-03-22,psoriasis
+P0429,2016-01-24,barretts oesophagus
+P0429,2016-08-23,tourette
+P0429,2018-03-14,interstitial lung disease
+P0429,2018-06-09,osteoporosis
+P0429,2018-10-30,inflammatory bowel disease
+P0429,2019-04-19,cancer
+P0429,2020-07-14,peripheral vascular disease
+P0429,2021-05-15,diabetes
+P0429,2021-12-04,cerebral palsy
+P0429,2024-06-22,chronic kidney disease
+P0431,2015-05-31,chronic pneumonia
+P0431,2016-02-12,chronic airway diseases
+P0431,2017-04-03,barretts oesophagus
+P0431,2022-11-21,hypertension
+P0431,2024-04-22,menopausal and perimenopausal
+P0432,2015-04-25,barretts oesophagus
+P0432,2015-05-06,coronary heart disease
+P0432,2016-11-25,tourette
+P0432,2019-08-12,cirrhosis
+P0432,2020-07-24,chronic airway diseases
+P0434,2015-08-20,menopausal and perimenopausal
+P0434,2016-01-16,cardiac arrhythmias
+P0434,2017-08-14,heart failure
+P0434,2018-12-25,cerebral palsy
+P0434,2020-06-15,peripheral vascular disease
+P0434,2022-03-07,reflux disorders
+P0434,2022-06-09,thyroid disorders
+P0434,2022-07-31,cerebral palsy
+P0434,2023-03-14,chronic arthritis
+P0434,2023-08-22,anaemia
+P0436,2015-12-07,hypertension
+P0436,2016-02-04,chronic pneumonia
+P0436,2016-05-06,psoriasis
+P0436,2016-10-25,chronic pain conditions
+P0436,2017-04-26,neuropathic pain
+P0436,2018-07-19,hypertension
+P0436,2019-09-26,coronary heart disease
+P0436,2019-10-23,chronic constipation
+P0436,2020-08-03,peripheral vascular disease
+P0436,2020-10-03,visual impairment
+P0436,2024-02-19,cerebral palsy
+P0437,2021-06-22,cirrhosis
+P0437,2024-02-08,addisons disease
+P0437,2024-11-29,chronic pain conditions
+P0440,2015-09-19,hypertension
+P0440,2016-01-16,chronic arthritis
+P0440,2020-05-09,psoriasis
+P0440,2024-09-19,insomnia
+P0442,2015-02-10,chronic pain conditions
+P0442,2016-02-10,thyroid disorders
+P0442,2016-04-16,bronchiectasis
+P0442,2018-01-10,epilepsy
+P0442,2021-09-17,epilepsy
+P0442,2022-03-30,hypertension
+P0444,2015-01-31,addisons disease
+P0444,2021-11-25,stroke
+P0444,2024-05-23,cardiac arrhythmias
+P0445,2015-01-22,bronchiectasis
+P0445,2016-05-07,osteoporosis
+P0445,2018-12-28,cancer
+P0445,2020-06-27,anaemia
+P0445,2022-04-14,hypertension
+P0445,2024-07-16,psoriasis
+P0447,2015-02-26,chronic pain conditions
+P0447,2015-09-04,mental illness
+P0447,2017-08-02,multiple sclerosis
+P0449,2015-12-31,multiple sclerosis
+P0449,2016-02-21,anaemia
+P0449,2017-01-20,diabetes
+P0449,2017-05-21,reflux disorders
+P0449,2023-08-28,interstitial lung disease
+P0449,2023-09-13,epilepsy
+P0449,2023-09-17,stroke
+P0450,2015-01-12,tourette
+P0450,2015-04-24,chronic pneumonia
+P0450,2015-07-01,menopausal and perimenopausal
+P0450,2016-10-29,chronic kidney disease
+P0450,2017-01-16,multiple sclerosis
+P0450,2017-03-26,osteoporosis
+P0450,2017-08-22,hypertension
+P0450,2018-02-01,hearing loss
+P0450,2019-07-27,epilepsy
+P0450,2020-02-20,psoriasis
+P0450,2020-04-04,polycystic ovary syndrome
+P0450,2020-04-10,chronic pain conditions
+P0450,2020-08-21,cirrhosis
+P0450,2020-11-21,cerebral palsy
+P0450,2020-12-26,anaemia
+P0450,2023-05-08,reflux disorders
+P0450,2024-01-14,visual impairment
+P0450,2024-06-26,chronic airway diseases
+P0450,2024-08-28,cancer
+P0451,2021-09-23,anaemia
+P0451,2022-12-16,osteoporosis
+P0451,2023-05-01,chronic airway diseases
+P0452,2015-03-31,mental illness
+P0452,2017-10-07,polycystic ovary syndrome
+P0454,2015-02-01,dementia
+P0454,2015-04-14,diabetes
+P0454,2015-06-06,dysphagia
+P0454,2016-01-25,hearing loss
+P0454,2016-01-28,anaemia
+P0454,2016-06-07,polycystic ovary syndrome
+P0454,2017-05-27,cancer
+P0454,2017-12-01,hearing loss
+P0454,2018-03-10,stroke
+P0454,2018-08-19,chronic airway diseases
+P0454,2018-12-18,neuropathic pain
+P0454,2019-01-21,thyroid disorders
+P0454,2019-02-08,chronic airway diseases
+P0454,2019-07-25,psoriasis
+P0454,2019-09-21,cancer
+P0454,2019-10-19,epilepsy
+P0454,2020-04-21,stroke
+P0454,2021-06-03,chronic constipation
+P0454,2022-03-16,dysphagia
+P0454,2023-02-15,parkinsons
+P0454,2023-06-20,osteoporosis
+P0454,2023-09-22,visual impairment
+P0454,2024-07-30,osteoporosis
+P0454,2024-08-20,chronic diarrhoea
+P0455,2015-12-06,peripheral vascular disease
+P0455,2015-12-23,heart failure
+P0455,2016-12-04,polycystic ovary syndrome
+P0455,2017-03-28,multiple sclerosis
+P0455,2019-03-07,cirrhosis
+P0455,2019-10-09,osteoporosis
+P0455,2020-02-03,anaemia
+P0455,2020-09-26,parkinsons
+P0455,2020-11-18,cardiac arrhythmias
+P0455,2021-02-08,epilepsy
+P0455,2022-07-23,chronic pneumonia
+P0460,2017-05-11,coronary heart disease
+P0460,2018-12-17,cancer
+P0460,2019-01-20,hypertension
+P0460,2021-03-25,interstitial lung disease
+P0460,2024-06-28,bronchiectasis
+P0463,2015-10-11,thyroid disorders
+P0463,2016-05-25,chronic constipation
+P0463,2016-11-30,menopausal and perimenopausal
+P0463,2018-01-19,tourette
+P0463,2018-04-04,dementia
+P0463,2019-04-11,stroke
+P0463,2019-11-19,epilepsy
+P0463,2023-02-02,heart failure
+P0463,2024-06-29,multiple sclerosis
+P0465,2015-12-20,peripheral vascular disease
+P0465,2016-08-07,thyroid disorders
+P0465,2016-08-20,addisons disease
+P0465,2017-02-03,menopausal and perimenopausal
+P0465,2017-09-07,heart failure
+P0465,2019-05-23,hypertension
+P0465,2020-01-26,hypertension
+P0465,2020-11-14,menopausal and perimenopausal
+P0465,2020-11-16,parkinsons
+P0465,2021-01-08,chronic arthritis
+P0465,2022-07-29,hypertension
+P0465,2022-10-30,visual impairment
+P0465,2023-07-08,cancer
+P0465,2024-03-22,barretts oesophagus
+P0465,2024-04-16,mental illness
+P0465,2024-05-06,hypertension
+P0465,2024-06-23,coronary heart disease
+P0465,2024-12-15,mental illness
+P0467,2015-11-29,dementia
+P0467,2023-08-25,osteoporosis
+P0467,2024-11-07,coronary heart disease
+P0471,2019-08-30,cerebral palsy
+P0471,2022-05-08,barretts oesophagus
+P0471,2022-12-15,addisons disease
+P0471,2023-05-01,psoriasis
+P0472,2016-03-03,osteoporosis
+P0472,2016-08-26,chronic arthritis
+P0472,2018-08-05,neuropathic pain
+P0472,2020-04-17,chronic pneumonia
+P0472,2021-01-30,insomnia
+P0472,2022-01-15,insomnia
+P0472,2022-12-10,parkinsons
+P0472,2023-08-03,heart failure
+P0473,2017-05-18,dementia
+P0473,2018-07-21,heart failure
+P0473,2018-07-23,inflammatory bowel disease
+P0473,2021-06-01,reflux disorders
+P0473,2024-04-28,insomnia
+P0474,2015-05-15,chronic pain conditions
+P0474,2016-07-15,chronic diarrhoea
+P0474,2017-02-26,chronic diarrhoea
+P0474,2018-10-27,chronic airway diseases
+P0474,2019-04-25,cirrhosis
+P0474,2019-08-11,hypertension
+P0474,2020-08-16,tourette
+P0474,2021-02-28,peripheral vascular disease
+P0474,2023-03-17,neuropathic pain
+P0474,2023-03-26,chronic airway diseases
+P0474,2023-05-08,chronic arthritis
+P0474,2024-03-12,chronic airway diseases
+P0474,2024-09-30,dementia
+P0475,2015-01-22,peripheral vascular disease
+P0475,2015-04-05,insomnia
+P0475,2015-04-18,peripheral vascular disease
+P0475,2018-11-29,tourette
+P0475,2019-05-08,chronic airway diseases
+P0475,2020-03-07,cerebral palsy
+P0475,2020-06-19,multiple sclerosis
+P0475,2024-06-08,bronchiectasis
+P0477,2015-12-12,cancer
+P0477,2017-07-14,dementia
+P0477,2017-08-01,chronic kidney disease
+P0477,2020-12-16,multiple sclerosis
+P0477,2023-10-23,hearing loss
+P0478,2016-06-09,chronic diarrhoea
+P0478,2018-05-01,anaemia
+P0478,2020-05-03,cardiac arrhythmias
+P0478,2020-06-17,heart failure
+P0478,2021-05-03,addisons disease
+P0478,2024-04-19,epilepsy
+P0479,2015-12-02,anaemia
+P0479,2017-10-11,parkinsons
+P0479,2017-11-27,stroke
+P0479,2019-04-12,cirrhosis
+P0479,2020-02-27,psoriasis
+P0479,2020-08-06,cancer
+P0479,2020-09-10,anaemia
+P0480,2015-05-26,diabetes
+P0480,2017-02-08,chronic diarrhoea
+P0480,2018-03-03,peripheral vascular disease
+P0480,2018-04-28,chronic constipation
+P0480,2018-06-04,cirrhosis
+P0480,2019-09-10,chronic pain conditions
+P0480,2019-09-27,menopausal and perimenopausal
+P0480,2020-11-14,stroke
+P0480,2021-02-19,dementia
+P0480,2021-04-20,osteoporosis
+P0480,2021-06-02,cancer
+P0480,2021-08-25,mental illness
+P0480,2021-08-31,bronchiectasis
+P0480,2021-09-25,reflux disorders
+P0480,2022-04-01,interstitial lung disease
+P0480,2022-05-25,hearing loss
+P0480,2022-11-20,anaemia
+P0480,2022-11-21,cirrhosis
+P0480,2024-08-19,diabetes
+P0480,2024-08-28,hearing loss
+P0481,2015-05-08,epilepsy
+P0481,2016-01-05,neuropathic pain
+P0481,2019-10-13,menopausal and perimenopausal
+P0481,2020-01-22,interstitial lung disease
+P0481,2020-06-12,cerebral palsy
+P0481,2020-10-28,cancer
+P0481,2022-01-07,dementia
+P0481,2023-03-26,neuropathic pain
+P0481,2024-01-22,multiple sclerosis
+P0481,2024-05-29,addisons disease
+P0481,2024-09-05,tourette
+P0482,2015-06-05,multiple sclerosis
+P0482,2017-02-12,thyroid disorders
+P0482,2017-08-31,tourette
+P0482,2021-08-21,dysphagia
+P0482,2023-11-18,hearing loss
+P0482,2024-04-04,chronic diarrhoea
+P0485,2015-01-13,diabetes
+P0485,2016-01-06,reflux disorders
+P0485,2016-06-18,bronchiectasis
+P0485,2016-10-09,chronic pain conditions
+P0485,2018-04-15,chronic constipation
+P0485,2021-09-11,coronary heart disease
+P0485,2022-01-03,addisons disease
+P0485,2023-09-16,cardiac arrhythmias
+P0486,2015-03-26,addisons disease
+P0486,2018-10-20,reflux disorders
+P0486,2019-04-19,multiple sclerosis
+P0486,2020-03-31,mental illness
+P0486,2021-10-28,chronic airway diseases
+P0486,2022-07-03,menopausal and perimenopausal
+P0486,2022-11-02,cerebral palsy
+P0487,2016-08-28,dysphagia
+P0487,2017-05-07,coronary heart disease
+P0487,2018-02-11,bronchiectasis
+P0487,2023-07-30,barretts oesophagus
+P0488,2017-05-03,reflux disorders
+P0488,2017-06-04,heart failure
+P0488,2018-07-03,cirrhosis
+P0488,2018-12-11,stroke
+P0488,2019-04-18,barretts oesophagus
+P0488,2020-09-01,diabetes
+P0489,2016-11-15,chronic airway diseases
+P0489,2020-09-28,diabetes
+P0489,2023-03-13,tourette
+P0489,2024-06-13,epilepsy
+P0490,2015-01-10,menopausal and perimenopausal
+P0490,2016-08-21,chronic arthritis
+P0490,2017-04-09,insomnia
+P0490,2018-01-22,cardiac arrhythmias
+P0490,2021-04-29,multiple sclerosis
+P0490,2022-01-16,bronchiectasis
+P0491,2017-08-21,heart failure
+P0491,2024-08-02,addisons disease
+P0492,2018-05-21,hearing loss
+P0492,2018-09-18,reflux disorders
+P0492,2021-11-15,dysphagia
+P0492,2022-10-20,parkinsons
+P0492,2024-12-16,chronic pneumonia
+P0493,2015-06-15,mental illness
+P0493,2016-03-09,visual impairment
+P0493,2016-06-10,cardiac arrhythmias
+P0493,2016-11-11,osteoporosis
+P0493,2018-04-19,chronic constipation
+P0493,2018-10-19,coronary heart disease
+P0493,2019-07-16,hearing loss
+P0493,2021-10-14,cerebral palsy
+P0493,2021-10-30,tourette
+P0493,2022-06-09,visual impairment
+P0493,2023-05-07,cirrhosis
+P0493,2024-02-02,cancer
+P0493,2024-05-18,insomnia
+P0494,2015-05-04,heart failure
+P0494,2015-06-25,cerebral palsy
+P0494,2016-02-28,diabetes
+P0494,2017-07-05,addisons disease
+P0494,2018-12-31,chronic constipation
+P0494,2020-07-14,heart failure
+P0494,2023-07-17,tourette
+P0495,2017-05-07,dementia
+P0495,2017-12-19,neuropathic pain
+P0495,2018-10-30,dysphagia
+P0495,2019-05-29,chronic constipation
+P0495,2019-06-26,chronic constipation
+P0495,2019-12-12,hypertension
+P0495,2020-03-19,bronchiectasis
+P0495,2020-11-20,chronic kidney disease
+P0495,2020-12-07,menopausal and perimenopausal
+P0495,2022-09-15,chronic diarrhoea
+P0495,2022-12-24,thyroid disorders
+P0497,2017-04-02,bronchiectasis
+P0497,2019-09-03,mental illness
+P0497,2022-03-27,epilepsy
+P0497,2022-05-26,stroke
+P0497,2023-05-14,insomnia
+P0498,2017-01-08,cerebral palsy
+P0498,2017-09-12,diabetes
+P0498,2022-02-02,reflux disorders
+P0498,2022-10-21,multiple sclerosis
+P0498,2022-12-19,hearing loss
+P0499,2015-01-07,visual impairment
+P0499,2015-07-05,polycystic ovary syndrome
+P0499,2016-03-15,cancer
+P0499,2017-04-17,menopausal and perimenopausal
+P0499,2018-09-23,chronic constipation
+P0499,2019-01-02,neuropathic pain
+P0499,2019-07-22,bronchiectasis
+P0499,2020-04-11,cerebral palsy
+P0499,2020-08-07,anaemia
+P0499,2023-07-16,osteoporosis
+P0499,2023-12-20,tourette
+P0499,2024-07-19,heart failure
+P0501,2015-12-19,cirrhosis
+P0501,2017-11-07,chronic pain conditions
+P0501,2019-06-23,dementia
+P0501,2020-07-06,parkinsons
+P0501,2022-10-10,chronic kidney disease
+P0501,2024-01-08,reflux disorders
+P0502,2016-12-29,chronic diarrhoea
+P0502,2017-01-01,visual impairment
+P0502,2017-04-27,heart failure
+P0502,2018-06-24,stroke
+P0502,2018-11-30,inflammatory bowel disease
+P0502,2019-05-26,menopausal and perimenopausal
+P0502,2019-06-06,coronary heart disease
+P0502,2019-10-08,cancer
+P0502,2020-06-30,mental illness
+P0502,2020-07-03,chronic pain conditions
+P0502,2021-01-02,epilepsy
+P0502,2023-04-11,bronchiectasis
+P0502,2023-04-29,chronic diarrhoea
+P0507,2015-06-24,cirrhosis
+P0507,2016-08-06,osteoporosis
+P0507,2016-11-11,cardiac arrhythmias
+P0507,2017-06-28,cancer
+P0507,2019-05-23,epilepsy
+P0507,2019-07-01,chronic diarrhoea
+P0507,2021-01-28,barretts oesophagus
+P0507,2021-06-16,peripheral vascular disease
+P0507,2021-12-08,chronic kidney disease
+P0507,2022-04-04,chronic arthritis
+P0507,2022-08-02,chronic pain conditions
+P0507,2023-07-30,heart failure
+P0508,2016-01-09,mental illness
+P0508,2019-02-23,coronary heart disease
+P0508,2023-09-14,psoriasis
+P0510,2016-05-30,chronic diarrhoea
+P0510,2020-09-03,chronic pneumonia
+P0510,2022-04-19,neuropathic pain
+P0510,2023-02-22,psoriasis
+P0510,2023-05-21,cardiac arrhythmias
+P0511,2016-12-05,barretts oesophagus
+P0511,2021-10-29,parkinsons
+P0511,2022-11-28,coronary heart disease
+P0513,2018-08-29,parkinsons
+P0513,2019-07-01,polycystic ovary syndrome
+P0513,2019-09-23,cerebral palsy
+P0513,2020-09-16,insomnia
+P0513,2022-05-23,anaemia
+P0513,2023-02-27,bronchiectasis
+P0513,2023-11-19,mental illness
+P0515,2015-05-20,bronchiectasis
+P0515,2015-08-09,neuropathic pain
+P0515,2015-10-01,tourette
+P0515,2018-08-24,psoriasis
+P0515,2019-08-28,insomnia
+P0515,2021-06-26,epilepsy
+P0515,2023-10-29,chronic airway diseases
+P0516,2018-06-22,osteoporosis
+P0517,2015-05-02,dementia
+P0517,2016-02-21,addisons disease
+P0517,2017-06-23,dementia
+P0517,2017-11-08,cirrhosis
+P0517,2018-08-31,neuropathic pain
+P0517,2019-02-28,psoriasis
+P0517,2019-05-23,chronic airway diseases
+P0517,2019-11-15,tourette
+P0517,2020-01-19,osteoporosis
+P0517,2020-03-02,chronic pneumonia
+P0517,2020-03-14,hypertension
+P0517,2021-03-20,menopausal and perimenopausal
+P0517,2021-06-18,heart failure
+P0517,2021-06-27,tourette
+P0517,2021-07-01,interstitial lung disease
+P0517,2021-10-09,hypertension
+P0517,2022-07-04,osteoporosis
+P0518,2016-10-22,chronic diarrhoea
+P0518,2018-07-09,peripheral vascular disease
+P0518,2020-09-07,chronic pain conditions
+P0518,2021-09-08,bronchiectasis
+P0518,2021-09-28,chronic pneumonia
+P0518,2022-06-25,anaemia
+P0518,2023-02-04,chronic airway diseases
+P0518,2023-04-26,chronic airway diseases
+P0518,2023-07-02,cardiac arrhythmias
+P0518,2024-06-28,dementia
+P0519,2015-04-02,chronic pain conditions
+P0519,2017-12-14,parkinsons
+P0519,2020-03-31,barretts oesophagus
+P0520,2015-07-02,bronchiectasis
+P0520,2018-08-18,chronic constipation
+P0520,2019-01-25,chronic pain conditions
+P0520,2019-10-28,psoriasis
+P0520,2020-08-14,chronic arthritis
+P0520,2021-06-19,coronary heart disease
+P0520,2021-11-20,chronic kidney disease
+P0520,2021-12-03,dysphagia
+P0520,2021-12-24,mental illness
+P0520,2023-04-23,psoriasis
+P0520,2023-11-03,hearing loss
+P0520,2023-11-19,dementia
+P0520,2024-01-30,chronic pain conditions
+P0520,2024-02-09,cardiac arrhythmias
+P0520,2024-09-08,thyroid disorders
+P0520,2024-09-29,dementia
+P0520,2024-11-17,hearing loss
+P0522,2015-02-03,thyroid disorders
+P0522,2015-07-16,hearing loss
+P0522,2015-09-18,heart failure
+P0522,2016-05-07,peripheral vascular disease
+P0522,2016-11-01,neuropathic pain
+P0522,2018-06-30,tourette
+P0522,2018-08-16,hypertension
+P0522,2018-09-27,chronic pneumonia
+P0522,2020-08-31,coronary heart disease
+P0522,2021-03-13,inflammatory bowel disease
+P0522,2024-07-18,psoriasis
+P0524,2015-01-10,parkinsons
+P0524,2015-05-07,tourette
+P0524,2016-12-29,cerebral palsy
+P0524,2017-12-08,interstitial lung disease
+P0524,2018-08-08,chronic airway diseases
+P0524,2019-01-31,polycystic ovary syndrome
+P0524,2019-03-31,stroke
+P0524,2019-05-23,psoriasis
+P0524,2020-06-03,peripheral vascular disease
+P0524,2020-10-27,diabetes
+P0524,2021-03-15,chronic kidney disease
+P0524,2022-05-04,neuropathic pain
+P0524,2023-06-30,chronic constipation
+P0524,2024-04-28,chronic pain conditions
+P0524,2024-08-12,menopausal and perimenopausal
+P0524,2024-09-18,cirrhosis
+P0524,2024-12-21,cardiac arrhythmias
+P0525,2017-05-29,reflux disorders
+P0525,2020-07-05,psoriasis
+P0525,2021-02-27,visual impairment
+P0525,2022-11-13,inflammatory bowel disease
+P0525,2023-05-24,epilepsy
+P0526,2015-03-05,insomnia
+P0526,2015-04-19,chronic constipation
+P0526,2018-07-16,mental illness
+P0526,2021-07-19,mental illness
+P0526,2022-04-02,dementia
+P0526,2022-09-06,chronic constipation
+P0526,2024-02-03,chronic kidney disease
+P0526,2024-04-10,multiple sclerosis
+P0527,2015-05-29,menopausal and perimenopausal
+P0527,2015-09-26,chronic arthritis
+P0527,2015-09-28,coronary heart disease
+P0527,2016-01-16,dementia
+P0527,2017-05-09,polycystic ovary syndrome
+P0527,2019-06-28,tourette
+P0529,2015-10-12,cancer
+P0529,2015-12-17,interstitial lung disease
+P0529,2017-01-17,diabetes
+P0529,2017-04-28,mental illness
+P0529,2018-12-02,chronic arthritis
+P0529,2019-01-17,psoriasis
+P0529,2021-09-22,addisons disease
+P0529,2023-11-06,chronic airway diseases
+P0530,2015-09-29,chronic arthritis
+P0530,2017-02-21,chronic constipation
+P0530,2019-06-28,heart failure
+P0530,2023-04-09,hearing loss
+P0530,2024-03-25,inflammatory bowel disease
+P0531,2017-02-15,mental illness
+P0531,2018-02-20,epilepsy
+P0531,2020-03-21,thyroid disorders
+P0531,2020-08-01,chronic pneumonia
+P0531,2020-08-30,heart failure
+P0531,2022-05-17,cancer
+P0531,2023-09-14,cancer
+P0532,2018-11-27,cancer
+P0532,2019-02-06,tourette
+P0533,2015-11-09,menopausal and perimenopausal
+P0533,2015-11-23,chronic constipation
+P0533,2016-12-04,chronic kidney disease
+P0533,2017-10-25,chronic airway diseases
+P0533,2017-12-12,osteoporosis
+P0533,2018-06-02,bronchiectasis
+P0533,2018-08-16,parkinsons
+P0533,2020-08-15,hypertension
+P0533,2022-01-30,chronic pain conditions
+P0533,2022-07-15,dysphagia
+P0534,2016-10-25,coronary heart disease
+P0534,2017-11-05,neuropathic pain
+P0534,2021-10-03,reflux disorders
+P0534,2021-10-07,barretts oesophagus
+P0534,2022-06-14,chronic arthritis
+P0534,2023-08-16,psoriasis
+P0534,2024-03-07,thyroid disorders
+P0534,2024-04-21,cirrhosis
+P0535,2015-08-18,anaemia
+P0535,2017-01-13,bronchiectasis
+P0535,2017-12-04,visual impairment
+P0535,2019-02-16,peripheral vascular disease
+P0535,2019-10-18,stroke
+P0535,2020-08-01,barretts oesophagus
+P0535,2022-03-09,interstitial lung disease
+P0535,2022-09-25,chronic airway diseases
+P0535,2023-01-15,coronary heart disease
+P0535,2023-05-03,visual impairment
+P0535,2023-10-26,cerebral palsy
+P0535,2024-01-03,chronic pain conditions
+P0535,2024-01-27,chronic arthritis
+P0535,2024-10-24,interstitial lung disease
+P0536,2019-12-04,dysphagia
+P0536,2021-08-17,barretts oesophagus
+P0536,2021-11-05,chronic arthritis
+P0536,2022-03-14,barretts oesophagus
+P0536,2022-08-16,tourette
+P0536,2024-09-23,diabetes
+P0536,2024-11-02,hypertension
+P0536,2024-11-30,chronic constipation
+P0537,2015-06-17,visual impairment
+P0537,2015-08-10,psoriasis
+P0537,2015-12-03,chronic pneumonia
+P0537,2015-12-12,polycystic ovary syndrome
+P0537,2016-06-20,reflux disorders
+P0537,2016-11-29,dementia
+P0537,2017-11-18,mental illness
+P0537,2018-06-25,chronic constipation
+P0537,2019-04-08,cardiac arrhythmias
+P0537,2021-08-16,chronic arthritis
+P0537,2021-10-17,menopausal and perimenopausal
+P0538,2015-05-15,dementia
+P0538,2015-06-16,addisons disease
+P0538,2015-09-16,cancer
+P0538,2016-11-21,chronic pain conditions
+P0538,2019-04-02,insomnia
+P0538,2019-10-24,menopausal and perimenopausal
+P0538,2019-11-28,osteoporosis
+P0538,2020-03-13,cerebral palsy
+P0538,2020-05-26,polycystic ovary syndrome
+P0538,2020-06-19,interstitial lung disease
+P0538,2020-10-22,anaemia
+P0538,2020-12-14,reflux disorders
+P0538,2021-09-30,mental illness
+P0538,2022-07-06,chronic pain conditions
+P0538,2022-12-03,barretts oesophagus
+P0538,2023-01-26,reflux disorders
+P0538,2023-04-17,peripheral vascular disease
+P0538,2023-04-18,heart failure
+P0538,2023-04-26,diabetes
+P0538,2023-09-09,epilepsy
+P0538,2024-12-04,diabetes
+P0541,2015-04-19,chronic airway diseases
+P0541,2015-10-24,multiple sclerosis
+P0541,2015-10-29,chronic pneumonia
+P0541,2016-05-08,chronic kidney disease
+P0541,2017-02-26,osteoporosis
+P0541,2018-05-04,cancer
+P0541,2018-11-06,heart failure
+P0541,2020-02-04,cancer
+P0541,2020-10-17,chronic diarrhoea
+P0541,2020-11-24,reflux disorders
+P0541,2021-05-27,anaemia
+P0541,2023-12-11,chronic kidney disease
+P0541,2024-02-01,cirrhosis
+P0542,2015-01-19,thyroid disorders
+P0542,2016-11-13,chronic kidney disease
+P0542,2017-08-13,cerebral palsy
+P0542,2017-12-04,addisons disease
+P0542,2024-12-13,polycystic ovary syndrome
+P0543,2015-05-21,osteoporosis
+P0543,2023-03-07,anaemia
+P0544,2016-01-08,neuropathic pain
+P0544,2017-10-03,chronic pneumonia
+P0544,2017-12-08,cerebral palsy
+P0544,2018-09-26,chronic constipation
+P0544,2018-12-27,cardiac arrhythmias
+P0544,2019-12-16,thyroid disorders
+P0544,2020-09-16,tourette
+P0544,2022-01-26,inflammatory bowel disease
+P0544,2023-12-13,mental illness
+P0545,2016-05-05,addisons disease
+P0545,2017-04-05,stroke
+P0545,2022-02-13,psoriasis
+P0545,2024-07-15,chronic airway diseases
+P0546,2016-02-13,polycystic ovary syndrome
+P0546,2017-08-25,chronic airway diseases
+P0546,2018-04-30,coronary heart disease
+P0546,2019-04-07,cirrhosis
+P0546,2019-10-04,chronic constipation
+P0546,2020-04-27,mental illness
+P0546,2021-08-11,coronary heart disease
+P0546,2022-09-10,peripheral vascular disease
+P0546,2022-11-04,hearing loss
+P0546,2022-11-28,chronic kidney disease
+P0546,2023-05-28,visual impairment
+P0546,2023-06-24,tourette
+P0546,2023-08-26,anaemia
+P0546,2023-09-07,multiple sclerosis
+P0546,2024-06-14,reflux disorders
+P0546,2024-07-25,inflammatory bowel disease
+P0546,2024-08-25,chronic pain conditions
+P0546,2024-12-22,dementia
+P0548,2015-01-12,epilepsy
+P0548,2015-05-05,reflux disorders
+P0548,2015-12-27,hearing loss
+P0548,2016-02-11,addisons disease
+P0548,2016-07-28,heart failure
+P0548,2019-03-23,cirrhosis
+P0548,2020-04-18,inflammatory bowel disease
+P0548,2021-03-25,chronic airway diseases
+P0548,2024-05-22,anaemia
+P0549,2017-01-12,polycystic ovary syndrome
+P0549,2017-11-23,mental illness
+P0549,2019-11-22,hypertension
+P0549,2022-07-31,dysphagia
+P0551,2015-05-02,stroke
+P0551,2015-08-20,chronic airway diseases
+P0551,2017-01-26,menopausal and perimenopausal
+P0551,2023-11-08,coronary heart disease
+P0551,2024-05-01,barretts oesophagus
+P0552,2024-07-08,dementia
+P0553,2016-10-17,cancer
+P0553,2017-07-18,polycystic ovary syndrome
+P0553,2019-03-06,cirrhosis
+P0553,2022-12-31,cerebral palsy
+P0553,2023-05-26,osteoporosis
+P0555,2015-03-08,barretts oesophagus
+P0555,2015-12-15,thyroid disorders
+P0555,2016-04-04,coronary heart disease
+P0555,2018-05-11,dysphagia
+P0555,2020-02-13,hearing loss
+P0555,2020-05-03,chronic arthritis
+P0555,2020-08-08,chronic airway diseases
+P0555,2021-01-11,anaemia
+P0555,2021-09-14,chronic pneumonia
+P0556,2015-12-10,dementia
+P0556,2018-02-21,inflammatory bowel disease
+P0556,2022-04-16,chronic constipation
+P0556,2022-05-20,mental illness
+P0556,2022-11-27,cerebral palsy
+P0558,2016-12-15,addisons disease
+P0558,2017-02-09,reflux disorders
+P0558,2017-05-20,addisons disease
+P0558,2020-01-14,tourette
+P0558,2022-01-10,hearing loss
+P0558,2022-06-25,chronic constipation
+P0558,2023-05-17,dementia
+P0558,2023-05-23,insomnia
+P0558,2023-11-02,chronic diarrhoea
+P0559,2015-04-11,diabetes
+P0559,2015-07-26,inflammatory bowel disease
+P0559,2020-09-17,visual impairment
+P0559,2021-10-23,polycystic ovary syndrome
+P0559,2021-11-17,barretts oesophagus
+P0559,2021-11-22,addisons disease
+P0559,2023-12-23,peripheral vascular disease
+P0561,2015-05-05,heart failure
+P0561,2016-07-30,hypertension
+P0561,2016-08-24,parkinsons
+P0561,2017-12-03,tourette
+P0561,2018-09-17,chronic diarrhoea
+P0561,2018-09-25,polycystic ovary syndrome
+P0561,2018-10-15,chronic diarrhoea
+P0561,2019-07-15,mental illness
+P0561,2019-08-06,cirrhosis
+P0561,2020-11-07,chronic pneumonia
+P0561,2021-09-12,dysphagia
+P0561,2021-09-30,diabetes
+P0561,2022-08-21,inflammatory bowel disease
+P0561,2022-08-21,peripheral vascular disease
+P0561,2022-08-24,psoriasis
+P0561,2023-01-23,psoriasis
+P0561,2023-08-23,epilepsy
+P0561,2024-11-29,tourette
+P0562,2017-08-30,coronary heart disease
+P0562,2017-11-13,osteoporosis
+P0562,2022-03-02,chronic diarrhoea
+P0563,2015-01-11,inflammatory bowel disease
+P0563,2015-06-09,visual impairment
+P0563,2017-11-04,peripheral vascular disease
+P0563,2018-05-19,cardiac arrhythmias
+P0563,2019-03-30,addisons disease
+P0563,2019-08-07,bronchiectasis
+P0563,2019-09-23,cancer
+P0563,2020-10-20,chronic pain conditions
+P0563,2022-02-07,chronic airway diseases
+P0563,2024-01-24,inflammatory bowel disease
+P0564,2015-06-23,multiple sclerosis
+P0564,2016-09-25,chronic airway diseases
+P0564,2017-12-23,dysphagia
+P0564,2018-08-01,thyroid disorders
+P0564,2019-10-06,parkinsons
+P0565,2015-04-04,cancer
+P0565,2015-10-10,visual impairment
+P0565,2016-08-09,barretts oesophagus
+P0565,2016-12-26,mental illness
+P0565,2017-01-02,anaemia
+P0565,2018-08-23,addisons disease
+P0565,2018-10-14,stroke
+P0565,2019-09-20,chronic diarrhoea
+P0565,2021-04-26,peripheral vascular disease
+P0565,2021-10-25,reflux disorders
+P0565,2022-07-26,chronic pneumonia
+P0565,2022-11-16,inflammatory bowel disease
+P0565,2024-05-20,addisons disease
+P0565,2024-07-03,chronic constipation
+P0566,2015-07-22,interstitial lung disease
+P0566,2017-05-01,mental illness
+P0566,2017-09-28,peripheral vascular disease
+P0566,2018-12-20,hypertension
+P0566,2019-03-31,osteoporosis
+P0566,2020-09-07,chronic pneumonia
+P0566,2022-08-04,epilepsy
+P0566,2023-07-20,mental illness
+P0566,2024-02-13,thyroid disorders
+P0567,2015-03-08,cancer
+P0567,2016-08-06,interstitial lung disease
+P0567,2017-01-06,addisons disease
+P0567,2018-09-18,stroke
+P0567,2023-11-17,dysphagia
+P0567,2024-01-06,interstitial lung disease
+P0567,2024-03-12,polycystic ovary syndrome
+P0567,2024-08-11,hearing loss
+P0568,2015-12-18,heart failure
+P0568,2022-01-08,chronic pain conditions
+P0568,2024-09-08,cirrhosis
+P0569,2018-09-03,cancer
+P0569,2024-02-02,chronic diarrhoea
+P0570,2015-03-31,thyroid disorders
+P0570,2016-03-29,chronic pneumonia
+P0570,2016-09-03,heart failure
+P0570,2018-07-16,addisons disease
+P0570,2019-09-22,parkinsons
+P0570,2021-05-13,osteoporosis
+P0570,2021-06-03,anaemia
+P0570,2023-09-08,diabetes
+P0570,2024-04-07,chronic pneumonia
+P0570,2024-09-15,dementia
+P0570,2024-11-27,barretts oesophagus
+P0571,2016-03-11,chronic constipation
+P0571,2016-07-15,multiple sclerosis
+P0571,2017-10-14,parkinsons
+P0572,2015-02-21,diabetes
+P0572,2016-05-10,hearing loss
+P0572,2018-04-15,mental illness
+P0572,2019-01-02,insomnia
+P0572,2019-04-10,dysphagia
+P0572,2019-09-19,coronary heart disease
+P0572,2019-12-19,chronic pain conditions
+P0572,2020-06-06,chronic diarrhoea
+P0572,2024-01-25,visual impairment
+P0573,2015-02-27,barretts oesophagus
+P0573,2016-03-30,reflux disorders
+P0573,2020-03-30,multiple sclerosis
+P0573,2023-10-17,diabetes
+P0574,2015-01-13,chronic arthritis
+P0574,2018-01-14,neuropathic pain
+P0574,2018-11-26,cirrhosis
+P0574,2020-07-01,chronic pneumonia
+P0574,2021-08-05,chronic diarrhoea
+P0574,2022-07-29,interstitial lung disease
+P0574,2022-11-22,cerebral palsy
+P0575,2015-07-22,dysphagia
+P0575,2015-10-06,multiple sclerosis
+P0575,2016-03-11,inflammatory bowel disease
+P0575,2016-09-15,dementia
+P0575,2016-10-05,cardiac arrhythmias
+P0575,2017-02-01,osteoporosis
+P0575,2017-08-18,interstitial lung disease
+P0575,2017-09-28,cancer
+P0575,2018-01-25,epilepsy
+P0575,2019-12-06,thyroid disorders
+P0575,2020-09-26,peripheral vascular disease
+P0575,2022-10-16,diabetes
+P0575,2023-09-13,hypertension
+P0575,2024-09-03,psoriasis
+P0579,2019-09-26,hypertension
+P0579,2023-07-27,diabetes
+P0580,2015-11-13,inflammatory bowel disease
+P0580,2016-12-29,hypertension
+P0580,2020-01-11,insomnia
+P0580,2022-07-15,chronic airway diseases
+P0580,2023-06-14,stroke
+P0582,2020-12-12,cirrhosis
+P0582,2023-04-15,insomnia
+P0583,2015-10-09,thyroid disorders
+P0583,2016-01-15,barretts oesophagus
+P0583,2016-11-11,chronic kidney disease
+P0583,2019-04-27,epilepsy
+P0583,2019-04-29,chronic diarrhoea
+P0583,2020-05-12,reflux disorders
+P0583,2020-09-07,chronic arthritis
+P0583,2021-12-13,menopausal and perimenopausal
+P0583,2022-02-21,chronic kidney disease
+P0583,2023-02-05,tourette
+P0583,2023-08-20,menopausal and perimenopausal
+P0584,2016-03-31,chronic pneumonia
+P0584,2017-01-17,interstitial lung disease
+P0584,2020-02-16,peripheral vascular disease
+P0584,2021-08-05,thyroid disorders
+P0584,2022-05-22,heart failure
+P0584,2024-01-11,chronic airway diseases
+P0585,2015-02-06,visual impairment
+P0585,2015-05-21,cirrhosis
+P0585,2017-02-02,inflammatory bowel disease
+P0586,2016-04-30,chronic diarrhoea
+P0586,2024-03-28,cardiac arrhythmias
+P0586,2024-04-11,stroke
+P0589,2018-07-24,hearing loss
+P0589,2022-07-03,addisons disease
+P0590,2016-11-10,interstitial lung disease
+P0590,2017-03-10,reflux disorders
+P0590,2018-07-17,psoriasis
+P0590,2019-11-01,multiple sclerosis
+P0591,2019-02-06,stroke
+P0591,2021-06-29,multiple sclerosis
+P0591,2023-01-30,menopausal and perimenopausal
+P0591,2024-12-07,neuropathic pain
+P0592,2017-06-16,heart failure
+P0592,2019-05-29,polycystic ovary syndrome
+P0592,2022-06-20,diabetes
+P0592,2022-08-31,epilepsy
+P0592,2024-01-30,chronic diarrhoea
+P0592,2024-02-02,cirrhosis
+P0593,2016-10-18,chronic arthritis
+P0593,2017-02-06,menopausal and perimenopausal
+P0593,2017-11-30,neuropathic pain
+P0593,2022-11-06,peripheral vascular disease
+P0594,2016-03-29,dysphagia
+P0594,2017-09-01,addisons disease
+P0594,2019-01-14,psoriasis
+P0594,2019-05-18,cirrhosis
+P0594,2022-01-28,interstitial lung disease
+P0594,2023-04-11,peripheral vascular disease
+P0594,2024-02-29,visual impairment
+P0595,2016-04-09,chronic kidney disease
+P0595,2017-01-23,dysphagia
+P0595,2018-06-10,coronary heart disease
+P0595,2022-10-05,inflammatory bowel disease
+P0598,2016-08-25,dysphagia
+P0598,2019-01-11,peripheral vascular disease
+P0598,2021-10-20,cardiac arrhythmias
+P0600,2023-08-30,anaemia
+P0602,2015-05-17,mental illness
+P0602,2016-03-08,epilepsy
+P0602,2016-04-18,visual impairment
+P0602,2019-12-28,tourette
+P0602,2020-06-05,insomnia
+P0602,2024-08-26,visual impairment
+P0602,2024-08-28,tourette
+P0602,2024-12-06,heart failure
+P0603,2017-10-13,stroke
+P0603,2018-12-21,chronic constipation
+P0603,2019-06-23,barretts oesophagus
+P0603,2019-08-05,hearing loss
+P0603,2019-08-15,chronic kidney disease
+P0603,2020-10-23,insomnia
+P0603,2020-11-16,cirrhosis
+P0603,2022-11-20,chronic diarrhoea
+P0603,2023-05-09,bronchiectasis
+P0603,2024-01-28,diabetes
+P0603,2024-02-15,cardiac arrhythmias
+P0603,2024-09-03,inflammatory bowel disease
+P0604,2018-04-04,cardiac arrhythmias
+P0604,2018-04-14,insomnia
+P0604,2018-12-15,barretts oesophagus
+P0604,2022-04-02,visual impairment
+P0604,2024-02-15,menopausal and perimenopausal
+P0604,2024-06-15,hearing loss
+P0605,2021-12-19,mental illness
+P0608,2016-01-16,menopausal and perimenopausal
+P0608,2017-10-06,neuropathic pain
+P0608,2018-10-10,osteoporosis
+P0608,2018-12-02,tourette
+P0608,2018-12-13,stroke
+P0608,2020-12-25,stroke
+P0608,2021-03-17,diabetes
+P0608,2021-12-08,epilepsy
+P0608,2023-04-06,insomnia
+P0608,2024-01-09,mental illness
+P0608,2024-05-29,diabetes
+P0609,2017-05-25,addisons disease
+P0609,2018-10-18,cirrhosis
+P0609,2019-11-14,cancer
+P0609,2022-09-15,polycystic ovary syndrome
+P0609,2024-12-21,tourette
+P0611,2015-06-23,dementia
+P0611,2016-02-28,peripheral vascular disease
+P0611,2017-07-13,heart failure
+P0611,2018-08-06,cirrhosis
+P0611,2020-09-10,psoriasis
+P0611,2021-02-17,diabetes
+P0611,2024-05-05,thyroid disorders
+P0612,2015-06-21,diabetes
+P0612,2021-04-18,hypertension
+P0612,2024-02-17,osteoporosis
+P0613,2015-11-26,stroke
+P0613,2015-12-06,inflammatory bowel disease
+P0613,2016-04-10,menopausal and perimenopausal
+P0613,2017-12-01,menopausal and perimenopausal
+P0613,2018-07-24,parkinsons
+P0613,2019-01-31,barretts oesophagus
+P0613,2019-02-09,chronic constipation
+P0613,2019-03-08,reflux disorders
+P0613,2020-07-30,hearing loss
+P0613,2020-12-27,anaemia
+P0613,2023-01-18,cancer
+P0613,2023-03-19,epilepsy
+P0614,2018-01-15,thyroid disorders
+P0614,2020-04-01,psoriasis
+P0614,2020-04-28,chronic constipation
+P0615,2015-08-20,diabetes
+P0615,2016-02-11,mental illness
+P0615,2017-06-12,mental illness
+P0615,2018-12-08,cancer
+P0615,2019-12-03,chronic pneumonia
+P0615,2022-08-05,heart failure
+P0615,2023-10-02,chronic airway diseases
+P0615,2023-11-10,inflammatory bowel disease
+P0615,2023-12-09,cancer
+P0615,2024-05-20,chronic pneumonia
+P0617,2015-10-03,polycystic ovary syndrome
+P0617,2017-05-17,interstitial lung disease
+P0617,2018-11-25,dysphagia
+P0617,2019-05-02,visual impairment
+P0617,2021-02-18,tourette
+P0617,2021-11-24,dementia
+P0618,2017-10-19,menopausal and perimenopausal
+P0618,2017-10-26,insomnia
+P0618,2018-02-02,chronic kidney disease
+P0618,2019-04-08,chronic pain conditions
+P0618,2020-01-06,tourette
+P0620,2015-11-28,polycystic ovary syndrome
+P0620,2015-12-21,hypertension
+P0620,2017-05-14,mental illness
+P0620,2017-07-21,chronic pain conditions
+P0620,2017-11-26,menopausal and perimenopausal
+P0620,2018-12-19,tourette
+P0620,2019-11-24,coronary heart disease
+P0620,2021-12-12,chronic diarrhoea
+P0620,2022-02-01,addisons disease
+P0620,2023-02-14,tourette
+P0620,2024-03-08,chronic pneumonia
+P0621,2016-02-23,diabetes
+P0621,2016-06-14,peripheral vascular disease
+P0621,2017-06-24,chronic constipation
+P0621,2019-11-05,dementia
+P0621,2020-01-08,addisons disease
+P0621,2020-05-22,chronic pain conditions
+P0621,2021-08-19,visual impairment
+P0621,2022-06-03,stroke
+P0621,2024-12-07,visual impairment
+P0622,2018-04-03,thyroid disorders
+P0622,2018-10-31,bronchiectasis
+P0622,2021-05-20,polycystic ovary syndrome
+P0622,2023-04-10,epilepsy
+P0622,2023-05-05,multiple sclerosis
+P0622,2023-12-12,stroke
+P0622,2024-09-06,interstitial lung disease
+P0623,2015-08-15,parkinsons
+P0623,2016-04-14,cardiac arrhythmias
+P0623,2016-10-06,anaemia
+P0623,2017-07-10,epilepsy
+P0623,2018-04-27,chronic pain conditions
+P0623,2018-11-05,diabetes
+P0623,2018-12-15,peripheral vascular disease
+P0623,2021-11-19,epilepsy
+P0623,2023-07-06,visual impairment
+P0624,2018-08-23,anaemia
+P0624,2020-07-13,parkinsons
+P0624,2021-04-18,hypertension
+P0624,2021-10-25,stroke
+P0624,2022-09-10,interstitial lung disease
+P0625,2015-05-14,inflammatory bowel disease
+P0625,2017-05-12,chronic pain conditions
+P0625,2017-06-04,cirrhosis
+P0625,2020-05-19,peripheral vascular disease
+P0625,2021-08-14,cerebral palsy
+P0625,2022-03-20,bronchiectasis
+P0625,2022-11-28,dysphagia
+P0625,2024-11-28,diabetes
+P0628,2017-07-31,inflammatory bowel disease
+P0628,2017-08-16,mental illness
+P0628,2018-03-06,mental illness
+P0628,2020-12-10,chronic kidney disease
+P0628,2021-11-17,cirrhosis
+P0628,2024-04-09,chronic airway diseases
+P0629,2015-07-23,tourette
+P0629,2017-10-19,visual impairment
+P0629,2017-12-14,anaemia
+P0629,2020-06-18,cirrhosis
+P0629,2020-09-25,hearing loss
+P0629,2020-09-28,chronic arthritis
+P0629,2022-05-21,parkinsons
+P0629,2023-05-24,chronic constipation
+P0629,2023-10-20,insomnia
+P0629,2024-06-11,cirrhosis
+P0630,2018-04-08,diabetes
+P0630,2021-10-20,chronic pain conditions
+P0631,2015-02-10,diabetes
+P0632,2017-12-06,inflammatory bowel disease
+P0632,2020-02-29,osteoporosis
+P0632,2023-05-05,diabetes
+P0632,2024-09-27,dysphagia
+P0634,2017-10-05,psoriasis
+P0634,2019-06-09,stroke
+P0635,2015-06-06,addisons disease
+P0635,2017-01-12,barretts oesophagus
+P0635,2018-01-07,chronic pain conditions
+P0635,2018-02-03,chronic constipation
+P0635,2018-03-10,mental illness
+P0635,2018-03-31,chronic airway diseases
+P0635,2019-04-25,chronic kidney disease
+P0635,2019-07-13,hearing loss
+P0635,2020-01-21,cancer
+P0635,2020-11-01,neuropathic pain
+P0635,2020-12-01,epilepsy
+P0635,2022-01-21,chronic pneumonia
+P0635,2022-09-24,mental illness
+P0635,2022-09-24,coronary heart disease
+P0635,2023-02-04,multiple sclerosis
+P0635,2023-02-26,cancer
+P0635,2024-05-16,stroke
+P0635,2024-09-16,insomnia
+P0635,2024-09-30,chronic pain conditions
+P0635,2024-12-04,chronic constipation
+P0636,2015-11-27,coronary heart disease
+P0636,2016-05-30,neuropathic pain
+P0636,2020-07-14,chronic pain conditions
+P0636,2022-02-21,diabetes
+P0636,2022-02-28,mental illness
+P0636,2023-12-03,visual impairment
+P0638,2018-01-17,insomnia
+P0638,2020-08-03,interstitial lung disease
+P0638,2021-02-16,peripheral vascular disease
+P0638,2021-10-04,psoriasis
+P0638,2022-01-05,diabetes
+P0638,2022-06-03,inflammatory bowel disease
+P0638,2023-04-05,neuropathic pain
+P0638,2023-07-06,multiple sclerosis
+P0639,2015-01-12,addisons disease
+P0639,2015-06-11,visual impairment
+P0639,2015-10-19,inflammatory bowel disease
+P0639,2016-02-02,tourette
+P0639,2018-07-07,dementia
+P0639,2018-08-02,osteoporosis
+P0639,2022-10-06,epilepsy
+P0641,2015-01-19,bronchiectasis
+P0641,2015-06-14,diabetes
+P0641,2017-10-09,inflammatory bowel disease
+P0641,2018-03-12,thyroid disorders
+P0641,2018-11-23,neuropathic pain
+P0641,2019-02-06,cerebral palsy
+P0641,2020-08-04,coronary heart disease
+P0641,2022-01-12,chronic airway diseases
+P0641,2022-03-29,chronic arthritis
+P0641,2022-05-20,coronary heart disease
+P0641,2022-06-26,reflux disorders
+P0641,2022-12-27,epilepsy
+P0642,2016-12-10,hearing loss
+P0642,2018-08-06,chronic pneumonia
+P0642,2019-07-14,anaemia
+P0642,2022-03-29,dysphagia
+P0644,2018-04-05,diabetes
+P0644,2023-01-13,chronic airway diseases
+P0644,2023-09-07,multiple sclerosis
+P0645,2017-08-07,cardiac arrhythmias
+P0645,2018-02-22,barretts oesophagus
+P0645,2018-05-31,cerebral palsy
+P0645,2018-11-22,stroke
+P0645,2020-09-08,diabetes
+P0645,2023-03-15,chronic kidney disease
+P0645,2023-08-15,addisons disease
+P0645,2024-01-02,menopausal and perimenopausal
+P0646,2017-04-07,insomnia
+P0646,2018-03-29,cardiac arrhythmias
+P0646,2019-05-28,cirrhosis
+P0646,2021-04-22,polycystic ovary syndrome
+P0646,2022-05-07,parkinsons
+P0646,2024-05-07,cirrhosis
+P0647,2015-07-30,diabetes
+P0647,2016-04-15,dementia
+P0647,2017-08-28,hypertension
+P0647,2018-06-27,parkinsons
+P0647,2020-12-28,dementia
+P0647,2021-10-15,chronic diarrhoea
+P0647,2023-02-04,bronchiectasis
+P0647,2023-02-15,cerebral palsy
+P0647,2023-05-09,multiple sclerosis
+P0647,2023-08-01,chronic airway diseases
+P0648,2016-05-24,stroke
+P0648,2020-02-25,thyroid disorders
+P0648,2022-05-13,chronic arthritis
+P0651,2015-06-17,hypertension
+P0651,2015-06-24,visual impairment
+P0651,2015-09-17,cardiac arrhythmias
+P0651,2016-01-17,dementia
+P0651,2017-12-27,psoriasis
+P0651,2023-02-11,inflammatory bowel disease
+P0651,2023-12-20,dementia
+P0652,2015-08-06,bronchiectasis
+P0652,2017-03-04,menopausal and perimenopausal
+P0652,2019-12-29,cerebral palsy
+P0654,2015-07-15,heart failure
+P0654,2016-03-01,cirrhosis
+P0654,2016-07-04,mental illness
+P0654,2017-04-09,stroke
+P0654,2020-09-04,anaemia
+P0654,2021-08-02,tourette
+P0654,2021-12-19,chronic constipation
+P0654,2022-05-31,chronic airway diseases
+P0654,2022-08-09,parkinsons
+P0654,2023-11-23,cerebral palsy
+P0654,2024-01-16,reflux disorders
+P0655,2016-03-04,epilepsy
+P0655,2017-09-19,anaemia
+P0655,2019-03-12,tourette
+P0655,2022-05-10,osteoporosis
+P0656,2015-10-05,cerebral palsy
+P0656,2019-11-14,inflammatory bowel disease
+P0656,2020-03-22,parkinsons
+P0656,2021-11-02,interstitial lung disease
+P0656,2023-05-03,chronic kidney disease
+P0656,2023-10-02,dementia
+P0656,2024-03-27,addisons disease
+P0656,2024-07-14,bronchiectasis
+P0661,2015-08-20,hypertension
+P0661,2016-10-27,hearing loss
+P0661,2019-02-04,polycystic ovary syndrome
+P0661,2021-05-05,cirrhosis
+P0661,2022-01-05,dementia
+P0661,2024-01-17,bronchiectasis
+P0662,2016-06-29,visual impairment
+P0662,2017-10-23,chronic kidney disease
+P0662,2020-07-10,psoriasis
+P0662,2023-03-05,chronic kidney disease
+P0662,2023-11-24,neuropathic pain
+P0663,2015-02-06,parkinsons
+P0663,2017-11-28,polycystic ovary syndrome
+P0663,2020-03-27,chronic kidney disease
+P0663,2020-07-15,thyroid disorders
+P0663,2024-11-18,chronic pneumonia
+P0665,2015-04-05,dementia
+P0665,2016-03-22,bronchiectasis
+P0665,2016-04-07,tourette
+P0665,2016-05-15,inflammatory bowel disease
+P0665,2016-09-14,reflux disorders
+P0665,2018-05-22,chronic pain conditions
+P0665,2019-03-28,polycystic ovary syndrome
+P0665,2020-01-12,chronic kidney disease
+P0665,2020-05-25,chronic diarrhoea
+P0665,2022-07-25,psoriasis
+P0665,2022-10-21,inflammatory bowel disease
+P0665,2022-12-14,thyroid disorders
+P0665,2023-03-28,hearing loss
+P0665,2023-11-23,parkinsons
+P0665,2024-05-27,addisons disease
+P0665,2024-09-25,cerebral palsy
+P0666,2016-03-17,bronchiectasis
+P0666,2019-08-25,polycystic ovary syndrome
+P0666,2019-08-26,cirrhosis
+P0666,2021-11-01,psoriasis
+P0667,2015-07-12,cancer
+P0667,2016-06-13,dementia
+P0667,2017-05-13,cardiac arrhythmias
+P0667,2018-01-05,chronic pneumonia
+P0667,2022-04-05,neuropathic pain
+P0667,2022-04-10,chronic pain conditions
+P0667,2022-05-11,neuropathic pain
+P0667,2022-09-30,dysphagia
+P0667,2024-09-07,chronic arthritis
+P0668,2017-09-25,cirrhosis
+P0668,2017-10-17,chronic pain conditions
+P0668,2017-12-26,diabetes
+P0668,2018-10-15,chronic pneumonia
+P0668,2019-08-10,reflux disorders
+P0668,2021-07-01,insomnia
+P0668,2022-10-21,anaemia
+P0668,2022-11-06,interstitial lung disease
+P0669,2020-04-06,cirrhosis
+P0670,2015-08-10,anaemia
+P0670,2015-11-18,menopausal and perimenopausal
+P0670,2016-05-21,peripheral vascular disease
+P0670,2016-11-28,cirrhosis
+P0670,2017-02-14,osteoporosis
+P0670,2017-11-07,diabetes
+P0670,2017-12-18,menopausal and perimenopausal
+P0670,2018-08-31,chronic kidney disease
+P0670,2018-12-08,anaemia
+P0670,2019-08-01,chronic pneumonia
+P0670,2022-03-31,dementia
+P0670,2022-06-27,chronic airway diseases
+P0670,2024-08-04,osteoporosis
+P0670,2024-11-05,coronary heart disease
+P0671,2018-02-23,menopausal and perimenopausal
+P0671,2019-12-16,chronic pneumonia
+P0671,2023-07-18,mental illness
+P0673,2015-10-03,hearing loss
+P0673,2016-03-10,stroke
+P0673,2017-04-25,multiple sclerosis
+P0673,2017-12-26,epilepsy
+P0673,2019-10-03,peripheral vascular disease
+P0673,2020-09-02,osteoporosis
+P0673,2021-01-12,chronic arthritis
+P0673,2021-04-16,neuropathic pain
+P0673,2022-04-07,interstitial lung disease
+P0673,2024-07-09,multiple sclerosis
+P0676,2016-06-26,peripheral vascular disease
+P0676,2017-06-22,coronary heart disease
+P0676,2018-06-16,dysphagia
+P0676,2019-02-12,bronchiectasis
+P0679,2017-05-12,epilepsy
+P0679,2017-06-30,chronic constipation
+P0679,2018-07-04,cardiac arrhythmias
+P0679,2020-12-26,neuropathic pain
+P0679,2021-02-07,chronic diarrhoea
+P0680,2016-11-30,cardiac arrhythmias
+P0680,2019-05-21,interstitial lung disease
+P0680,2020-12-18,cerebral palsy
+P0680,2022-11-02,psoriasis
+P0681,2018-09-02,hypertension
+P0681,2022-04-12,heart failure
+P0681,2022-07-06,bronchiectasis
+P0681,2023-06-20,interstitial lung disease
+P0682,2015-09-29,cirrhosis
+P0682,2018-12-11,chronic arthritis
+P0682,2022-06-15,chronic kidney disease
+P0682,2022-12-27,chronic pneumonia
+P0682,2024-04-23,visual impairment
+P0683,2015-10-20,interstitial lung disease
+P0683,2019-03-20,dementia
+P0683,2020-08-15,insomnia
+P0683,2023-08-23,chronic airway diseases
+P0683,2024-02-06,chronic arthritis
+P0684,2015-05-25,insomnia
+P0684,2017-10-12,dementia
+P0684,2019-08-11,mental illness
+P0685,2016-09-28,psoriasis
+P0685,2018-04-03,addisons disease
+P0685,2019-09-26,thyroid disorders
+P0685,2021-02-14,interstitial lung disease
+P0686,2023-02-05,visual impairment
+P0686,2023-04-06,peripheral vascular disease
+P0686,2023-06-24,hearing loss
+P0686,2024-08-18,mental illness
+P0687,2015-06-02,parkinsons
+P0687,2015-08-06,cardiac arrhythmias
+P0687,2016-09-02,diabetes
+P0687,2016-11-21,chronic pneumonia
+P0687,2016-11-28,chronic pneumonia
+P0687,2017-12-08,reflux disorders
+P0687,2019-02-08,diabetes
+P0687,2019-07-16,chronic arthritis
+P0687,2019-09-25,chronic pneumonia
+P0687,2021-08-08,dementia
+P0687,2021-08-24,coronary heart disease
+P0687,2021-08-29,stroke
+P0687,2022-09-30,anaemia
+P0687,2023-04-14,tourette
+P0687,2023-06-22,chronic constipation
+P0687,2024-04-23,hypertension
+P0687,2024-12-29,interstitial lung disease
+P0688,2017-03-08,epilepsy
+P0688,2017-11-06,chronic diarrhoea
+P0688,2018-03-15,heart failure
+P0688,2021-04-14,visual impairment
+P0689,2017-06-12,chronic pneumonia
+P0689,2019-12-26,dementia
+P0689,2020-03-26,inflammatory bowel disease
+P0689,2020-07-03,tourette
+P0689,2022-05-09,visual impairment
+P0689,2024-02-29,interstitial lung disease
+P0690,2017-03-10,chronic pneumonia
+P0690,2017-08-04,bronchiectasis
+P0690,2018-02-15,anaemia
+P0690,2018-03-30,diabetes
+P0690,2018-11-10,mental illness
+P0690,2020-02-29,parkinsons
+P0690,2021-01-15,menopausal and perimenopausal
+P0690,2022-02-11,peripheral vascular disease
+P0690,2024-07-27,heart failure
+P0690,2024-12-21,chronic kidney disease
+P0691,2018-03-31,epilepsy
+P0691,2019-07-07,visual impairment
+P0691,2021-03-28,cardiac arrhythmias
+P0691,2023-08-09,anaemia
+P0691,2023-08-13,multiple sclerosis
+P0691,2024-02-09,chronic constipation
+P0691,2024-12-22,polycystic ovary syndrome
+P0692,2016-05-14,epilepsy
+P0692,2019-10-13,chronic airway diseases
+P0692,2022-02-06,cardiac arrhythmias
+P0695,2017-10-10,peripheral vascular disease
+P0695,2018-09-13,psoriasis
+P0695,2020-01-28,barretts oesophagus
+P0695,2022-09-27,mental illness
+P0695,2023-09-23,menopausal and perimenopausal
+P0695,2023-12-15,chronic pneumonia
+P0695,2024-08-20,cancer
+P0696,2018-02-14,stroke
+P0696,2019-06-19,osteoporosis
+P0696,2019-08-17,diabetes
+P0696,2019-11-07,cardiac arrhythmias
+P0696,2020-02-16,barretts oesophagus
+P0697,2015-10-28,inflammatory bowel disease
+P0697,2016-12-12,stroke
+P0697,2021-01-21,dysphagia
+P0697,2024-06-07,insomnia
+P0697,2024-11-02,mental illness
+P0699,2016-07-20,chronic arthritis
+P0699,2020-05-05,mental illness
+P0699,2020-09-11,chronic airway diseases
+P0699,2022-05-21,cirrhosis
+P0702,2015-03-15,hearing loss
+P0702,2015-03-27,chronic kidney disease
+P0702,2016-04-12,visual impairment
+P0702,2017-09-28,reflux disorders
+P0702,2018-07-04,diabetes
+P0702,2018-08-13,tourette
+P0702,2019-01-21,epilepsy
+P0702,2019-10-22,chronic constipation
+P0702,2019-11-19,addisons disease
+P0702,2021-05-24,menopausal and perimenopausal
+P0702,2023-10-15,addisons disease
+P0702,2024-02-23,parkinsons
+P0702,2024-10-10,insomnia
+P0704,2023-09-29,psoriasis
+P0704,2024-02-29,anaemia
+P0704,2024-10-09,stroke
+P0704,2024-10-24,polycystic ovary syndrome
+P0705,2017-04-10,heart failure
+P0705,2020-12-31,tourette
+P0705,2022-07-28,barretts oesophagus
+P0706,2016-01-29,chronic constipation
+P0706,2016-07-13,hearing loss
+P0706,2016-11-01,osteoporosis
+P0706,2018-04-30,tourette
+P0706,2020-01-27,chronic diarrhoea
+P0706,2020-07-01,anaemia
+P0706,2020-11-19,multiple sclerosis
+P0706,2021-02-28,reflux disorders
+P0706,2021-05-08,chronic airway diseases
+P0706,2021-12-25,hypertension
+P0706,2022-12-29,chronic kidney disease
+P0706,2023-02-23,cardiac arrhythmias
+P0706,2024-01-02,cancer
+P0706,2024-01-06,osteoporosis
+P0707,2015-06-30,chronic kidney disease
+P0707,2016-03-04,psoriasis
+P0707,2017-02-27,polycystic ovary syndrome
+P0707,2018-04-23,insomnia
+P0707,2018-11-28,cirrhosis
+P0707,2019-08-09,chronic pneumonia
+P0707,2019-12-19,chronic diarrhoea
+P0707,2020-01-01,insomnia
+P0707,2020-08-22,dysphagia
+P0707,2021-02-19,chronic arthritis
+P0707,2021-07-31,dysphagia
+P0707,2021-08-10,interstitial lung disease
+P0707,2022-01-01,psoriasis
+P0707,2023-03-14,reflux disorders
+P0707,2024-01-25,menopausal and perimenopausal
+P0708,2015-01-17,cerebral palsy
+P0708,2016-09-22,dysphagia
+P0708,2018-07-19,psoriasis
+P0708,2021-12-05,thyroid disorders
+P0708,2021-12-28,chronic kidney disease
+P0708,2022-06-23,chronic pain conditions
+P0708,2023-02-02,chronic pneumonia
+P0708,2024-04-25,addisons disease
+P0708,2024-05-13,addisons disease
+P0709,2016-06-17,addisons disease
+P0709,2017-01-09,multiple sclerosis
+P0709,2021-07-04,hypertension
+P0709,2024-06-30,stroke
+P0711,2016-07-13,coronary heart disease
+P0711,2017-07-15,barretts oesophagus
+P0711,2019-09-18,multiple sclerosis
+P0711,2022-02-28,reflux disorders
+P0711,2023-11-18,heart failure
+P0712,2016-03-21,epilepsy
+P0712,2016-05-16,chronic kidney disease
+P0712,2016-10-31,dementia
+P0712,2017-01-04,hypertension
+P0712,2017-02-12,tourette
+P0712,2017-11-06,polycystic ovary syndrome
+P0712,2017-12-20,reflux disorders
+P0712,2018-09-07,menopausal and perimenopausal
+P0712,2019-01-08,cerebral palsy
+P0712,2020-04-08,mental illness
+P0712,2020-05-07,hypertension
+P0712,2021-03-12,hypertension
+P0712,2021-11-27,anaemia
+P0712,2021-12-25,menopausal and perimenopausal
+P0712,2023-08-16,addisons disease
+P0712,2024-03-27,chronic diarrhoea
+P0715,2015-12-30,dementia
+P0715,2016-03-28,inflammatory bowel disease
+P0715,2016-06-30,reflux disorders
+P0715,2019-05-21,visual impairment
+P0716,2015-05-14,chronic airway diseases
+P0716,2016-05-31,diabetes
+P0716,2016-12-20,stroke
+P0716,2018-02-07,menopausal and perimenopausal
+P0716,2018-03-13,insomnia
+P0716,2018-08-10,cardiac arrhythmias
+P0716,2019-03-20,visual impairment
+P0716,2019-07-28,addisons disease
+P0716,2021-08-04,hearing loss
+P0716,2022-11-03,cancer
+P0716,2023-02-13,peripheral vascular disease
+P0716,2024-12-19,chronic pneumonia
+P0717,2015-11-06,chronic airway diseases
+P0717,2017-03-19,chronic diarrhoea
+P0717,2020-04-06,hypertension
+P0717,2023-12-13,visual impairment
+P0717,2024-08-15,interstitial lung disease
+P0717,2024-11-04,cerebral palsy
+P0719,2017-05-13,chronic diarrhoea
+P0719,2018-08-09,chronic arthritis
+P0719,2021-04-27,coronary heart disease
+P0719,2021-08-13,hypertension
+P0719,2023-01-21,heart failure
+P0719,2024-02-11,tourette
+P0720,2015-02-03,hearing loss
+P0720,2015-11-28,diabetes
+P0720,2015-12-14,hypertension
+P0720,2016-12-17,stroke
+P0720,2017-01-26,dysphagia
+P0720,2017-07-04,epilepsy
+P0720,2018-03-17,menopausal and perimenopausal
+P0720,2018-04-23,chronic pain conditions
+P0720,2019-03-02,tourette
+P0720,2022-01-16,parkinsons
+P0720,2022-08-22,dysphagia
+P0720,2022-08-25,cirrhosis
+P0720,2022-09-21,parkinsons
+P0720,2024-07-11,psoriasis
+P0721,2017-04-05,barretts oesophagus
+P0721,2019-11-11,anaemia
+P0721,2020-03-12,stroke
+P0721,2020-04-03,insomnia
+P0721,2022-04-19,cirrhosis
+P0721,2024-10-26,epilepsy
+P0722,2016-05-31,cirrhosis
+P0722,2016-09-22,epilepsy
+P0722,2017-08-01,osteoporosis
+P0722,2018-02-04,chronic airway diseases
+P0722,2018-03-10,interstitial lung disease
+P0722,2019-10-25,visual impairment
+P0722,2021-01-14,cirrhosis
+P0722,2021-03-16,coronary heart disease
+P0722,2022-04-07,stroke
+P0722,2023-10-08,barretts oesophagus
+P0722,2023-10-26,diabetes
+P0722,2024-01-03,inflammatory bowel disease
+P0722,2024-10-10,hypertension
+P0723,2017-09-17,cardiac arrhythmias
+P0723,2018-02-17,peripheral vascular disease
+P0723,2019-04-07,diabetes
+P0723,2021-12-25,chronic diarrhoea
+P0726,2016-01-20,heart failure
+P0726,2016-10-06,coronary heart disease
+P0726,2019-02-24,visual impairment
+P0726,2019-04-08,visual impairment
+P0726,2023-09-18,polycystic ovary syndrome
+P0726,2023-09-21,addisons disease
+P0727,2016-02-26,tourette
+P0727,2017-07-17,addisons disease
+P0727,2018-07-14,chronic diarrhoea
+P0727,2019-09-07,parkinsons
+P0727,2020-01-18,reflux disorders
+P0727,2020-05-17,chronic arthritis
+P0727,2021-03-29,chronic constipation
+P0727,2022-11-12,interstitial lung disease
+P0728,2017-11-12,chronic pain conditions
+P0728,2017-12-01,menopausal and perimenopausal
+P0728,2020-01-18,osteoporosis
+P0728,2021-07-07,mental illness
+P0728,2021-10-10,chronic constipation
+P0729,2016-03-07,hearing loss
+P0729,2016-04-07,tourette
+P0729,2017-05-28,chronic kidney disease
+P0729,2017-12-12,coronary heart disease
+P0729,2019-01-09,chronic airway diseases
+P0729,2019-01-15,chronic constipation
+P0729,2020-01-11,multiple sclerosis
+P0729,2020-03-03,addisons disease
+P0729,2023-06-21,hypertension
+P0730,2016-07-20,inflammatory bowel disease
+P0730,2017-04-15,polycystic ovary syndrome
+P0730,2019-05-19,parkinsons
+P0730,2021-02-11,bronchiectasis
+P0730,2021-05-29,mental illness
+P0730,2024-07-09,peripheral vascular disease
+P0731,2017-02-11,cardiac arrhythmias
+P0731,2017-02-17,stroke
+P0731,2017-06-19,chronic pain conditions
+P0731,2019-04-19,neuropathic pain
+P0732,2015-09-03,hearing loss
+P0732,2016-02-05,chronic pneumonia
+P0732,2016-06-26,hypertension
+P0732,2020-06-17,barretts oesophagus
+P0732,2023-05-17,dementia
+P0733,2015-04-29,chronic airway diseases
+P0733,2017-11-21,insomnia
+P0733,2018-06-24,insomnia
+P0733,2019-12-24,multiple sclerosis
+P0733,2021-07-01,hearing loss
+P0733,2021-12-16,anaemia
+P0733,2023-05-15,chronic kidney disease
+P0733,2023-09-12,addisons disease
+P0733,2024-06-05,chronic arthritis
+P0737,2017-05-10,menopausal and perimenopausal
+P0737,2018-02-17,hearing loss
+P0737,2018-09-04,tourette
+P0737,2023-12-28,thyroid disorders
+P0738,2017-03-04,insomnia
+P0738,2019-03-01,psoriasis
+P0738,2021-05-26,heart failure
+P0738,2023-02-03,visual impairment
+P0738,2023-06-11,heart failure
+P0738,2024-03-12,inflammatory bowel disease
+P0739,2015-01-26,polycystic ovary syndrome
+P0739,2015-12-11,heart failure
+P0739,2017-04-25,parkinsons
+P0739,2020-08-04,chronic pneumonia
+P0739,2020-08-09,hearing loss
+P0739,2023-01-04,addisons disease
+P0741,2016-01-28,dementia
+P0741,2017-07-08,epilepsy
+P0741,2024-08-14,coronary heart disease
+P0742,2015-02-11,chronic constipation
+P0742,2015-04-02,diabetes
+P0742,2020-12-04,dysphagia
+P0742,2023-07-07,chronic arthritis
+P0742,2023-08-07,insomnia
+P0742,2024-05-07,chronic pneumonia
+P0742,2024-06-30,visual impairment
+P0742,2024-11-09,psoriasis
+P0743,2017-11-21,chronic pneumonia
+P0743,2020-05-08,chronic arthritis
+P0743,2024-10-01,insomnia
+P0744,2020-11-05,parkinsons
+P0744,2023-09-14,neuropathic pain
+P0744,2023-11-27,stroke
+P0745,2015-12-17,inflammatory bowel disease
+P0745,2019-08-13,mental illness
+P0745,2020-08-03,cancer
+P0745,2020-10-01,addisons disease
+P0746,2016-01-29,hypertension
+P0746,2016-04-08,cirrhosis
+P0746,2018-02-10,chronic airway diseases
+P0746,2018-06-09,bronchiectasis
+P0746,2018-08-18,visual impairment
+P0746,2018-09-16,cirrhosis
+P0746,2019-01-14,interstitial lung disease
+P0747,2016-02-21,menopausal and perimenopausal
+P0747,2018-02-20,multiple sclerosis
+P0747,2018-06-14,psoriasis
+P0747,2020-07-27,bronchiectasis
+P0747,2020-08-31,polycystic ovary syndrome
+P0747,2022-06-29,parkinsons
+P0747,2022-11-20,cardiac arrhythmias
+P0748,2022-06-09,dementia
+P0748,2023-02-04,menopausal and perimenopausal
+P0748,2023-06-18,cancer
+P0749,2016-11-29,mental illness
+P0749,2019-08-25,chronic airway diseases
+P0749,2019-11-10,menopausal and perimenopausal
+P0749,2019-12-12,chronic arthritis
+P0749,2023-05-10,chronic constipation
+P0750,2018-12-29,inflammatory bowel disease
+P0750,2019-09-23,chronic pneumonia
+P0750,2020-06-04,coronary heart disease
+P0750,2020-09-08,neuropathic pain
+P0750,2021-05-20,epilepsy
+P0752,2015-02-24,thyroid disorders
+P0752,2015-07-15,mental illness
+P0752,2016-12-04,cerebral palsy
+P0752,2018-01-09,addisons disease
+P0752,2018-04-25,visual impairment
+P0752,2018-05-01,reflux disorders
+P0752,2018-12-02,epilepsy
+P0752,2019-01-03,polycystic ovary syndrome
+P0752,2021-05-18,chronic pain conditions
+P0752,2022-03-28,peripheral vascular disease
+P0752,2024-05-03,chronic constipation
+P0752,2024-08-12,cardiac arrhythmias
+P0753,2017-08-14,hearing loss
+P0753,2018-04-25,chronic pneumonia
+P0753,2020-06-08,dementia
+P0753,2021-07-13,cirrhosis
+P0753,2021-11-02,chronic arthritis
+P0753,2022-06-07,diabetes
+P0753,2024-01-10,chronic diarrhoea
+P0754,2015-09-05,psoriasis
+P0754,2020-07-01,mental illness
+P0754,2024-09-20,coronary heart disease
+P0754,2024-12-06,visual impairment
+P0755,2015-03-10,inflammatory bowel disease
+P0755,2016-09-12,bronchiectasis
+P0755,2016-10-24,cardiac arrhythmias
+P0755,2017-03-03,chronic arthritis
+P0755,2018-07-28,cancer
+P0755,2018-12-15,chronic pain conditions
+P0755,2019-01-01,neuropathic pain
+P0755,2021-08-02,dysphagia
+P0755,2024-02-23,inflammatory bowel disease
+P0757,2020-05-27,anaemia
+P0757,2020-08-28,heart failure
+P0757,2021-01-18,parkinsons
+P0757,2021-03-17,tourette
+P0759,2019-04-23,polycystic ovary syndrome
+P0759,2019-11-18,tourette
+P0759,2020-02-21,neuropathic pain
+P0759,2020-09-22,addisons disease
+P0759,2023-09-15,cirrhosis
+P0760,2016-04-08,chronic pain conditions
+P0760,2016-07-07,insomnia
+P0760,2021-05-11,mental illness
+P0761,2018-08-06,hearing loss
+P0762,2015-03-01,cancer
+P0762,2015-05-18,dysphagia
+P0762,2015-05-19,parkinsons
+P0762,2016-01-19,peripheral vascular disease
+P0762,2016-10-17,chronic pneumonia
+P0762,2016-12-22,dysphagia
+P0762,2017-03-04,psoriasis
+P0762,2017-04-11,chronic kidney disease
+P0762,2017-07-05,heart failure
+P0762,2019-02-08,stroke
+P0762,2019-07-19,stroke
+P0762,2020-07-05,coronary heart disease
+P0762,2021-01-06,mental illness
+P0762,2021-05-05,visual impairment
+P0762,2021-11-25,neuropathic pain
+P0763,2018-10-22,inflammatory bowel disease
+P0763,2022-09-20,dysphagia
+P0763,2022-09-29,menopausal and perimenopausal
+P0763,2024-05-10,psoriasis
+P0765,2016-11-16,parkinsons
+P0765,2017-07-17,visual impairment
+P0765,2021-09-14,inflammatory bowel disease
+P0765,2023-09-30,thyroid disorders
+P0766,2015-03-17,thyroid disorders
+P0766,2016-05-07,chronic kidney disease
+P0766,2016-08-01,parkinsons
+P0766,2017-08-26,reflux disorders
+P0766,2018-08-28,heart failure
+P0766,2020-08-09,heart failure
+P0766,2021-11-19,neuropathic pain
+P0766,2022-05-01,chronic arthritis
+P0766,2022-12-31,cardiac arrhythmias
+P0766,2024-01-11,cancer
+P0766,2024-04-20,anaemia
+P0767,2015-05-04,dysphagia
+P0767,2017-11-17,stroke
+P0767,2017-12-27,bronchiectasis
+P0767,2018-02-05,mental illness
+P0769,2015-10-06,mental illness
+P0769,2018-08-20,cirrhosis
+P0769,2019-01-07,interstitial lung disease
+P0769,2020-02-24,mental illness
+P0769,2020-04-08,cirrhosis
+P0769,2022-12-30,coronary heart disease
+P0769,2023-08-22,peripheral vascular disease
+P0769,2024-05-29,visual impairment
+P0770,2020-12-04,parkinsons
+P0770,2021-05-05,addisons disease
+P0770,2024-01-13,stroke
+P0772,2015-06-21,multiple sclerosis
+P0772,2015-10-09,chronic kidney disease
+P0772,2017-08-19,parkinsons
+P0772,2018-02-14,chronic arthritis
+P0772,2020-09-07,hypertension
+P0772,2020-10-01,polycystic ovary syndrome
+P0772,2022-02-16,dysphagia
+P0772,2022-02-28,interstitial lung disease
+P0772,2022-06-17,menopausal and perimenopausal
+P0772,2024-12-09,epilepsy
+P0772,2024-12-20,cancer
+P0774,2019-10-10,cerebral palsy
+P0774,2019-11-24,barretts oesophagus
+P0774,2021-01-20,reflux disorders
+P0774,2022-09-24,chronic diarrhoea
+P0777,2015-07-16,stroke
+P0777,2017-12-17,diabetes
+P0777,2019-02-26,cerebral palsy
+P0777,2020-04-08,heart failure
+P0777,2022-02-04,chronic constipation
+P0777,2022-06-11,chronic pain conditions
+P0777,2022-07-04,chronic airway diseases
+P0777,2024-09-16,inflammatory bowel disease
+P0778,2017-01-30,dementia
+P0778,2020-10-01,cancer
+P0778,2022-04-29,reflux disorders
+P0779,2018-04-09,epilepsy
+P0779,2018-06-19,chronic diarrhoea
+P0779,2023-05-28,hearing loss
+P0783,2015-03-05,chronic arthritis
+P0783,2015-09-09,neuropathic pain
+P0783,2016-07-29,coronary heart disease
+P0783,2016-09-25,cirrhosis
+P0783,2018-11-08,thyroid disorders
+P0783,2019-04-29,mental illness
+P0783,2019-05-08,thyroid disorders
+P0783,2019-10-03,parkinsons
+P0783,2021-05-09,chronic diarrhoea
+P0783,2023-03-11,interstitial lung disease
+P0783,2024-08-29,epilepsy
+P0783,2024-12-15,diabetes
+P0785,2015-04-15,stroke
+P0785,2016-11-11,thyroid disorders
+P0785,2017-03-24,epilepsy
+P0785,2018-03-06,thyroid disorders
+P0785,2019-09-08,cirrhosis
+P0785,2020-04-22,hearing loss
+P0785,2020-11-18,inflammatory bowel disease
+P0785,2021-11-10,coronary heart disease
+P0785,2022-01-25,heart failure
+P0785,2022-06-21,multiple sclerosis
+P0785,2023-03-25,anaemia
+P0786,2016-02-12,chronic arthritis
+P0786,2018-03-10,bronchiectasis
+P0787,2016-09-24,coronary heart disease
+P0787,2018-10-31,reflux disorders
+P0787,2019-01-21,chronic airway diseases
+P0787,2019-09-29,dementia
+P0789,2016-08-08,chronic diarrhoea
+P0789,2018-01-13,stroke
+P0789,2018-03-04,reflux disorders
+P0789,2020-06-19,addisons disease
+P0789,2021-05-27,dementia
+P0789,2022-03-07,cerebral palsy
+P0789,2022-04-26,polycystic ovary syndrome
+P0789,2022-09-09,chronic kidney disease
+P0789,2022-09-18,chronic arthritis
+P0789,2023-12-19,insomnia
+P0789,2024-07-25,anaemia
+P0790,2016-05-24,epilepsy
+P0790,2018-05-26,chronic pneumonia
+P0790,2018-08-21,thyroid disorders
+P0790,2020-07-08,polycystic ovary syndrome
+P0790,2024-11-01,neuropathic pain
+P0791,2015-11-11,tourette
+P0791,2016-12-20,barretts oesophagus
+P0791,2017-06-14,coronary heart disease
+P0791,2023-03-16,insomnia
+P0792,2015-04-23,chronic airway diseases
+P0792,2015-07-11,neuropathic pain
+P0792,2016-12-20,bronchiectasis
+P0792,2019-08-08,menopausal and perimenopausal
+P0792,2020-05-20,dementia
+P0792,2023-07-08,parkinsons
+P0793,2015-02-14,visual impairment
+P0793,2022-06-19,dysphagia
+P0793,2024-02-24,cardiac arrhythmias
+P0794,2015-02-20,chronic arthritis
+P0794,2015-07-16,thyroid disorders
+P0794,2016-05-11,peripheral vascular disease
+P0794,2017-05-05,chronic constipation
+P0794,2017-09-10,diabetes
+P0794,2018-12-12,cerebral palsy
+P0794,2021-02-05,chronic pain conditions
+P0794,2022-09-03,chronic airway diseases
+P0794,2024-05-03,menopausal and perimenopausal
+P0795,2015-10-03,polycystic ovary syndrome
+P0795,2017-10-06,reflux disorders
+P0795,2018-01-12,neuropathic pain
+P0795,2018-02-15,coronary heart disease
+P0795,2019-04-25,psoriasis
+P0795,2019-09-03,chronic airway diseases
+P0795,2022-08-25,cardiac arrhythmias
+P0795,2022-12-20,multiple sclerosis
+P0795,2023-08-19,barretts oesophagus
+P0795,2023-08-30,hearing loss
+P0795,2024-02-22,hearing loss
+P0796,2019-04-23,parkinsons
+P0796,2020-12-18,polycystic ovary syndrome
+P0796,2023-06-10,chronic diarrhoea
+P0797,2015-04-10,chronic pneumonia
+P0797,2015-04-22,visual impairment
+P0797,2015-06-23,parkinsons
+P0797,2015-11-09,polycystic ovary syndrome
+P0797,2016-08-15,chronic diarrhoea
+P0797,2016-10-08,reflux disorders
+P0797,2017-11-29,cancer
+P0797,2018-01-14,psoriasis
+P0797,2019-08-02,epilepsy
+P0797,2020-09-12,chronic arthritis
+P0797,2021-05-06,insomnia
+P0797,2021-05-07,hypertension
+P0797,2022-04-03,stroke
+P0797,2023-02-07,addisons disease
+P0797,2024-05-11,thyroid disorders
+P0798,2015-06-02,multiple sclerosis
+P0798,2015-12-31,neuropathic pain
+P0798,2016-09-08,visual impairment
+P0798,2016-09-15,insomnia
+P0798,2016-10-17,psoriasis
+P0798,2018-05-22,inflammatory bowel disease
+P0798,2019-02-08,tourette
+P0798,2023-03-10,cerebral palsy
+P0798,2023-04-04,diabetes
+P0798,2024-10-22,chronic diarrhoea
+P0799,2015-02-26,heart failure
+P0799,2015-08-20,dysphagia
+P0799,2015-10-10,thyroid disorders
+P0799,2018-02-05,polycystic ovary syndrome
+P0799,2022-10-09,cirrhosis
+P0800,2018-08-24,addisons disease
+P0800,2019-01-16,peripheral vascular disease
+P0800,2019-08-12,inflammatory bowel disease
+P0800,2021-05-27,reflux disorders
+P0802,2020-04-30,chronic arthritis
+P0802,2021-02-04,coronary heart disease
+P0802,2024-09-30,mental illness
+P0803,2017-09-24,menopausal and perimenopausal
+P0803,2018-01-23,stroke
+P0803,2018-05-16,chronic kidney disease
+P0803,2020-03-07,cardiac arrhythmias
+P0803,2020-11-24,psoriasis
+P0803,2022-03-11,parkinsons
+P0803,2022-06-27,heart failure
+P0803,2022-11-02,chronic pain conditions
+P0803,2023-05-27,mental illness
+P0803,2024-06-08,chronic pneumonia
+P0804,2015-03-14,cancer
+P0804,2015-10-26,chronic kidney disease
+P0804,2016-11-02,reflux disorders
+P0804,2018-07-18,coronary heart disease
+P0804,2022-04-10,thyroid disorders
+P0805,2016-02-27,diabetes
+P0807,2018-05-30,cardiac arrhythmias
+P0807,2018-08-06,chronic pain conditions
+P0807,2021-06-13,chronic pain conditions
+P0807,2022-01-06,thyroid disorders
+P0807,2023-11-09,inflammatory bowel disease
+P0807,2024-10-13,chronic airway diseases
+P0808,2015-07-23,visual impairment
+P0808,2018-02-27,interstitial lung disease
+P0808,2020-11-20,dysphagia
+P0808,2021-12-23,heart failure
+P0808,2023-07-04,barretts oesophagus
+P0810,2015-08-31,chronic kidney disease
+P0810,2017-08-21,menopausal and perimenopausal
+P0810,2017-11-14,peripheral vascular disease
+P0810,2017-12-11,dysphagia
+P0810,2018-08-27,interstitial lung disease
+P0810,2020-10-09,interstitial lung disease
+P0810,2021-02-18,parkinsons
+P0810,2022-10-16,reflux disorders
+P0810,2022-12-18,chronic airway diseases
+P0810,2024-04-07,osteoporosis
+P0810,2024-04-12,thyroid disorders
+P0811,2015-08-01,heart failure
+P0811,2018-01-10,chronic pneumonia
+P0811,2019-03-31,hearing loss
+P0811,2020-05-24,psoriasis
+P0811,2021-10-28,addisons disease
+P0813,2019-06-20,thyroid disorders
+P0813,2019-07-18,menopausal and perimenopausal
+P0813,2022-12-07,chronic kidney disease
+P0814,2015-03-25,bronchiectasis
+P0814,2018-01-25,chronic pneumonia
+P0814,2019-11-30,cerebral palsy
+P0814,2021-04-08,mental illness
+P0814,2022-08-14,chronic constipation
+P0814,2022-11-15,cirrhosis
+P0814,2023-02-19,epilepsy
+P0814,2023-07-26,chronic airway diseases
+P0814,2024-11-04,cirrhosis
+P0815,2015-02-19,chronic arthritis
+P0815,2015-11-03,hearing loss
+P0815,2016-04-03,visual impairment
+P0815,2016-10-25,chronic diarrhoea
+P0815,2017-10-18,chronic pneumonia
+P0815,2017-12-04,heart failure
+P0815,2018-07-23,addisons disease
+P0815,2021-07-08,neuropathic pain
+P0815,2021-07-17,inflammatory bowel disease
+P0815,2022-02-18,mental illness
+P0815,2023-02-18,cardiac arrhythmias
+P0815,2023-03-11,tourette
+P0815,2023-04-25,cardiac arrhythmias
+P0815,2023-06-03,chronic airway diseases
+P0817,2019-05-14,chronic constipation
+P0817,2021-04-24,cerebral palsy
+P0817,2022-07-07,chronic diarrhoea
+P0817,2023-01-17,reflux disorders
+P0817,2023-05-15,inflammatory bowel disease
+P0818,2017-08-11,chronic arthritis
+P0818,2024-12-06,interstitial lung disease
+P0823,2016-01-19,psoriasis
+P0823,2018-03-23,addisons disease
+P0823,2018-07-02,heart failure
+P0823,2024-07-19,peripheral vascular disease
+P0824,2019-01-09,cardiac arrhythmias
+P0824,2019-06-11,multiple sclerosis
+P0824,2019-08-31,neuropathic pain
+P0824,2021-07-18,cirrhosis
+P0824,2021-11-21,neuropathic pain
+P0824,2022-02-09,reflux disorders
+P0824,2022-03-06,inflammatory bowel disease
+P0824,2022-11-13,anaemia
+P0824,2023-04-24,chronic kidney disease
+P0825,2015-10-20,hypertension
+P0825,2016-01-04,chronic constipation
+P0825,2016-05-24,neuropathic pain
+P0825,2019-01-06,anaemia
+P0825,2019-10-22,reflux disorders
+P0825,2020-01-27,cardiac arrhythmias
+P0825,2020-11-19,chronic constipation
+P0825,2021-05-20,cirrhosis
+P0825,2023-05-21,osteoporosis
+P0825,2023-07-18,anaemia
+P0825,2023-10-24,dementia
+P0825,2023-11-07,multiple sclerosis
+P0826,2020-04-13,anaemia
+P0826,2020-08-13,polycystic ovary syndrome
+P0827,2021-09-26,chronic diarrhoea
+P0827,2024-02-06,chronic pneumonia
+P0828,2016-02-10,menopausal and perimenopausal
+P0828,2019-01-22,chronic arthritis
+P0828,2020-08-17,polycystic ovary syndrome
+P0828,2022-10-16,barretts oesophagus
+P0831,2019-01-29,epilepsy
+P0831,2019-05-11,menopausal and perimenopausal
+P0831,2022-03-04,parkinsons
+P0831,2023-03-08,inflammatory bowel disease
+P0832,2015-08-28,parkinsons
+P0832,2017-01-28,cancer
+P0832,2017-03-31,epilepsy
+P0832,2017-11-10,cancer
+P0832,2017-11-30,chronic kidney disease
+P0832,2018-02-24,dysphagia
+P0832,2022-02-02,cerebral palsy
+P0832,2022-03-10,osteoporosis
+P0832,2022-11-02,peripheral vascular disease
+P0832,2023-01-03,osteoporosis
+P0833,2015-09-25,visual impairment
+P0833,2018-01-12,peripheral vascular disease
+P0833,2018-01-13,anaemia
+P0833,2018-05-02,epilepsy
+P0833,2020-10-22,diabetes
+P0833,2021-07-07,heart failure
+P0833,2023-04-18,stroke
+P0833,2023-07-18,epilepsy
+P0833,2024-09-12,osteoporosis
+P0834,2015-12-14,hypertension
+P0834,2019-01-08,osteoporosis
+P0834,2019-10-30,chronic kidney disease
+P0834,2022-09-07,peripheral vascular disease
+P0834,2022-12-22,heart failure
+P0835,2015-04-06,chronic kidney disease
+P0835,2015-05-11,bronchiectasis
+P0835,2015-06-20,interstitial lung disease
+P0835,2015-10-22,osteoporosis
+P0835,2017-01-18,chronic pain conditions
+P0835,2017-07-01,epilepsy
+P0835,2018-11-24,cardiac arrhythmias
+P0835,2019-11-17,multiple sclerosis
+P0835,2020-03-11,chronic diarrhoea
+P0835,2020-11-05,peripheral vascular disease
+P0835,2021-07-30,chronic arthritis
+P0835,2021-09-09,thyroid disorders
+P0835,2021-10-06,hypertension
+P0835,2021-11-18,polycystic ovary syndrome
+P0835,2021-11-28,hearing loss
+P0835,2022-09-04,parkinsons
+P0835,2024-03-18,inflammatory bowel disease
+P0836,2015-05-29,interstitial lung disease
+P0836,2015-06-19,inflammatory bowel disease
+P0836,2017-11-30,insomnia
+P0836,2018-02-06,chronic kidney disease
+P0836,2019-03-15,interstitial lung disease
+P0836,2019-10-30,mental illness
+P0836,2020-07-27,hypertension
+P0836,2021-07-21,cerebral palsy
+P0836,2024-01-31,chronic arthritis
+P0837,2016-07-29,polycystic ovary syndrome
+P0837,2019-03-09,chronic airway diseases
+P0837,2019-11-27,epilepsy
+P0838,2015-08-26,thyroid disorders
+P0838,2019-01-07,cardiac arrhythmias
+P0838,2022-06-17,bronchiectasis
+P0838,2022-12-01,coronary heart disease
+P0838,2024-02-24,chronic airway diseases
+P0838,2024-08-22,polycystic ovary syndrome
+P0838,2024-11-12,chronic constipation
+P0839,2016-02-12,inflammatory bowel disease
+P0839,2016-10-13,bronchiectasis
+P0839,2016-10-30,dementia
+P0839,2018-03-28,hypertension
+P0839,2018-11-25,peripheral vascular disease
+P0839,2019-12-06,psoriasis
+P0839,2020-09-14,cardiac arrhythmias
+P0839,2020-10-10,chronic kidney disease
+P0839,2021-07-31,heart failure
+P0839,2022-08-01,chronic diarrhoea
+P0840,2016-10-01,heart failure
+P0840,2017-05-19,inflammatory bowel disease
+P0840,2019-02-10,bronchiectasis
+P0841,2017-06-05,anaemia
+P0841,2017-07-01,insomnia
+P0841,2019-04-16,chronic diarrhoea
+P0841,2020-06-23,chronic arthritis
+P0841,2024-04-25,thyroid disorders
+P0841,2024-06-28,cirrhosis
+P0845,2015-09-25,peripheral vascular disease
+P0845,2016-07-09,cerebral palsy
+P0845,2017-01-24,chronic pneumonia
+P0845,2021-07-09,addisons disease
+P0845,2022-06-03,cerebral palsy
+P0845,2022-06-17,multiple sclerosis
+P0845,2024-05-22,hearing loss
+P0846,2015-01-08,peripheral vascular disease
+P0846,2015-05-08,chronic kidney disease
+P0846,2016-10-03,thyroid disorders
+P0846,2016-10-10,polycystic ovary syndrome
+P0846,2018-04-18,bronchiectasis
+P0846,2019-10-23,reflux disorders
+P0846,2020-03-22,diabetes
+P0846,2020-05-20,anaemia
+P0846,2021-03-25,chronic diarrhoea
+P0846,2021-07-16,peripheral vascular disease
+P0846,2022-04-22,psoriasis
+P0846,2023-08-19,stroke
+P0846,2024-02-15,cancer
+P0846,2024-02-27,hearing loss
+P0846,2024-11-01,chronic diarrhoea
+P0847,2015-05-27,multiple sclerosis
+P0847,2017-02-18,stroke
+P0847,2019-12-05,psoriasis
+P0847,2020-07-09,anaemia
+P0847,2024-08-20,dementia
+P0848,2017-07-31,osteoporosis
+P0848,2018-08-14,parkinsons
+P0848,2021-10-07,chronic kidney disease
+P0848,2022-04-14,menopausal and perimenopausal
+P0848,2023-09-12,chronic constipation
+P0848,2023-11-03,diabetes
+P0849,2017-09-05,inflammatory bowel disease
+P0849,2019-12-01,bronchiectasis
+P0849,2021-02-05,barretts oesophagus
+P0851,2015-03-26,dysphagia
+P0851,2015-11-12,psoriasis
+P0851,2016-05-24,epilepsy
+P0851,2016-06-27,insomnia
+P0851,2017-12-17,diabetes
+P0851,2019-03-14,heart failure
+P0851,2020-02-06,thyroid disorders
+P0851,2020-05-08,coronary heart disease
+P0851,2020-06-03,barretts oesophagus
+P0851,2020-10-15,parkinsons
+P0851,2021-02-17,polycystic ovary syndrome
+P0851,2021-04-11,diabetes
+P0851,2021-06-22,chronic diarrhoea
+P0851,2022-06-08,bronchiectasis
+P0851,2022-11-23,barretts oesophagus
+P0851,2023-03-11,barretts oesophagus
+P0851,2023-03-18,neuropathic pain
+P0851,2024-09-06,heart failure
+P0851,2024-10-26,chronic kidney disease
+P0852,2016-11-02,addisons disease
+P0852,2018-07-08,dementia
+P0852,2019-09-01,mental illness
+P0852,2020-08-06,insomnia
+P0852,2023-05-02,chronic arthritis
+P0852,2024-01-25,diabetes
+P0852,2024-04-15,anaemia
+P0852,2024-04-16,heart failure
+P0852,2024-10-16,dementia
+P0854,2015-01-02,neuropathic pain
+P0854,2015-09-25,chronic airway diseases
+P0854,2019-07-01,multiple sclerosis
+P0854,2022-06-17,inflammatory bowel disease
+P0854,2023-06-30,dementia
+P0855,2015-03-23,barretts oesophagus
+P0855,2015-09-20,tourette
+P0855,2016-04-28,menopausal and perimenopausal
+P0855,2016-09-24,neuropathic pain
+P0855,2017-04-25,addisons disease
+P0855,2017-08-25,heart failure
+P0855,2017-10-21,interstitial lung disease
+P0855,2018-05-24,cirrhosis
+P0855,2018-08-24,polycystic ovary syndrome
+P0855,2021-02-07,visual impairment
+P0855,2021-03-05,coronary heart disease
+P0855,2021-07-05,visual impairment
+P0855,2021-11-09,thyroid disorders
+P0855,2022-04-17,epilepsy
+P0857,2016-11-18,stroke
+P0857,2017-02-16,tourette
+P0857,2017-03-17,chronic constipation
+P0857,2018-09-11,coronary heart disease
+P0857,2019-03-08,chronic constipation
+P0857,2019-05-15,bronchiectasis
+P0857,2019-07-05,dementia
+P0857,2020-03-20,insomnia
+P0857,2022-09-15,peripheral vascular disease
+P0857,2024-01-27,osteoporosis
+P0858,2015-04-07,cardiac arrhythmias
+P0858,2017-02-22,neuropathic pain
+P0858,2022-01-27,coronary heart disease
+P0858,2022-05-20,chronic arthritis
+P0859,2015-04-24,chronic diarrhoea
+P0859,2016-01-24,coronary heart disease
+P0859,2017-06-02,addisons disease
+P0859,2023-08-17,multiple sclerosis
+P0859,2023-09-13,chronic airway diseases
+P0860,2015-01-28,bronchiectasis
+P0860,2017-02-10,insomnia
+P0860,2017-06-18,osteoporosis
+P0860,2021-04-24,chronic constipation
+P0860,2021-12-09,interstitial lung disease
+P0860,2022-01-20,tourette
+P0860,2023-09-01,stroke
+P0860,2024-06-15,multiple sclerosis
+P0862,2016-01-13,epilepsy
+P0862,2016-07-11,visual impairment
+P0862,2016-09-17,osteoporosis
+P0862,2017-07-16,psoriasis
+P0862,2018-11-03,addisons disease
+P0862,2020-12-14,dysphagia
+P0862,2021-05-13,hypertension
+P0862,2024-07-24,diabetes
+P0865,2017-03-17,cerebral palsy
+P0865,2017-04-22,barretts oesophagus
+P0865,2019-02-18,psoriasis
+P0865,2022-06-14,hearing loss
+P0865,2024-06-19,dementia
+P0865,2024-08-30,anaemia
+P0866,2015-03-03,bronchiectasis
+P0866,2016-01-22,coronary heart disease
+P0866,2016-09-04,reflux disorders
+P0866,2016-09-04,dementia
+P0866,2017-06-25,neuropathic pain
+P0866,2017-12-28,peripheral vascular disease
+P0866,2019-01-17,cirrhosis
+P0866,2019-09-04,chronic constipation
+P0866,2020-02-01,coronary heart disease
+P0866,2020-02-13,cardiac arrhythmias
+P0866,2020-11-03,chronic airway diseases
+P0866,2021-02-07,diabetes
+P0866,2021-08-02,addisons disease
+P0866,2022-08-23,stroke
+P0866,2024-02-15,chronic pneumonia
+P0867,2015-06-03,hearing loss
+P0867,2017-10-26,cardiac arrhythmias
+P0867,2018-08-20,insomnia
+P0867,2024-01-08,neuropathic pain
+P0867,2024-12-21,dementia
+P0868,2024-07-18,chronic pain conditions
+P0870,2017-06-30,mental illness
+P0870,2020-05-24,dementia
+P0870,2022-11-14,visual impairment
+P0870,2023-01-26,tourette
+P0871,2015-08-08,tourette
+P0871,2016-07-19,psoriasis
+P0871,2016-08-04,coronary heart disease
+P0871,2016-09-21,chronic arthritis
+P0871,2016-10-30,neuropathic pain
+P0871,2017-02-22,chronic pneumonia
+P0871,2021-04-28,stroke
+P0871,2022-07-28,multiple sclerosis
+P0871,2024-06-22,addisons disease
+P0875,2021-03-24,bronchiectasis
+P0875,2022-02-23,chronic diarrhoea
+P0875,2023-12-21,thyroid disorders
+P0875,2024-01-03,chronic pain conditions
+P0876,2018-12-29,insomnia
+P0876,2019-05-14,polycystic ovary syndrome
+P0876,2021-02-21,chronic kidney disease
+P0876,2023-01-30,chronic constipation
+P0876,2024-11-01,mental illness
+P0877,2015-02-08,osteoporosis
+P0877,2016-03-31,chronic kidney disease
+P0877,2019-06-22,chronic pneumonia
+P0877,2022-08-24,chronic pain conditions
+P0877,2023-07-20,dysphagia
+P0877,2023-10-01,diabetes
+P0877,2023-11-24,thyroid disorders
+P0879,2016-01-19,neuropathic pain
+P0879,2016-08-17,cirrhosis
+P0879,2024-09-06,parkinsons
+P0880,2021-06-08,menopausal and perimenopausal
+P0880,2023-03-19,diabetes
+P0880,2024-06-10,tourette
+P0881,2019-03-13,dementia
+P0881,2019-05-21,peripheral vascular disease
+P0881,2019-09-14,hearing loss
+P0881,2019-10-12,chronic pneumonia
+P0881,2022-01-26,cirrhosis
+P0881,2023-02-05,hearing loss
+P0881,2023-04-02,chronic airway diseases
+P0881,2023-11-10,barretts oesophagus
+P0882,2016-08-01,chronic arthritis
+P0882,2016-08-04,heart failure
+P0882,2017-06-16,parkinsons
+P0882,2020-11-30,interstitial lung disease
+P0882,2023-08-31,peripheral vascular disease
+P0883,2015-09-10,anaemia
+P0883,2015-12-22,insomnia
+P0883,2017-06-11,reflux disorders
+P0883,2018-06-10,thyroid disorders
+P0883,2019-06-08,hearing loss
+P0883,2020-03-12,dysphagia
+P0883,2020-07-04,chronic airway diseases
+P0883,2021-08-08,anaemia
+P0883,2021-09-09,cerebral palsy
+P0883,2022-01-17,polycystic ovary syndrome
+P0883,2022-03-15,cirrhosis
+P0883,2022-05-20,menopausal and perimenopausal
+P0883,2022-10-28,peripheral vascular disease
+P0883,2023-02-19,polycystic ovary syndrome
+P0883,2023-03-02,cirrhosis
+P0884,2017-01-12,neuropathic pain
+P0884,2018-09-01,menopausal and perimenopausal
+P0884,2020-08-11,mental illness
+P0884,2021-11-19,diabetes
+P0884,2023-01-19,chronic airway diseases
+P0885,2015-04-11,anaemia
+P0885,2015-10-22,cardiac arrhythmias
+P0885,2016-04-16,chronic pain conditions
+P0885,2016-05-02,chronic kidney disease
+P0885,2017-05-21,peripheral vascular disease
+P0885,2017-05-24,osteoporosis
+P0885,2017-07-29,bronchiectasis
+P0885,2017-12-14,chronic kidney disease
+P0885,2018-03-19,visual impairment
+P0885,2018-04-26,addisons disease
+P0885,2018-07-03,chronic pneumonia
+P0885,2018-10-20,psoriasis
+P0885,2020-02-17,chronic arthritis
+P0885,2020-08-16,chronic arthritis
+P0885,2021-06-16,polycystic ovary syndrome
+P0885,2024-05-27,inflammatory bowel disease
+P0885,2024-07-15,inflammatory bowel disease
+P0885,2024-09-18,chronic diarrhoea
+P0885,2024-10-17,heart failure
+P0885,2024-10-25,mental illness
+P0885,2024-12-06,chronic pain conditions
+P0886,2015-04-05,menopausal and perimenopausal
+P0886,2015-08-03,coronary heart disease
+P0886,2016-01-09,interstitial lung disease
+P0886,2016-08-12,epilepsy
+P0886,2017-02-17,interstitial lung disease
+P0886,2017-08-26,multiple sclerosis
+P0886,2017-12-21,hearing loss
+P0886,2021-05-07,chronic arthritis
+P0886,2021-06-12,reflux disorders
+P0886,2022-03-24,stroke
+P0887,2015-04-25,menopausal and perimenopausal
+P0887,2019-03-09,psoriasis
+P0887,2019-06-27,chronic arthritis
+P0887,2020-09-10,peripheral vascular disease
+P0887,2020-10-25,bronchiectasis
+P0887,2021-08-10,osteoporosis
+P0887,2021-11-16,hearing loss
+P0887,2022-07-09,psoriasis
+P0887,2023-02-25,osteoporosis
+P0887,2024-05-17,barretts oesophagus
+P0887,2024-08-30,neuropathic pain
+P0887,2024-09-21,stroke
+P0888,2016-07-13,visual impairment
+P0888,2018-08-09,psoriasis
+P0888,2019-10-15,cerebral palsy
+P0888,2020-06-24,dysphagia
+P0888,2020-10-26,coronary heart disease
+P0889,2017-02-23,inflammatory bowel disease
+P0889,2021-01-01,anaemia
+P0889,2021-02-10,psoriasis
+P0889,2021-02-21,osteoporosis
+P0890,2015-03-19,interstitial lung disease
+P0890,2017-12-16,thyroid disorders
+P0890,2022-05-14,barretts oesophagus
+P0891,2015-02-06,dysphagia
+P0894,2016-10-09,neuropathic pain
+P0894,2017-08-20,stroke
+P0894,2019-02-01,inflammatory bowel disease
+P0894,2021-12-28,chronic constipation
+P0894,2023-01-07,chronic arthritis
+P0896,2015-10-22,multiple sclerosis
+P0896,2016-04-27,insomnia
+P0896,2016-07-12,cardiac arrhythmias
+P0896,2016-08-01,cancer
+P0896,2016-08-18,barretts oesophagus
+P0896,2017-03-03,menopausal and perimenopausal
+P0896,2017-03-07,cancer
+P0896,2018-04-06,bronchiectasis
+P0896,2018-06-15,reflux disorders
+P0896,2019-08-12,cardiac arrhythmias
+P0896,2019-11-25,neuropathic pain
+P0896,2020-01-14,tourette
+P0896,2020-11-05,chronic kidney disease
+P0896,2020-12-02,dementia
+P0896,2022-05-11,anaemia
+P0896,2023-08-09,chronic airway diseases
+P0897,2015-10-20,chronic arthritis
+P0897,2017-06-20,stroke
+P0897,2019-10-24,menopausal and perimenopausal
+P0897,2022-06-23,visual impairment
+P0897,2023-08-18,tourette
+P0897,2024-07-11,cerebral palsy
+P0898,2015-04-07,reflux disorders
+P0898,2016-11-27,coronary heart disease
+P0898,2017-04-15,chronic airway diseases
+P0898,2017-05-24,peripheral vascular disease
+P0898,2018-05-01,polycystic ovary syndrome
+P0898,2018-09-27,multiple sclerosis
+P0898,2019-04-01,chronic arthritis
+P0898,2019-10-18,neuropathic pain
+P0898,2020-08-22,inflammatory bowel disease
+P0898,2021-01-16,parkinsons
+P0898,2021-04-19,dysphagia
+P0898,2021-04-20,menopausal and perimenopausal
+P0898,2022-08-30,tourette
+P0898,2023-12-11,cancer
+P0903,2015-03-15,visual impairment
+P0903,2017-08-18,cancer
+P0903,2018-09-09,menopausal and perimenopausal
+P0903,2018-10-21,bronchiectasis
+P0903,2019-01-30,parkinsons
+P0903,2021-03-18,chronic constipation
+P0903,2022-03-31,epilepsy
+P0903,2024-03-05,peripheral vascular disease
+P0903,2024-09-21,neuropathic pain
+P0903,2024-10-08,interstitial lung disease
+P0905,2015-08-24,cerebral palsy
+P0905,2017-08-24,visual impairment
+P0905,2019-12-10,coronary heart disease
+P0906,2018-08-04,addisons disease
+P0906,2019-06-27,epilepsy
+P0906,2020-05-13,chronic pneumonia
+P0906,2021-12-31,multiple sclerosis
+P0906,2023-08-02,chronic diarrhoea
+P0908,2016-05-03,stroke
+P0908,2017-06-01,peripheral vascular disease
+P0908,2017-09-10,parkinsons
+P0908,2020-12-29,dementia
+P0908,2023-07-18,bronchiectasis
+P0908,2024-06-27,hearing loss
+P0909,2017-12-07,tourette
+P0909,2019-02-09,polycystic ovary syndrome
+P0909,2019-05-04,hypertension
+P0909,2019-05-05,interstitial lung disease
+P0909,2024-11-28,cirrhosis
+P0910,2018-11-09,cirrhosis
+P0910,2019-08-01,polycystic ovary syndrome
+P0910,2020-05-28,reflux disorders
+P0911,2018-01-23,menopausal and perimenopausal
+P0911,2023-10-29,addisons disease
+P0912,2015-06-09,mental illness
+P0912,2016-01-08,tourette
+P0912,2021-06-27,chronic kidney disease
+P0912,2022-08-18,thyroid disorders
+P0912,2023-12-17,chronic constipation
+P0913,2015-06-02,mental illness
+P0913,2017-10-17,anaemia
+P0913,2020-11-07,addisons disease
+P0913,2021-07-21,polycystic ovary syndrome
+P0913,2024-01-24,epilepsy
+P0913,2024-11-10,hypertension
+P0914,2015-05-24,hearing loss
+P0914,2016-03-25,tourette
+P0914,2016-07-17,diabetes
+P0914,2016-09-28,chronic pneumonia
+P0914,2017-06-19,peripheral vascular disease
+P0914,2018-03-31,barretts oesophagus
+P0914,2018-08-06,mental illness
+P0914,2018-08-28,multiple sclerosis
+P0914,2023-06-09,addisons disease
+P0914,2023-07-07,osteoporosis
+P0914,2023-07-16,chronic diarrhoea
+P0914,2023-10-12,interstitial lung disease
+P0914,2024-09-23,psoriasis
+P0915,2015-04-17,cardiac arrhythmias
+P0915,2015-05-29,inflammatory bowel disease
+P0915,2016-06-10,cirrhosis
+P0915,2017-03-04,parkinsons
+P0915,2017-10-30,chronic pain conditions
+P0915,2018-05-16,polycystic ovary syndrome
+P0915,2018-12-22,cerebral palsy
+P0915,2019-07-11,hearing loss
+P0915,2020-03-02,reflux disorders
+P0915,2020-12-11,tourette
+P0915,2023-12-20,addisons disease
+P0915,2024-04-03,polycystic ovary syndrome
+P0916,2018-08-31,chronic airway diseases
+P0916,2020-02-13,inflammatory bowel disease
+P0916,2021-08-03,tourette
+P0916,2022-03-05,polycystic ovary syndrome
+P0917,2015-08-07,chronic kidney disease
+P0917,2015-09-10,chronic pneumonia
+P0917,2015-12-19,chronic constipation
+P0917,2019-07-31,insomnia
+P0917,2019-11-30,parkinsons
+P0917,2019-12-10,anaemia
+P0917,2023-07-18,cerebral palsy
+P0917,2023-11-16,chronic constipation
+P0919,2015-12-18,reflux disorders
+P0919,2016-06-02,osteoporosis
+P0919,2016-11-13,neuropathic pain
+P0919,2017-04-17,stroke
+P0919,2017-07-30,interstitial lung disease
+P0919,2018-01-26,hearing loss
+P0919,2019-05-09,hearing loss
+P0919,2020-02-11,chronic constipation
+P0919,2021-07-05,barretts oesophagus
+P0919,2023-04-02,diabetes
+P0919,2023-09-23,cerebral palsy
+P0919,2023-11-20,anaemia
+P0919,2024-09-24,bronchiectasis
+P0920,2016-05-23,cerebral palsy
+P0920,2019-10-01,cirrhosis
+P0920,2019-12-03,menopausal and perimenopausal
+P0920,2022-02-22,insomnia
+P0920,2023-02-03,visual impairment
+P0920,2023-11-10,inflammatory bowel disease
+P0921,2016-10-12,psoriasis
+P0921,2017-01-04,visual impairment
+P0921,2017-08-08,addisons disease
+P0921,2022-05-24,polycystic ovary syndrome
+P0922,2015-09-27,chronic airway diseases
+P0922,2018-01-04,addisons disease
+P0922,2018-11-08,cancer
+P0922,2018-12-21,chronic arthritis
+P0922,2019-09-24,addisons disease
+P0922,2019-10-09,cirrhosis
+P0922,2020-06-09,menopausal and perimenopausal
+P0922,2022-06-12,mental illness
+P0924,2018-09-27,insomnia
+P0924,2018-11-05,cancer
+P0924,2020-08-12,chronic pneumonia
+P0924,2022-06-01,visual impairment
+P0924,2023-12-15,dysphagia
+P0924,2023-12-22,menopausal and perimenopausal
+P0925,2015-02-26,osteoporosis
+P0925,2016-04-12,dysphagia
+P0925,2019-02-24,parkinsons
+P0925,2019-06-21,chronic pain conditions
+P0925,2019-06-28,anaemia
+P0925,2020-02-23,bronchiectasis
+P0925,2024-07-10,interstitial lung disease
+P0928,2015-04-09,bronchiectasis
+P0928,2016-04-08,inflammatory bowel disease
+P0928,2016-06-21,cancer
+P0928,2016-07-30,chronic pneumonia
+P0928,2016-09-19,neuropathic pain
+P0928,2016-11-22,visual impairment
+P0928,2018-09-11,chronic pain conditions
+P0928,2020-09-07,cancer
+P0928,2021-10-24,addisons disease
+P0928,2023-04-29,epilepsy
+P0928,2024-09-17,cardiac arrhythmias
+P0930,2020-01-23,cancer
+P0931,2015-06-18,tourette
+P0931,2016-03-10,peripheral vascular disease
+P0931,2018-07-21,dysphagia
+P0931,2018-12-30,chronic diarrhoea
+P0932,2015-01-27,chronic pneumonia
+P0932,2015-02-10,barretts oesophagus
+P0932,2016-01-09,osteoporosis
+P0932,2016-02-23,insomnia
+P0932,2016-05-22,chronic pain conditions
+P0932,2016-08-26,chronic kidney disease
+P0932,2016-10-15,visual impairment
+P0932,2016-12-24,parkinsons
+P0932,2017-08-08,chronic arthritis
+P0932,2017-10-11,addisons disease
+P0932,2018-05-12,reflux disorders
+P0932,2018-06-27,epilepsy
+P0932,2020-08-08,barretts oesophagus
+P0932,2020-09-06,chronic airway diseases
+P0932,2021-02-23,dysphagia
+P0932,2021-09-08,cirrhosis
+P0932,2022-06-24,coronary heart disease
+P0932,2023-05-15,psoriasis
+P0932,2023-05-20,parkinsons
+P0932,2023-05-23,multiple sclerosis
+P0933,2018-11-02,mental illness
+P0933,2018-11-09,reflux disorders
+P0933,2019-07-26,hearing loss
+P0933,2019-10-06,cardiac arrhythmias
+P0933,2021-01-30,diabetes
+P0933,2021-11-03,dysphagia
+P0933,2022-07-17,chronic pneumonia
+P0933,2022-07-29,interstitial lung disease
+P0933,2022-09-15,thyroid disorders
+P0933,2024-08-25,osteoporosis
+P0934,2016-04-17,interstitial lung disease
+P0934,2017-04-25,anaemia
+P0934,2017-05-21,diabetes
+P0934,2017-06-20,reflux disorders
+P0934,2017-08-16,neuropathic pain
+P0934,2017-11-05,menopausal and perimenopausal
+P0934,2018-11-30,cirrhosis
+P0934,2019-05-20,bronchiectasis
+P0934,2019-09-14,chronic airway diseases
+P0934,2019-10-27,barretts oesophagus
+P0934,2020-11-04,dementia
+P0934,2022-01-03,hearing loss
+P0934,2022-03-29,menopausal and perimenopausal
+P0934,2022-10-19,insomnia
+P0934,2024-05-21,insomnia
+P0934,2024-08-14,cirrhosis
+P0934,2024-09-09,visual impairment
+P0937,2016-05-09,chronic diarrhoea
+P0937,2017-05-01,tourette
+P0937,2018-07-03,dysphagia
+P0937,2020-08-17,chronic kidney disease
+P0937,2021-03-01,hypertension
+P0937,2023-05-06,polycystic ovary syndrome
+P0937,2024-02-03,insomnia
+P0938,2017-12-31,multiple sclerosis
+P0938,2020-02-13,thyroid disorders
+P0938,2020-05-22,chronic arthritis
+P0939,2016-04-28,reflux disorders
+P0939,2018-12-22,hearing loss
+P0939,2020-06-06,visual impairment
+P0939,2022-03-06,thyroid disorders
+P0939,2022-05-14,polycystic ovary syndrome
+P0940,2016-12-29,epilepsy
+P0940,2018-09-17,chronic kidney disease
+P0940,2020-03-22,peripheral vascular disease
+P0940,2021-04-05,dementia
+P0941,2015-12-08,chronic pneumonia
+P0941,2016-03-25,dementia
+P0942,2016-03-14,peripheral vascular disease
+P0942,2016-04-06,cancer
+P0942,2016-07-29,chronic pain conditions
+P0942,2016-09-18,chronic kidney disease
+P0942,2016-09-26,chronic airway diseases
+P0942,2016-11-30,cirrhosis
+P0942,2017-07-09,interstitial lung disease
+P0942,2018-07-14,hearing loss
+P0942,2019-06-22,coronary heart disease
+P0942,2020-09-21,mental illness
+P0942,2021-09-18,chronic kidney disease
+P0942,2021-09-18,coronary heart disease
+P0942,2022-03-13,anaemia
+P0942,2022-04-23,diabetes
+P0942,2022-05-22,dysphagia
+P0942,2022-12-15,insomnia
+P0942,2024-02-27,stroke
+P0944,2017-01-21,chronic arthritis
+P0944,2018-07-27,reflux disorders
+P0944,2019-09-02,hypertension
+P0944,2020-09-10,addisons disease
+P0944,2020-12-24,hearing loss
+P0944,2021-12-11,menopausal and perimenopausal
+P0944,2022-06-08,polycystic ovary syndrome
+P0944,2022-09-24,psoriasis
+P0944,2023-11-17,inflammatory bowel disease
+P0944,2023-11-28,heart failure
+P0944,2024-02-21,chronic arthritis
+P0944,2024-10-15,reflux disorders
+P0946,2016-04-12,coronary heart disease
+P0946,2016-04-22,dysphagia
+P0946,2017-04-28,chronic kidney disease
+P0946,2017-08-19,cancer
+P0946,2020-06-13,heart failure
+P0946,2020-08-03,chronic pneumonia
+P0946,2021-11-12,thyroid disorders
+P0946,2022-02-23,parkinsons
+P0946,2023-05-17,coronary heart disease
+P0946,2024-10-24,cancer
+P0946,2024-12-12,neuropathic pain
+P0947,2017-11-07,chronic pain conditions
+P0947,2018-02-18,visual impairment
+P0947,2018-05-18,chronic pain conditions
+P0947,2018-07-10,chronic diarrhoea
+P0947,2018-11-18,diabetes
+P0947,2019-11-01,psoriasis
+P0947,2021-12-19,dementia
+P0947,2022-04-18,insomnia
+P0947,2022-11-07,visual impairment
+P0948,2018-10-07,chronic kidney disease
+P0948,2019-10-08,cirrhosis
+P0948,2021-01-17,parkinsons
+P0948,2021-11-10,menopausal and perimenopausal
+P0948,2022-05-12,dementia
+P0951,2019-11-18,addisons disease
+P0951,2021-09-27,chronic diarrhoea
+P0951,2022-01-24,tourette
+P0951,2024-04-26,osteoporosis
+P0951,2024-08-31,interstitial lung disease
+P0954,2015-10-20,inflammatory bowel disease
+P0954,2016-03-27,heart failure
+P0954,2016-08-26,heart failure
+P0954,2017-01-31,diabetes
+P0954,2017-05-28,reflux disorders
+P0954,2018-04-14,tourette
+P0954,2021-07-27,interstitial lung disease
+P0954,2021-10-29,parkinsons
+P0954,2022-04-14,chronic airway diseases
+P0954,2023-05-11,cerebral palsy
+P0954,2023-09-01,chronic pneumonia
+P0954,2024-02-28,addisons disease
+P0954,2024-05-25,chronic diarrhoea
+P0954,2024-08-26,neuropathic pain
+P0955,2018-09-16,cardiac arrhythmias
+P0955,2020-07-12,osteoporosis
+P0955,2020-09-30,bronchiectasis
+P0955,2022-03-01,polycystic ovary syndrome
+P0956,2015-02-21,cardiac arrhythmias
+P0956,2019-07-17,insomnia
+P0956,2019-10-24,dysphagia
+P0956,2020-02-12,anaemia
+P0956,2020-08-10,psoriasis
+P0956,2021-01-23,cirrhosis
+P0956,2021-06-18,tourette
+P0956,2022-05-14,hypertension
+P0956,2022-08-26,osteoporosis
+P0956,2023-01-17,multiple sclerosis
+P0956,2023-06-13,peripheral vascular disease
+P0957,2016-03-11,neuropathic pain
+P0957,2016-05-11,polycystic ovary syndrome
+P0957,2017-11-26,psoriasis
+P0957,2018-04-12,mental illness
+P0957,2019-03-31,reflux disorders
+P0957,2021-10-10,hypertension
+P0957,2022-11-10,cardiac arrhythmias
+P0957,2022-11-12,chronic kidney disease
+P0957,2022-12-19,psoriasis
+P0957,2023-02-18,menopausal and perimenopausal
+P0959,2015-07-01,coronary heart disease
+P0959,2017-10-12,peripheral vascular disease
+P0959,2017-12-30,chronic arthritis
+P0959,2018-08-10,dementia
+P0959,2018-11-16,chronic pain conditions
+P0959,2020-01-21,barretts oesophagus
+P0959,2020-03-28,osteoporosis
+P0959,2020-10-06,barretts oesophagus
+P0959,2022-01-23,mental illness
+P0960,2017-04-13,chronic kidney disease
+P0960,2017-04-16,tourette
+P0960,2017-12-19,chronic constipation
+P0960,2018-02-28,insomnia
+P0960,2019-12-24,psoriasis
+P0960,2020-03-01,chronic pain conditions
+P0960,2020-06-20,dementia
+P0960,2020-12-21,hearing loss
+P0960,2022-01-15,hypertension
+P0960,2023-04-08,inflammatory bowel disease
+P0961,2015-08-21,epilepsy
+P0961,2016-10-11,psoriasis
+P0961,2018-01-12,multiple sclerosis
+P0961,2019-02-13,chronic pain conditions
+P0961,2022-02-18,chronic pneumonia
+P0963,2015-10-12,chronic constipation
+P0963,2021-09-15,neuropathic pain
+P0964,2015-09-06,mental illness
+P0964,2023-06-14,epilepsy
+P0964,2023-11-09,chronic constipation
+P0964,2024-05-24,visual impairment
+P0964,2024-10-03,interstitial lung disease
+P0965,2015-07-19,mental illness
+P0965,2016-01-03,diabetes
+P0965,2016-06-08,peripheral vascular disease
+P0965,2017-04-26,dementia
+P0965,2022-07-07,heart failure
+P0965,2023-12-11,menopausal and perimenopausal
+P0966,2019-02-13,polycystic ovary syndrome
+P0966,2019-10-28,chronic arthritis
+P0966,2024-01-14,dysphagia
+P0966,2024-04-07,hearing loss
+P0968,2016-12-17,heart failure
+P0968,2017-12-11,visual impairment
+P0968,2018-02-04,heart failure
+P0968,2020-12-24,mental illness
+P0969,2016-07-30,addisons disease
+P0969,2016-08-22,psoriasis
+P0969,2018-11-02,polycystic ovary syndrome
+P0969,2022-03-23,chronic pneumonia
+P0969,2022-09-30,chronic airway diseases
+P0969,2023-10-28,chronic kidney disease
+P0970,2015-12-27,interstitial lung disease
+P0970,2020-09-30,chronic arthritis
+P0970,2020-10-13,cancer
+P0974,2015-02-28,barretts oesophagus
+P0974,2016-02-18,reflux disorders
+P0974,2016-08-20,thyroid disorders
+P0974,2017-08-12,mental illness
+P0974,2019-06-27,cancer
+P0974,2019-08-14,visual impairment
+P0974,2020-08-12,interstitial lung disease
+P0974,2020-10-27,osteoporosis
+P0974,2024-05-13,bronchiectasis
+P0976,2015-12-15,coronary heart disease
+P0976,2016-12-05,psoriasis
+P0976,2017-06-16,chronic constipation
+P0976,2017-10-03,reflux disorders
+P0976,2020-01-29,chronic kidney disease
+P0976,2022-04-04,multiple sclerosis
+P0977,2015-08-18,hypertension
+P0977,2017-05-12,chronic kidney disease
+P0977,2017-07-19,menopausal and perimenopausal
+P0977,2023-07-04,stroke
+P0978,2015-04-10,hearing loss
+P0978,2018-05-07,chronic pain conditions
+P0978,2018-09-29,polycystic ovary syndrome
+P0978,2021-03-31,chronic airway diseases
+P0978,2023-09-26,visual impairment
+P0978,2024-09-13,cancer
+P0981,2016-06-19,parkinsons
+P0981,2020-09-25,reflux disorders
+P0981,2024-12-27,cancer
+P0982,2017-07-09,cirrhosis
+P0982,2022-06-13,inflammatory bowel disease
+P0982,2023-08-03,cerebral palsy
+P0983,2017-04-06,thyroid disorders
+P0983,2017-10-25,heart failure
+P0983,2021-01-15,anaemia
+P0983,2021-11-19,visual impairment
+P0983,2022-05-15,diabetes
+P0983,2023-05-10,cardiac arrhythmias
+P0983,2024-04-26,bronchiectasis
+P0984,2018-03-17,coronary heart disease
+P0984,2018-12-18,cardiac arrhythmias
+P0984,2020-12-07,chronic pain conditions
+P0984,2022-06-24,cardiac arrhythmias
+P0985,2020-07-15,chronic airway diseases
+P0985,2021-09-01,chronic constipation
+P0985,2023-01-07,parkinsons
+P0986,2016-08-15,heart failure
+P0986,2017-03-31,hearing loss
+P0986,2018-05-12,inflammatory bowel disease
+P0986,2020-02-07,polycystic ovary syndrome
+P0986,2020-03-29,osteoporosis
+P0986,2022-08-30,insomnia
+P0986,2022-09-08,barretts oesophagus
+P0988,2015-01-01,chronic constipation
+P0988,2016-01-20,cancer
+P0988,2018-01-07,chronic kidney disease
+P0988,2019-11-27,chronic airway diseases
+P0988,2022-10-13,hearing loss
+P0988,2024-07-10,bronchiectasis
+P0988,2024-12-10,anaemia
+P0989,2015-02-06,insomnia
+P0989,2015-06-09,chronic airway diseases
+P0989,2016-04-02,cardiac arrhythmias
+P0989,2019-09-06,multiple sclerosis
+P0989,2020-04-07,anaemia
+P0989,2023-10-14,psoriasis
+P0990,2016-06-17,chronic kidney disease
+P0990,2020-02-01,barretts oesophagus
+P0990,2020-07-30,stroke
+P0990,2021-11-10,menopausal and perimenopausal
+P0991,2016-02-16,multiple sclerosis
+P0991,2016-10-29,mental illness
+P0991,2019-07-02,psoriasis
+P0991,2021-08-27,chronic arthritis
+P0992,2016-09-15,neuropathic pain
+P0992,2017-05-31,chronic pain conditions
+P0992,2017-07-27,chronic airway diseases
+P0992,2018-09-15,diabetes
+P0992,2019-03-11,thyroid disorders
+P0992,2019-07-10,thyroid disorders
+P0992,2021-08-23,anaemia
+P0992,2022-05-19,epilepsy
+P0992,2024-04-08,hearing loss
+P0994,2017-01-01,visual impairment
+P0998,2015-05-04,hearing loss
+P0998,2016-12-17,mental illness
+P0998,2019-07-27,epilepsy
+P0998,2020-10-23,diabetes
+P0998,2020-11-13,visual impairment
+P0998,2022-03-27,cirrhosis
+P0998,2022-06-15,dementia
+P0998,2023-08-28,parkinsons
+P0998,2024-10-01,dysphagia
+P0999,2016-09-04,cancer
+P0999,2017-11-09,anaemia
+P0999,2021-01-31,multiple sclerosis
+P0999,2023-12-03,parkinsons
+P1000,2015-11-11,chronic diarrhoea
+P1000,2016-07-13,insomnia
+P1000,2016-09-08,parkinsons
+P1000,2016-11-10,chronic arthritis
+P1000,2017-04-24,thyroid disorders
+P1000,2019-08-03,cerebral palsy
+P1000,2020-10-18,psoriasis
+P1000,2022-02-24,chronic airway diseases
+P1000,2022-12-10,epilepsy
+P1000,2023-08-30,heart failure
+P1000,2023-09-20,chronic pain conditions
+P1000,2023-12-27,thyroid disorders
