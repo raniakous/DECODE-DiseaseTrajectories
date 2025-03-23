@@ -9,7 +9,7 @@ The methodology was presented in the article *"Temporal Patterns of Multiple Lon
 Kousovista, R., Cosma, G., Abakasanga, E., Akbari, A., Zaccardi, F., Jun, G. T., Kiani R. & Gangadharan, S. (2025). Temporal Patterns of Multiple Long-Term Conditions in Welsh Individuals with Intellectual Disabilities: An Unsupervised Clustering Approach to Disease Trajectories. *Frontiers in Digital Health*, 7, 1528882.
 
 ```bibtex
-@article{kousovista2024temporal,
+@article{kousovista2025temporal,
   title={Temporal Patterns of Multiple Long-Term Conditions in Welsh Individuals with Intellectual Disabilities: An Unsupervised Clustering Approach to Disease Trajectories},
   author={Kousovista, Rania and Cosma, Georgina and Abakasanga, Emmanuel and Akbari, Ashley and Zaccardi, Francesco and Jun, Gyuchan Thomas and Kiani, Reza and Gangadharan, Satheesh},
   journal={Frontiers in Digital Health},
