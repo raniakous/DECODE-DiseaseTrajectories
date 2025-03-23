@@ -81,6 +81,8 @@ Group similar trajectories together using network-based similarity:
 3. Generate similarity matrices between trajectories
 4. Determine optimal number of clusters using silhouette scores
 5. Perform spectral clustering to identify trajectory clusters
+
+
 ![trajectory clusters1](males.png)
 ![trajectory clusters2](females.png)
 
@@ -144,19 +146,10 @@ The analysis produces:
 - `trajectories_df_length_4`: DataFrame of four-condition trajectories (if available)
 - Cluster assignments for each trajectory
 
-## Citation
-
-If you use this package in your research, please cite:
-
-```
-Kousovista, R. (2023). DECODE-DiseaseTrajectories: A Python package for identifying 
-and clustering disease progression pathways. Journal of Biomedical Informatics.
-```
-
 ## License
 
 MIT License
 
 ## Contact
 
-For questions or support, please contact [email].
+For questions or support, please contact [r.kousovista@lboro.ac.uk] or submit an Issue on GitHub.
