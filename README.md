@@ -11,7 +11,7 @@ Kousovista, R., Cosma, G., Abakasanga, E., Akbari, A., Zaccardi, F., Jun, G. T.,
 ```bibtex
 @article{kousovista2025temporal,
   title={Temporal Patterns of Multiple Long-Term Conditions in Welsh Individuals with Intellectual Disabilities: An Unsupervised Clustering Approach to Disease Trajectories},
-  author={Kousovista, Rania and Cosma, Georgina and Abakasanga, Emmanuel and Akbari, Ashley and Zaccardi, Francesco and Jun, Gyuchan Thomas and Kiani, Reza and Gangadharan, Satheesh},
+  author={Kousovista, Rania and Cosma, Georgina and Abakasanga, Emeka and Akbari, Ashley and Zaccardi, Francesco and Jun, Gyuchan Thomas and Kiani, Reza and Gangadharan, Satheesh},
   journal={Frontiers in Digital Health},
   volume={7},
   pages={1528882},
