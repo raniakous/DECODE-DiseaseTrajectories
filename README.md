@@ -71,8 +71,8 @@ Group similar trajectories together using network-based similarity:
 3. Generate similarity matrices between trajectories
 4. Determine optimal number of clusters using silhouette scores
 5. Perform spectral clustering to identify trajectory clusters
-![trajectory clusters](males.eps)
-![trajectory clusters](females.eps)
+![trajectory clusters](males.pdf)
+![trajectory clusters](females.pdf)
 
 ### 4. Visualization
 
