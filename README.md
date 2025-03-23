@@ -4,7 +4,7 @@
 
 DECODE-DiseaseTrajectories is a Python package that provides a framework to analyse temporal associations between disease pairs and disease trajectories from Electronic Health Records. It identifies statistically significant disease pairs and determines their temporal directionality through statistical testing. The package then constructs disease trajectories by connecting these significant pairs in sequence and employs a shortest-path graph-based clustering method to group similar disease patterns. 
 
-The methodology was presented in the article *"Temporal Patterns of Multiple Long-Term Conditions in Welsh Individuals with Intellectual Disabilities: An Unsupervised Clustering Approach to Disease Trajectories"*. This repository also provides code to reproduce the experiments and visualisations there. If you use this code, please cite the paper:
+The methodology was presented in the article [*"Temporal Patterns of Multiple Long-Term Conditions in Welsh Individuals with Intellectual Disabilities: An Unsupervised Clustering Approach to Disease Trajectories"*](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1528882/abstract). This repository also provides code to reproduce the experiments and visualisations there. If you use this code, please cite the paper:
 
 Kousovista, R., Cosma, G., Abakasanga, E., Akbari, A., Zaccardi, F., Jun, G. T., Kiani R. & Gangadharan, S. (2025). Temporal Patterns of Multiple Long-Term Conditions in Welsh Individuals with Intellectual Disabilities: An Unsupervised Clustering Approach to Disease Trajectories. *Frontiers in Digital Health*, 7, 1528882.
 
@@ -89,7 +89,7 @@ Group similar trajectories together using network-based similarity:
 
 Several visualization methods are available:
 
-- Disease pair networks (coloured by body system)
+- Disease pair networks (coloured by system category)
 - Cluster-specific network visualizations
 - Interactive network graphs of disease relationships
 
