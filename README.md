@@ -21,13 +21,9 @@ Kousovista, R., Cosma, G., Abakasanga, E., Akbari, A., Zaccardi, F., Jun, G. T.,
 
 ## Installation
 
-### Using pip
-
 ```bash
 pip install DECODE-DiseaseTrajectories
 ```
-
-### From source
 
 ```bash
 git clone https://github.com/raniakous/DECODE-DiseaseTrajectories.git
