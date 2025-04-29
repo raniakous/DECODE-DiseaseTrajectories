@@ -402,9 +402,9 @@ class TemporalPairs:
 
         Identifies significant disease pairs and determines directionality.
         """
-        self.fisher_stats["Fisher_p_value"] = self.fisher_stats["Fisher_p_value"].apply(
-            lambda x: x / 10000
-        )
+        # self.fisher_stats["Fisher_p_value"] = self.fisher_stats["Fisher_p_value"].apply(
+        #     lambda x: x / 10000
+        # )
         # Skip if Fisher stats are not available
         if not hasattr(self, "fisher_stats") or self.fisher_stats.empty:
             self.filtered_stats = pd.DataFrame()
