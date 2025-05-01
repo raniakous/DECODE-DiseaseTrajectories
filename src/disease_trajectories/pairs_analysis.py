@@ -33,16 +33,22 @@ class TemporalPairs:
             subset=["patient_id", "disease"], keep="first"
         ).reset_index(drop=True)
 
-        # Set up directory for intermediate text files
-        self.txt_directory = os.path.join(
-            os.path.dirname(
-                os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-            ),
-            "txt_files",
-        )
-
+        # This gets the current working directory — where the script is run
+        base_dir = os.getcwd()
+        # Define the txt_files path
+        self.txt_directory = os.path.join(base_dir, "txt_files")
         # Create txt_files directory if it doesn't exist
         os.makedirs(self.txt_directory, exist_ok=True)
+# # Set up directory for intermediate text files
+        # self.txt_directory = os.path.join(
+        #     os.path.dirname(
+        #         os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        #     ),
+        #     "txt_files",
+        # )
+
+        # # Create txt_files directory if it doesn't exist
+        # os.makedirs(self.txt_directory, exist_ok=True)
 
         # Initialize data structures
         self.disease_pairs_df2 = None
