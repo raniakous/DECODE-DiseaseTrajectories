@@ -14,7 +14,7 @@ from scipy.interpolate import splprep, splev
 from matplotlib.patches import FancyArrowPatch, Patch, Circle
 import matplotlib.path as mpath
 from matplotlib.lines import Line2D
-from utils import systems_colors, system_mapping
+from .utils import systems_colors, system_mapping
 
 
 class ShortestPath:
