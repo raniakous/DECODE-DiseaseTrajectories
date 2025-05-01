@@ -7,7 +7,7 @@ from scipy.stats import fisher_exact, binomtest
 import matplotlib.pyplot as plt
 import seaborn as sns
 import networkx as nx
-from utils import systems_colors, system_mapping
+from .utils import systems_colors, system_mapping
 
 
 class TemporalPairs:
