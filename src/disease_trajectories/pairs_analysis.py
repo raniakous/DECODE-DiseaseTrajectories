@@ -508,15 +508,115 @@ class TemporalPairs:
             .reset_index(drop=True)
         )
 
+    # def get_trajectories(self, max_length=4):
+    #     """
+    #     Generate disease trajectories from significant pairs.
+
+    #     Parameters:
+    #     -----------
+    #     max_length : int, default=4
+    #         Maximum length of trajectories to generate
+    #     """
+    #     # Skip if no final pairs are available
+    #     if not hasattr(self, "final_pairs_df") or self.final_pairs_df.empty:
+    #         self.trajectories_df_length_3 = pd.DataFrame()
+    #         self.trajectories_df_length_4 = pd.DataFrame()
+    #         return
+
+    #     # Extract disease pairs
+    #     pairs = list(
+    #         zip(self.final_pairs_df["Condition1"], self.final_pairs_df["Condition2"])
+    #     )
+    #     pair_set = set(pairs)
+
+    #     # Initialize with length-2 trajectories (pairs)
+    #     trajectories = []
+    #     for pair in pairs:
+    #         trajectories.append((pair[0], pair[1]))
+
+    #     # Build longer trajectories
+    #     for length in range(3, max_length + 1):
+    #         new_trajectories = []
+    #         for trajectory in trajectories:
+    #             if len(trajectory) == length - 1:
+    #                 last_event = trajectory[-1]
+    #                 for pair in pair_set:
+    #                     if pair[0] == last_event:
+    #                         # Create new trajectory by appending second disease from matching pair
+    #                         new_trajectory = trajectory + (pair[1],)
+    #                         # Check for uniqueness (no repeated conditions)
+    #                         if len(set(new_trajectory)) == len(new_trajectory):
+    #                             new_trajectories.append(new_trajectory)
+
+    #         trajectories.extend(new_trajectories)
+
+    #     # Create DataFrame for length 3 trajectories
+    #     length_3_trajectories = [t for t in trajectories if len(t) == 3]
+    #     if length_3_trajectories:
+    #         self.trajectories_df_length_3 = pd.DataFrame(
+    #             length_3_trajectories,
+    #             columns=["Condition 1", "Condition 2", "Condition 3"],
+    #         )
+    #         self.trajectories_df_length_3.insert(0, "Length", 3)
+    #     else:
+    #         self.trajectories_df_length_3 = pd.DataFrame(
+    #             columns=["Length", "Condition 1", "Condition 2", "Condition 3"]
+    #         )
+
+    #     # Create DataFrame for length 4 trajectories
+    #     length_4_trajectories = [t for t in trajectories if len(t) == 4]
+    #     if length_4_trajectories:
+    #         self.trajectories_df_length_4 = pd.DataFrame(
+    #             length_4_trajectories,
+    #             columns=["Condition 1", "Condition 2", "Condition 3", "Condition 4"],
+    #         )
+    #         self.trajectories_df_length_4.insert(0, "Length", 4)
+    #     else:
+    #         self.trajectories_df_length_4 = pd.DataFrame(
+    #             columns=[
+    #                 "Length",
+    #                 "Condition 1",
+    #                 "Condition 2",
+    #                 "Condition 3",
+    #                 "Condition 4",
+    #             ]
+    #         )
+
     def get_trajectories(self, max_length=4):
         """
-        Generate disease trajectories from significant pairs.
+        Generate disease trajectories from significant pairs and count patients.
 
         Parameters:
         -----------
         max_length : int, default=4
-            Maximum length of trajectories to generate
+            Maximum length of trajectories to generate.
         """
+        import pandas as pd
+
+        # Helper: count patients for each trajectory
+        def count_patients_for_each_trajectory(condition_df, trajectories_df):
+            # Use the correct condition column: 'CONDITION' or 'disease'
+            condition_col = 'CONDITION' if 'CONDITION' in condition_df.columns else 'disease'
+
+            patient_sequences = (
+                condition_df.sort_values(['patient_id', 'date'])
+                            .groupby('patient_id')[condition_col]
+                            .apply(list)
+            )
+
+            trajectory_counts = {tuple(row[1:]): 0 for _, row in trajectories_df.iterrows()}
+
+            def is_subsequence(main_sequence, sub_sequence):
+                it = iter(main_sequence)
+                return all(any(cond == x for x in it) for cond in sub_sequence)
+
+            for sequence in patient_sequences:
+                for trajectory in trajectory_counts:
+                    if is_subsequence(sequence, trajectory):
+                        trajectory_counts[trajectory] += 1
+
+            return trajectory_counts
+
         # Skip if no final pairs are available
         if not hasattr(self, "final_pairs_df") or self.final_pairs_df.empty:
             self.trajectories_df_length_3 = pd.DataFrame()
@@ -524,63 +624,41 @@ class TemporalPairs:
             return
 
         # Extract disease pairs
-        pairs = list(
-            zip(self.final_pairs_df["Condition1"], self.final_pairs_df["Condition2"])
-        )
+        pairs = list(zip(self.final_pairs_df["Condition1"], self.final_pairs_df["Condition2"]))
         pair_set = set(pairs)
 
-        # Initialize with length-2 trajectories (pairs)
-        trajectories = []
-        for pair in pairs:
-            trajectories.append((pair[0], pair[1]))
+        # Initialize with length-2 trajectories
+        trajectories = [pair for pair in pairs]
 
         # Build longer trajectories
         for length in range(3, max_length + 1):
             new_trajectories = []
-            for trajectory in trajectories:
-                if len(trajectory) == length - 1:
-                    last_event = trajectory[-1]
+            for traj in trajectories:
+                if len(traj) == length - 1:
+                    last_event = traj[-1]
                     for pair in pair_set:
                         if pair[0] == last_event:
-                            # Create new trajectory by appending second disease from matching pair
-                            new_trajectory = trajectory + (pair[1],)
-                            # Check for uniqueness (no repeated conditions)
-                            if len(set(new_trajectory)) == len(new_trajectory):
-                                new_trajectories.append(new_trajectory)
-
+                            new_traj = traj + (pair[1],)
+                            if len(set(new_traj)) == len(new_traj):  # no repeats
+                                new_trajectories.append(new_traj)
             trajectories.extend(new_trajectories)
 
-        # Create DataFrame for length 3 trajectories
-        length_3_trajectories = [t for t in trajectories if len(t) == 3]
-        if length_3_trajectories:
-            self.trajectories_df_length_3 = pd.DataFrame(
-                length_3_trajectories,
-                columns=["Condition 1", "Condition 2", "Condition 3"],
-            )
-            self.trajectories_df_length_3.insert(0, "Length", 3)
-        else:
-            self.trajectories_df_length_3 = pd.DataFrame(
-                columns=["Length", "Condition 1", "Condition 2", "Condition 3"]
-            )
+        # Generate and count each trajectory length
+        for length in range(3, max_length + 1):
+            length_trajs = [t for t in trajectories if len(t) == length]
+            if length_trajs:
+                cols = [f"Condition {i+1}" for i in range(length)]
+                df = pd.DataFrame(length_trajs, columns=cols)
+                df.insert(0, "Length", length)
 
-        # Create DataFrame for length 4 trajectories
-        length_4_trajectories = [t for t in trajectories if len(t) == 4]
-        if length_4_trajectories:
-            self.trajectories_df_length_4 = pd.DataFrame(
-                length_4_trajectories,
-                columns=["Condition 1", "Condition 2", "Condition 3", "Condition 4"],
-            )
-            self.trajectories_df_length_4.insert(0, "Length", 4)
-        else:
-            self.trajectories_df_length_4 = pd.DataFrame(
-                columns=[
-                    "Length",
-                    "Condition 1",
-                    "Condition 2",
-                    "Condition 3",
-                    "Condition 4",
-                ]
-            )
+                # Count patients
+                counts = count_patients_for_each_trajectory(self.condition_df, df)
+                df["NPatients"] = df.apply(lambda row: counts[tuple(row[1:length+1])], axis=1)
+
+                setattr(self, f"trajectories_df_length_{length}", df)
+            else:
+                empty_cols = ["Length"] + [f"Condition {i+1}" for i in range(length)] + ["NPatients"]
+                setattr(self, f"trajectories_df_length_{length}", pd.DataFrame(columns=empty_cols))
 
     def calculate_condition_counts(self):
         """
